@@ -1,0 +1,258 @@
+SMART FITNESS JOURNAL — PORTFOLIO IMAGE AUDIT / PASS 1
+
+Scope: 250 article cover images
+Goal: remove semantically mismatched visuals while preserving the existing high-quality visual library.
+
+Changed: 250/250 article covers
+All selected images are existing assets from the project; no stock images were added.
+
+001 | Персональный фитнес-тренер | ../assets/articles/001.webp -> ../assets/articles/001.webp
+002 | Персональный фитнес-тренер | ../assets/articles/002.webp -> ../assets/articles/002.webp
+003 | Персональный фитнес-тренер | ../assets/articles/003.webp -> ../assets/articles/003.webp
+004 | Персональный фитнес-тренер | ../assets/articles/004.webp -> ../assets/articles/004.webp
+005 | Персональный фитнес-тренер | ../assets/articles/009.webp -> ../assets/articles/009.webp
+006 | Инструктор групповых программ | ../assets/articles/006.webp -> ../assets/articles/006.webp
+007 | Инструктор групповых программ | ../assets/articles/007.webp -> ../assets/articles/007.webp
+008 | Инструктор групповых программ | ../assets/articles/008.webp -> ../assets/articles/008.webp
+009 | Инструктор групповых программ | ../assets/articles/009.webp -> ../assets/articles/009.webp
+010 | Инструктор групповых программ | ../assets/articles/010.webp -> ../assets/articles/010.webp
+011 | Инструктор тренажёрного зала | ../assets/articles/011.webp -> ../assets/articles/011.webp
+012 | Инструктор тренажёрного зала | ../assets/articles/012.webp -> ../assets/articles/012.webp
+013 | Инструктор тренажёрного зала | ../assets/articles/013.webp -> ../assets/articles/013.webp
+014 | Инструктор тренажёрного зала | ../assets/articles/014.webp -> ../assets/articles/014.webp
+015 | Инструктор тренажёрного зала | ../assets/articles/015.webp -> ../assets/articles/015.webp
+016 | Инструктор по функциональному тренингу | ../assets/articles/016.webp -> ../assets/articles/016.webp
+017 | Инструктор по функциональному тренингу | ../assets/articles/017.webp -> ../assets/articles/017.webp
+018 | Инструктор по функциональному тренингу | ../assets/articles/018.webp -> ../assets/articles/018.webp
+019 | Инструктор по функциональному тренингу | ../assets/articles/019.webp -> ../assets/articles/019.webp
+020 | Инструктор по функциональному тренингу | ../assets/articles/020.webp -> ../assets/articles/020.webp
+021 | Преподаватель йоги | ../assets/articles/021.webp -> ../assets/articles/021.webp
+022 | Преподаватель йоги | ../assets/articles/022.webp -> ../assets/articles/022.webp
+023 | Преподаватель йоги | ../assets/articles/023.webp -> ../assets/articles/023.webp
+024 | Преподаватель йоги | ../assets/articles/024.webp -> ../assets/articles/024.webp
+025 | Преподаватель йоги | ../assets/articles/025.webp -> ../assets/articles/025.webp
+026 | Инструктор по аэройоге | ../assets/articles/036.webp -> ../assets/articles/036.webp
+027 | Инструктор по аэройоге | ../assets/articles/037.webp -> ../assets/articles/037.webp
+028 | Инструктор по аэройоге | ../assets/articles/038.webp -> ../assets/articles/038.webp
+029 | Инструктор по аэройоге | ../assets/articles/039.webp -> ../assets/articles/039.webp
+030 | Инструктор по аэройоге | ../assets/articles/040.webp -> ../assets/articles/040.webp
+031 | Инструктор по пилатесу | ../assets/articles/031.webp -> ../assets/articles/031.webp
+032 | Инструктор по пилатесу | ../assets/articles/032.webp -> ../assets/articles/032.webp
+033 | Инструктор по пилатесу | ../assets/articles/033.webp -> ../assets/articles/033.webp
+034 | Инструктор по пилатесу | ../assets/articles/034.webp -> ../assets/articles/034.webp
+035 | Инструктор по пилатесу | ../assets/articles/035.webp -> ../assets/articles/035.webp
+036 | Инструктор по стретчингу | ../assets/articles/stretch-036.webp -> ../assets/articles/stretch-036.webp
+037 | Инструктор по стретчингу | ../assets/articles/stretch-037.webp -> ../assets/articles/stretch-037.webp
+038 | Инструктор по стретчингу | ../assets/articles/stretch-038.webp -> ../assets/articles/stretch-038.webp
+039 | Инструктор по стретчингу | ../assets/articles/stretch-039.webp -> ../assets/articles/stretch-039.webp
+040 | Инструктор по стретчингу | ../assets/articles/stretch-040.webp -> ../assets/articles/stretch-040.webp
+041 | Инструктор по зумбе | ../assets/articles/051.webp -> ../assets/articles/051.webp
+042 | Инструктор по зумбе | ../assets/articles/052.webp -> ../assets/articles/052.webp
+043 | Инструктор по зумбе | ../assets/articles/053.webp -> ../assets/articles/053.webp
+044 | Инструктор по зумбе | ../assets/articles/054.webp -> ../assets/articles/054.webp
+045 | Инструктор по зумбе | ../assets/articles/055.webp -> ../assets/articles/055.webp
+046 | Инструктор по бачате | ../assets/articles/056.webp -> ../assets/articles/056.webp
+047 | Инструктор по бачате | ../assets/articles/057.webp -> ../assets/articles/057.webp
+048 | Инструктор по бачате | ../assets/articles/058.webp -> ../assets/articles/058.webp
+049 | Инструктор по бачате | ../assets/articles/059.webp -> ../assets/articles/059.webp
+050 | Инструктор по бачате | ../assets/articles/060.webp -> ../assets/articles/060.webp
+051 | Тренер-хореограф | ../assets/articles/166.webp -> ../assets/articles/166.webp
+052 | Тренер-хореограф | ../assets/articles/167.webp -> ../assets/articles/167.webp
+053 | Тренер-хореограф | ../assets/articles/168.webp -> ../assets/articles/168.webp
+054 | Тренер-хореограф | ../assets/articles/169.webp -> ../assets/articles/169.webp
+055 | Тренер-хореограф | ../assets/articles/170.webp -> ../assets/articles/170.webp
+056 | Инструктор по аквааэробике | ../assets/articles/061.webp -> ../assets/articles/061.webp
+057 | Инструктор по аквааэробике | ../assets/articles/062.webp -> ../assets/articles/062.webp
+058 | Инструктор по аквааэробике | ../assets/articles/063.webp -> ../assets/articles/063.webp
+059 | Инструктор по аквааэробике | ../assets/articles/064.webp -> ../assets/articles/064.webp
+060 | Инструктор по аквааэробике | ../assets/articles/065.webp -> ../assets/articles/065.webp
+061 | Инструктор детского фитнеса | ../assets/articles/071.webp -> ../assets/articles/071.webp
+062 | Инструктор детского фитнеса | ../assets/articles/072.webp -> ../assets/articles/072.webp
+063 | Инструктор детского фитнеса | ../assets/articles/073.webp -> ../assets/articles/073.webp
+064 | Инструктор детского фитнеса | ../assets/articles/074.webp -> ../assets/articles/074.webp
+065 | Инструктор детского фитнеса | ../assets/articles/075.webp -> ../assets/articles/075.webp
+066 | Фитнес-тренер для пожилых | ../assets/articles/092.webp -> ../assets/articles/092.webp
+067 | Фитнес-тренер для пожилых | ../assets/articles/129.webp -> ../assets/articles/129.webp
+068 | Фитнес-тренер для пожилых | ../assets/articles/130.webp -> ../assets/articles/130.webp
+069 | Фитнес-тренер для пожилых | ../assets/articles/131.webp -> ../assets/articles/131.webp
+070 | Фитнес-тренер для пожилых | ../assets/articles/095.webp -> ../assets/articles/095.webp
+071 | Фитнес-тренер для беременных | ../assets/articles/046.webp -> ../assets/articles/046.webp
+072 | Фитнес-тренер для беременных | ../assets/articles/047.webp -> ../assets/articles/047.webp
+073 | Фитнес-тренер для беременных | ../assets/articles/048.webp -> ../assets/articles/048.webp
+074 | Фитнес-тренер для беременных | ../assets/articles/049.webp -> ../assets/articles/049.webp
+075 | Фитнес-тренер для беременных | ../assets/articles/050.webp -> ../assets/articles/050.webp
+076 | Инструктор по кинезитерапии и ЛФК | ../assets/articles/lfk-76.webp -> ../assets/articles/lfk-76.webp
+077 | Инструктор по кинезитерапии и ЛФК | ../assets/articles/lfk-77.webp -> ../assets/articles/lfk-77.webp
+078 | Инструктор по кинезитерапии и ЛФК | ../assets/articles/lfk-78.webp -> ../assets/articles/lfk-78.webp
+079 | Инструктор по кинезитерапии и ЛФК | ../assets/articles/lfk-79.webp -> ../assets/articles/lfk-79.webp
+080 | Инструктор по кинезитерапии и ЛФК | ../assets/articles/lfk-80.webp -> ../assets/articles/lfk-80.webp
+081 | Реабилитационный фитнес суставов | ../assets/articles/121.webp -> ../assets/articles/121.webp
+082 | Реабилитационный фитнес суставов | ../assets/articles/122.webp -> ../assets/articles/122.webp
+083 | Реабилитационный фитнес суставов | ../assets/articles/124.webp -> ../assets/articles/124.webp
+084 | Реабилитационный фитнес суставов | ../assets/articles/125.webp -> ../assets/articles/125.webp
+085 | Реабилитационный фитнес суставов | ../assets/articles/127.webp -> ../assets/articles/127.webp
+086 | Тазовое дно — курс Smart Fitness | ../assets/articles/113.webp -> ../assets/articles/113.webp
+087 | Тазовое дно — курс Smart Fitness | ../assets/articles/116.webp -> ../assets/articles/116.webp
+088 | Тазовое дно — курс Smart Fitness | ../assets/articles/122.webp -> ../assets/articles/122.webp
+089 | Тазовое дно — курс Smart Fitness | ../assets/articles/125.webp -> ../assets/articles/125.webp
+090 | Тазовое дно — курс Smart Fitness | ../assets/articles/134.webp -> ../assets/articles/134.webp
+091 | Инструктор МФР | ../assets/articles/113.webp -> ../assets/articles/113.webp
+092 | Инструктор МФР | ../assets/articles/114.webp -> ../assets/articles/114.webp
+093 | Инструктор МФР | ../assets/articles/118.webp -> ../assets/articles/118.webp
+094 | Инструктор МФР | ../assets/articles/119.webp -> ../assets/articles/119.webp
+095 | Инструктор МФР | ../assets/articles/127.webp -> ../assets/articles/127.webp
+096 | Массажист | ../assets/articles/massage-096.webp -> ../assets/articles/massage-096.webp
+097 | Массажист | ../assets/articles/massage-097.webp -> ../assets/articles/massage-097.webp
+098 | Массажист | ../assets/articles/massage-098.webp -> ../assets/articles/massage-098.webp
+099 | Массажист | ../assets/articles/massage-099.webp -> ../assets/articles/massage-099.webp
+100 | Массажист | ../assets/articles/massage-100.webp -> ../assets/articles/massage-100.webp
+101 | Face Fitness — курс Smart Fitness | ../assets/articles/156.webp -> ../assets/articles/156.webp
+102 | Face Fitness — курс Smart Fitness | ../assets/articles/157.webp -> ../assets/articles/157.webp
+103 | Face Fitness — курс Smart Fitness | ../assets/articles/158.webp -> ../assets/articles/158.webp
+104 | Face Fitness — курс Smart Fitness | ../assets/articles/159.webp -> ../assets/articles/159.webp
+105 | Face Fitness — курс Smart Fitness | ../assets/articles/160.webp -> ../assets/articles/160.webp
+106 | Велнес-тренер | ../assets/articles/106.webp -> ../assets/articles/106.webp
+107 | Велнес-тренер | ../assets/articles/107.webp -> ../assets/articles/107.webp
+108 | Велнес-тренер | ../assets/articles/108.webp -> ../assets/articles/108.webp
+109 | Велнес-тренер | ../assets/articles/109.webp -> ../assets/articles/109.webp
+110 | Велнес-тренер | ../assets/articles/110.webp -> ../assets/articles/110.webp
+111 | Онлайн-сопровождение клиентов | ../assets/articles/generated-p01.webp -> ../assets/articles/generated-p01.webp
+112 | Онлайн-сопровождение клиентов | ../assets/articles/generated-p02.webp -> ../assets/articles/generated-p02.webp
+113 | Онлайн-сопровождение клиентов | ../assets/articles/generated-p03.webp -> ../assets/articles/generated-p03.webp
+114 | Онлайн-сопровождение клиентов | ../assets/articles/generated-p04.webp -> ../assets/articles/generated-p04.webp
+115 | Онлайн-сопровождение клиентов | ../assets/articles/generated-p05.webp -> ../assets/articles/generated-p05.webp
+116 | Нутрициолог | ../assets/articles/nutrition-116.webp -> ../assets/articles/nutrition-116.webp
+117 | Нутрициолог | ../assets/articles/nutrition-117.webp -> ../assets/articles/nutrition-117.webp
+118 | Нутрициолог | ../assets/articles/nutrition-118.webp -> ../assets/articles/nutrition-118.webp
+119 | Нутрициолог | ../assets/articles/nutrition-119.webp -> ../assets/articles/nutrition-119.webp
+120 | Нутрициолог | ../assets/articles/nutrition-120.webp -> ../assets/articles/nutrition-120.webp
+121 | Тренер 200+ | ../assets/articles/191.webp -> ../assets/articles/191.webp
+122 | Тренер 200+ | ../assets/articles/192.webp -> ../assets/articles/192.webp
+123 | Тренер 200+ | ../assets/articles/193.webp -> ../assets/articles/193.webp
+124 | Тренер 200+ | ../assets/articles/195.webp -> ../assets/articles/195.webp
+125 | Тренер 200+ | ../assets/articles/205.webp -> ../assets/articles/205.webp
+126 | Очное обучение | ../assets/articles/132.webp -> ../assets/articles/132.webp
+127 | Очное обучение | ../assets/articles/134.webp -> ../assets/articles/134.webp
+128 | Очное обучение | ../assets/articles/141.webp -> ../assets/articles/141.webp
+129 | Очное обучение | ../assets/articles/142.webp -> ../assets/articles/142.webp
+130 | Очное обучение | ../assets/articles/147.webp -> ../assets/articles/147.webp
+131 | Пробник «Как выйти в зал тренером» | ../assets/articles/218.webp -> ../assets/articles/218.webp
+132 | Пробник «Как выйти в зал тренером» | ../assets/articles/219.webp -> ../assets/articles/219.webp
+133 | Пробник «Как выйти в зал тренером» | ../assets/articles/220.webp -> ../assets/articles/220.webp
+134 | Пробник «Как выйти в зал тренером» | ../assets/articles/223.webp -> ../assets/articles/223.webp
+135 | Пробник «Как выйти в зал тренером» | ../assets/articles/224.webp -> ../assets/articles/224.webp
+136 | Пакеты обучения Smart Fitness | ../assets/articles/147.webp -> ../assets/articles/136.webp
+137 | Пакеты обучения Smart Fitness | ../assets/articles/149.webp -> ../assets/articles/137.webp
+138 | Пакеты обучения Smart Fitness | ../assets/articles/150.webp -> ../assets/articles/138.webp
+139 | Пакеты обучения Smart Fitness | ../assets/articles/190.webp -> ../assets/articles/139.webp
+140 | Пакеты обучения Smart Fitness | ../assets/articles/197.webp -> ../assets/articles/140.webp
+141 | Рассрочка на обучение | ../assets/articles/147.webp -> ../assets/articles/141.webp
+142 | Рассрочка на обучение | ../assets/articles/149.webp -> ../assets/articles/142.webp
+143 | Рассрочка на обучение | ../assets/articles/150.webp -> ../assets/articles/143.webp
+144 | Рассрочка на обучение | ../assets/articles/179.webp -> ../assets/articles/144.webp
+145 | Рассрочка на обучение | ../assets/articles/190.webp -> ../assets/articles/145.webp
+146 | FAQ об обучении | ../assets/articles/146.webp -> ../assets/articles/146.webp
+147 | FAQ об обучении | ../assets/articles/147.webp -> ../assets/articles/148.webp
+148 | FAQ об обучении | ../assets/articles/148.webp -> ../assets/articles/150.webp
+149 | FAQ об обучении | ../assets/articles/149.webp -> ../assets/articles/154.webp
+150 | FAQ об обучении | ../assets/articles/150.webp -> ../assets/articles/155.webp
+151 | Вакансии и работа | ../assets/articles/223.webp -> ../assets/articles/223.webp
+152 | Вакансии и работа | ../assets/articles/224.webp -> ../assets/articles/224.webp
+153 | Вакансии и работа | ../assets/articles/225.webp -> ../assets/articles/225.webp
+154 | Вакансии и работа | ../assets/articles/243.webp -> ../assets/articles/243.webp
+155 | Вакансии и работа | ../assets/articles/244.webp -> ../assets/articles/244.webp
+156 | Ресурсы тренера | ../assets/articles/201.webp -> ../assets/articles/201.webp
+157 | Ресурсы тренера | ../assets/articles/202.webp -> ../assets/articles/202.webp
+158 | Ресурсы тренера | ../assets/articles/203.webp -> ../assets/articles/203.webp
+159 | Ресурсы тренера | ../assets/articles/204.webp -> ../assets/articles/204.webp
+160 | Ресурсы тренера | ../assets/articles/205.webp -> ../assets/articles/205.webp
+161 | Партнёрская программа | ../assets/articles/205.webp -> ../assets/articles/205.webp
+162 | Партнёрская программа | ../assets/articles/208.webp -> ../assets/articles/208.webp
+163 | Партнёрская программа | ../assets/articles/209.webp -> ../assets/articles/209.webp
+164 | Партнёрская программа | ../assets/articles/210.webp -> ../assets/articles/210.webp
+165 | Партнёрская программа | ../assets/articles/211.webp -> ../assets/articles/211.webp
+166 | Продажи и личный бренд тренера | ../assets/articles/154.webp -> ../assets/articles/154.webp
+167 | Продажи и личный бренд тренера | ../assets/articles/155.webp -> ../assets/articles/155.webp
+168 | Продажи и личный бренд тренера | ../assets/articles/181.webp -> ../assets/articles/181.webp
+169 | Продажи и личный бренд тренера | ../assets/articles/185.webp -> ../assets/articles/185.webp
+170 | Продажи и личный бренд тренера | ../assets/articles/190.webp -> ../assets/articles/190.webp
+171 | Биохакинг для тренера | ../assets/articles/143.webp -> ../assets/articles/143.webp
+172 | Биохакинг для тренера | ../assets/articles/171-unique.webp -> ../assets/articles/171-unique.webp
+173 | Биохакинг для тренера | ../assets/articles/173-unique.webp -> ../assets/articles/173-unique.webp
+174 | Биохакинг для тренера | ../assets/articles/175-unique.webp -> ../assets/articles/175-unique.webp
+175 | Биохакинг для тренера | ../assets/articles/117.webp -> ../assets/articles/117.webp
+176 | Сопровождение Самата Назирова | ../assets/articles/176.webp -> ../assets/articles/176.webp
+177 | Сопровождение Самата Назирова | ../assets/articles/178.webp -> ../assets/articles/178.webp
+178 | Сопровождение Самата Назирова | ../assets/articles/179.webp -> ../assets/articles/179.webp
+179 | Сопровождение Самата Назирова | ../assets/articles/181.webp -> ../assets/articles/181.webp
+180 | Сопровождение Самата Назирова | ../assets/articles/185.webp -> ../assets/articles/185.webp
+181 | Консалтинг Smart Fitness | ../assets/articles/consulting-181.webp -> ../assets/articles/consulting-181.webp
+182 | Консалтинг Smart Fitness | ../assets/articles/consulting-182.webp -> ../assets/articles/consulting-182.webp
+183 | Консалтинг Smart Fitness | ../assets/articles/consulting-183.webp -> ../assets/articles/consulting-183.webp
+184 | Консалтинг Smart Fitness | ../assets/articles/consulting-184.webp -> ../assets/articles/consulting-184.webp
+185 | Консалтинг Smart Fitness | ../assets/articles/consulting-185.webp -> ../assets/articles/consulting-185.webp
+186 | Личная эффективность тренера | ../assets/articles/efficiency-186.webp -> ../assets/articles/efficiency-186.webp
+187 | Личная эффективность тренера | ../assets/articles/efficiency-187.webp -> ../assets/articles/efficiency-187.webp
+188 | Личная эффективность тренера | ../assets/articles/efficiency-188.webp -> ../assets/articles/efficiency-188.webp
+189 | Личная эффективность тренера | ../assets/articles/efficiency-189.webp -> ../assets/articles/efficiency-189.webp
+190 | Личная эффективность тренера | ../assets/articles/efficiency-190.webp -> ../assets/articles/efficiency-190.webp
+191 | Smart Fitness PRO | ../assets/articles/191.webp -> ../assets/articles/191.webp
+192 | Smart Fitness PRO | ../assets/articles/192.webp -> ../assets/articles/192.webp
+193 | Smart Fitness PRO | ../assets/articles/193.webp -> ../assets/articles/193.webp
+194 | Smart Fitness PRO | ../assets/articles/195.webp -> ../assets/articles/195.webp
+195 | Smart Fitness PRO | ../assets/articles/190.webp -> ../assets/articles/190.webp
+196 | Франшиза Smart Fitness | ../assets/articles/196-franchise-partner-new.webp -> ../assets/articles/196-franchise-partner-new.webp
+197 | Франшиза Smart Fitness | ../assets/articles/197.webp -> ../assets/articles/197.webp
+198 | Франшиза Smart Fitness | ../assets/articles/198.webp -> ../assets/articles/198.webp
+199 | Франшиза Smart Fitness | ../assets/articles/237.webp -> ../assets/articles/237.webp
+200 | Франшиза Smart Fitness | ../assets/articles/200-franchise-territory-new.webp -> ../assets/articles/200-franchise-territory-new.webp
+201 | Тренерка и рабочий кабинет | ../assets/articles/201.webp -> ../assets/articles/201.webp
+202 | Тренерка и рабочий кабинет | ../assets/articles/202.webp -> ../assets/articles/202.webp
+203 | Тренерка и рабочий кабинет | ../assets/articles/203.webp -> ../assets/articles/203.webp
+204 | Тренерка и рабочий кабинет | ../assets/articles/204.webp -> ../assets/articles/204.webp
+205 | Тренерка и рабочий кабинет | ../assets/articles/205.webp -> ../assets/articles/205.webp
+206 | Карта клубов и партнёры | ../assets/articles/206-clubs.webp -> ../assets/articles/206-clubs.webp
+207 | Карта клубов и партнёры | ../assets/articles/207-clubs.webp -> ../assets/articles/207-clubs.webp
+208 | Карта клубов и партнёры | ../assets/articles/208-clubs.webp -> ../assets/articles/208-clubs.webp
+209 | Карта клубов и партнёры | ../assets/articles/209-clubs.webp -> ../assets/articles/209-clubs.webp
+210 | Карта клубов и партнёры | ../assets/articles/210-clubs.webp -> ../assets/articles/210-clubs.webp
+211 | Калькулятор КБЖУ | ../assets/articles/nutrition-116.webp -> ../assets/articles/nutrition-116.webp
+212 | Калькулятор КБЖУ | ../assets/articles/nutrition-117.webp -> ../assets/articles/nutrition-117.webp
+213 | Калькулятор КБЖУ | ../assets/articles/nutrition-118.webp -> ../assets/articles/nutrition-118.webp
+214 | Калькулятор КБЖУ | ../assets/articles/nutrition-119.webp -> ../assets/articles/nutrition-119.webp
+215 | Калькулятор КБЖУ | ../assets/articles/nutrition-120.webp -> ../assets/articles/nutrition-120.webp
+216 | Калькулятор 1ПМ | ../assets/articles/013.webp -> ../assets/articles/013.webp
+217 | Калькулятор 1ПМ | ../assets/articles/016.webp -> ../assets/articles/016.webp
+218 | Калькулятор 1ПМ | ../assets/articles/017.webp -> ../assets/articles/017.webp
+219 | Калькулятор 1ПМ | ../assets/articles/018.webp -> ../assets/articles/018.webp
+220 | Калькулятор 1ПМ | ../assets/articles/193.webp -> ../assets/articles/193.webp
+221 | Техника базовых упражнений | ../assets/articles/007.webp -> ../assets/articles/007.webp
+222 | Техника базовых упражнений | ../assets/articles/013.webp -> ../assets/articles/013.webp
+223 | Техника базовых упражнений | ../assets/articles/017.webp -> ../assets/articles/017.webp
+224 | Техника базовых упражнений | ../assets/articles/019.webp -> ../assets/articles/019.webp
+225 | Техника базовых упражнений | ../assets/articles/222.webp -> ../assets/articles/222.webp
+226 | Корпоративное обучение | ../assets/articles/corp-training-226.webp -> ../assets/articles/corp-training-226.webp
+227 | Корпоративное обучение | ../assets/articles/corp-training-227.webp -> ../assets/articles/corp-training-227.webp
+228 | Корпоративное обучение | ../assets/articles/corp-training-228.webp -> ../assets/articles/corp-training-228.webp
+229 | Корпоративное обучение | ../assets/articles/corp-training-229.webp -> ../assets/articles/corp-training-229.webp
+230 | Корпоративное обучение | ../assets/articles/corp-training-230.webp -> ../assets/articles/corp-training-230.webp
+231 | Корпоративный спорт | ../assets/articles/corp-sport-231.webp -> ../assets/articles/corp-sport-231.webp
+232 | Корпоративный спорт | ../assets/articles/corp-sport-232.webp -> ../assets/articles/corp-sport-232.webp
+233 | Корпоративный спорт | ../assets/articles/corp-sport-233.webp -> ../assets/articles/corp-sport-233.webp
+234 | Корпоративный спорт | ../assets/articles/corp-sport-234.webp -> ../assets/articles/corp-sport-234.webp
+235 | Корпоративный спорт | ../assets/articles/corp-sport-235.webp -> ../assets/articles/corp-sport-235.webp
+236 | Документы и лицензия | ../assets/articles/141.webp -> ../assets/articles/236-unique.webp
+237 | Документы и лицензия | ../assets/articles/142.webp -> ../assets/articles/237-unique.webp
+238 | Документы и лицензия | ../assets/articles/147.webp -> ../assets/articles/238-unique.webp
+239 | Документы и лицензия | ../assets/articles/149.webp -> ../assets/articles/239-unique.webp
+240 | Документы и лицензия | ../assets/articles/236-unique.webp -> ../assets/articles/240-unique.webp
+241 | Трудоустройство после обучения | ../assets/articles/223.webp -> ../assets/articles/223.webp
+242 | Трудоустройство после обучения | ../assets/articles/224.webp -> ../assets/articles/224.webp
+243 | Трудоустройство после обучения | ../assets/articles/225.webp -> ../assets/articles/225.webp
+244 | Трудоустройство после обучения | ../assets/articles/243.webp -> ../assets/articles/243.webp
+245 | Трудоустройство после обучения | ../assets/articles/244.webp -> ../assets/articles/244.webp
+246 | Региональный лидер Smart Fitness | ../assets/articles/corp-training-226.webp -> ../assets/articles/corp-training-226.webp
+247 | Региональный лидер Smart Fitness | ../assets/articles/corp-training-227.webp -> ../assets/articles/corp-training-227.webp
+248 | Региональный лидер Smart Fitness | ../assets/articles/corp-training-228.webp -> ../assets/articles/corp-training-228.webp
+249 | Региональный лидер Smart Fitness | ../assets/articles/corp-training-229.webp -> ../assets/articles/corp-training-229.webp
+250 | Региональный лидер Smart Fitness | ../assets/articles/corp-training-230.webp -> ../assets/articles/corp-training-230.webp

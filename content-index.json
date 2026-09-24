@@ -1,0 +1,2252 @@
+[
+  {
+    "id": 1,
+    "title": "Как провести первичную встречу с клиентом: что выяснить до первой тренировки",
+    "direction": "Персональный фитнес-тренер",
+    "direction_slug": "personalnyj-fitnes-trener",
+    "slot": 1,
+    "url": "/blog/articles/001-kak-provesti-pervichnuyu-vstrechu-s-klientom-chto-vyyasnit-do-pervoj-trenirovki.html",
+    "description": "Клиент приходит на первую встречу и говорит: «Хочу похудеть и привести себя в форму». Тренер начинает рассказывать про питание, кардио и силовые, а через двадцать…"
+  },
+  {
+    "id": 2,
+    "title": "Как составить первую программу для новичка без тренировочного опыта",
+    "direction": "Персональный фитнес-тренер",
+    "direction_slug": "personalnyj-fitnes-trener",
+    "slot": 2,
+    "url": "/blog/articles/002-kak-sostavit-pervuyu-programmu-dlya-novichka-bez-trenirovochnogo-opyta.html",
+    "description": "Денис, 28 лет, сидячая работа, до этого не тренировался нигде — ни в школе, ни в вузе. Первая тренировка. Тренер даёт ему приседание с гантелью 8 кг и говорит:…"
+  },
+  {
+    "id": 3,
+    "title": "Как корректировать программу, если клиент перестал прогрессировать",
+    "direction": "Персональный фитнес-тренер",
+    "direction_slug": "personalnyj-fitnes-trener",
+    "slot": 3,
+    "url": "/blog/articles/003-kak-korrektirovat-programmu-esli-klient-perestal-progressirovat.html",
+    "description": "У клиента третий месяц стоит одна и та же цифра в рабочих весах. Тренер уже добавил подход, поменял упражнения и сократил отдых. Ничего не изменилось. В такой…"
+  },
+  {
+    "id": 4,
+    "title": "Как отслеживать прогресс клиента: какие показатели действительно фиксировать",
+    "direction": "Персональный фитнес-тренер",
+    "direction_slug": "personalnyj-fitnes-trener",
+    "slot": 4,
+    "url": "/blog/articles/004-kak-otslezhivat-progress-klienta-kakie-pokazateli-dejstvitelno-fiksirovat.html",
+    "description": "Тренер может записывать всё: вес, обхваты, фото, шаги, сон, количество тренировок, рабочие веса, настроение и ещё десяток показателей. Через месяц у него будет…"
+  },
+  {
+    "id": 5,
+    "title": "Как выстроить сопровождение клиента между тренировками",
+    "direction": "Персональный фитнес-тренер",
+    "direction_slug": "personalnyj-fitnes-trener",
+    "slot": 5,
+    "url": "/blog/articles/005-kak-vystroit-soprovozhdenie-klienta-mezhdu-trenirovkami.html",
+    "description": "Клиентка написала в среду вечером: «После последней тренировки болит плечо, когда поднимаю руку вверх. Что делать?» Тренер увидел сообщение в четверг утром, ответил в…"
+  },
+  {
+    "id": 6,
+    "title": "Как построить первое групповое занятие: сценарий от входа группы до заминки",
+    "direction": "Инструктор групповых программ",
+    "direction_slug": "instruktor-gruppovyh-programm",
+    "slot": 1,
+    "url": "/blog/articles/006-kak-postroit-pervoe-gruppovoe-zanyatie-scenarij-ot-vhoda-gruppy-do-zaminki.html",
+    "description": "Первый раз ведёт группу. Двадцать человек, зал незнакомый, колонка играет громче, чем он ожидал. Он начинает разминку с размаха: руки в стороны, круговые движения,…"
+  },
+  {
+    "id": 7,
+    "title": "Как вести группу разного уровня подготовки без потери темпа",
+    "direction": "Инструктор групповых программ",
+    "direction_slug": "instruktor-gruppovyh-programm",
+    "slot": 2,
+    "url": "/blog/articles/007-kak-vesti-gruppu-raznogo-urovnya-podgotovki-bez-poteri-tempa.html",
+    "description": "Смешанная группа — не исключение, а норма. Двадцать человек, из них трое ходят третий год, пятеро — первый месяц, а остальные «средние». Инструктор ставит нагрузку…"
+  },
+  {
+    "id": 8,
+    "title": "Как объяснять упражнение группе, чтобы его поняли с первого раза",
+    "direction": "Инструктор групповых программ",
+    "direction_slug": "instruktor-gruppovyh-programm",
+    "slot": 3,
+    "url": "/blog/articles/008-kak-obyasnyat-uprazhnenie-gruppe-chtoby-ego-ponyali-s-pervogo-raza.html",
+    "description": "Инструктор встаёт перед группой и объясняет гоблет-присед: «Стопы на ширине плеч, носки чуть врозь, колени по направлению носков, таз назад, спина прямая, гантель у…"
+  },
+  {
+    "id": 9,
+    "title": "Как исправлять технику в группе и не останавливать всё занятие",
+    "direction": "Инструктор групповых программ",
+    "direction_slug": "instruktor-gruppovyh-programm",
+    "slot": 4,
+    "url": "/blog/articles/009-kak-ispravlyat-tehniku-v-gruppe-i-ne-ostanavlivat-vse-zanyatie.html",
+    "description": "На групповом занятии тренер замечает одну и ту же ошибку у нескольких участников. Можно остановить музыку, собрать всех и объяснять технику две минуты. Пока тренер…"
+  },
+  {
+    "id": 10,
+    "title": "Как анализировать занятие после класса и улучшать программу",
+    "direction": "Инструктор групповых программ",
+    "direction_slug": "instruktor-gruppovyh-programm",
+    "slot": 5,
+    "url": "/blog/articles/010-kak-analizirovat-zanyatie-posle-klassa-i-uluchshat-programmu.html",
+    "description": "После занятия инструктор часто помнит только самое заметное: кто опоздал, где музыка сбилась и кому пришлось объяснять связку второй раз. На следующем классе он снова…"
+  },
+  {
+    "id": 11,
+    "title": "Что проверить у новичка перед первой тренировкой в тренажёрном зале",
+    "direction": "Инструктор тренажёрного зала",
+    "direction_slug": "instruktor-trenazhernogo-zala",
+    "slot": 1,
+    "url": "/blog/articles/011-chto-proverit-u-novichka-pered-pervoj-trenirovkoj-v-trenazhernom-zale.html",
+    "description": "Мужчина 34 лет приходит в зал первый раз. Заполняет анкету зала — три строчки про давление и одну про операции. Всё чисто. Идёт на дорожку, десять минут разминки,…"
+  },
+  {
+    "id": 12,
+    "title": "Как объяснить технику базового упражнения на тренажёре",
+    "direction": "Инструктор тренажёрного зала",
+    "direction_slug": "instruktor-trenazhernogo-zala",
+    "slot": 2,
+    "url": "/blog/articles/012-kak-obyasnit-tehniku-bazovogo-uprazhneniya-na-trenazhere.html",
+    "description": "Новичок садится в тренажёр, получает объяснение из семи пунктов и кивает. Через десять секунд он уже забыл половину команд. На следующем повторе тренер снова…"
+  },
+  {
+    "id": 13,
+    "title": "Как составить безопасный маршрут новичка по залу на первую неделю",
+    "direction": "Инструктор тренажёрного зала",
+    "direction_slug": "instruktor-trenazhernogo-zala",
+    "slot": 3,
+    "url": "/blog/articles/013-kak-sostavit-bezopasnyj-marshrut-novichka-po-zalu-na-pervuyu-nedelyu.html",
+    "description": "Новичок заходит в зал и получает список из десяти тренажёров: дорожка, эллипс, жим ногами, тяга верхнего блока, тренажёр на грудь и ещё несколько. Через неделю он…"
+  },
+  {
+    "id": 14,
+    "title": "Как отличать ошибку техники от неподходящей нагрузки",
+    "direction": "Инструктор тренажёрного зала",
+    "direction_slug": "instruktor-trenazhernogo-zala",
+    "slot": 4,
+    "url": "/blog/articles/014-kak-otlichat-oshibku-tehniki-ot-nepodhodyashej-nagruzki.html",
+    "description": "Клиент делает жим ногами и говорит, что упражнение стало слишком тяжёлым. При этом вес тот же, амплитуда изменилась, а колени начали двигаться иначе. В такой ситуации…"
+  },
+  {
+    "id": 15,
+    "title": "Как инструктору тренажёрного зала переводить посетителя в системную практику",
+    "direction": "Инструктор тренажёрного зала",
+    "direction_slug": "instruktor-trenazhernogo-zala",
+    "slot": 5,
+    "url": "/blog/articles/015-kak-instruktoru-trenazhernogo-zala-perevodit-posetitelya-v-sistemnuyu-praktiku.html",
+    "description": "Посетитель приходит в зал третий раз за месяц. Каждый раз — новое: сегодня тренажёры на грудь, в прошлый раз — беговая дорожка, до этого — что-то с гантелями.…"
+  },
+  {
+    "id": 16,
+    "title": "Как подобрать функциональную нагрузку под уровень клиента",
+    "direction": "Инструктор по функциональному тренингу",
+    "direction_slug": "funkcionalnyj-trening",
+    "slot": 1,
+    "url": "/blog/articles/016-kak-podobrat-funkcionalnuyu-nagruzku-pod-uroven-klienta.html",
+    "description": "Клиент говорит: «Я могу тренироваться только два раза в неделю». У него нормальная общая выносливость, но после круговой тренировки техника распадается уже к середине…"
+  },
+  {
+    "id": 17,
+    "title": "Как построить функциональную тренировку: блоки, переходы и контроль интенсивности",
+    "direction": "Инструктор по функциональному тренингу",
+    "direction_slug": "funkcionalnyj-trening",
+    "slot": 2,
+    "url": "/blog/articles/017-kak-postroit-funkcionalnuyu-trenirovku-bloki-perehody-i-kontrol-intensivnosti.html",
+    "description": "Группа начинает функциональную тренировку бодро, но уже через десять минут переходы между упражнениями съедают время. Пока один участник убирает инвентарь, второй…"
+  },
+  {
+    "id": 18,
+    "title": "Как масштабировать одно упражнение для трёх уровней подготовки",
+    "direction": "Инструктор по функциональному тренингу",
+    "direction_slug": "funkcionalnyj-trening",
+    "slot": 3,
+    "url": "/blog/articles/018-kak-masshtabirovat-odno-uprazhnenie-dlya-treh-urovnej-podgotovki.html",
+    "description": "В группе из шести человек тренер даёт одно упражнение. Один участник легко выполняет десять повторений, второй начинает терять контроль после шестого, третий пока не…"
+  },
+  {
+    "id": 19,
+    "title": "Как разбирать ошибки в функциональной тренировке после занятия",
+    "direction": "Инструктор по функциональному тренингу",
+    "direction_slug": "funkcionalnyj-trening",
+    "slot": 4,
+    "url": "/blog/articles/019-kak-razbirat-oshibki-v-funkcionalnoj-trenirovke-posle-zanyatiya.html",
+    "description": "После функциональной тренировки тренер видит знакомую картину: один участник не удерживал технику, второй остановился раньше, третий прошёл весь блок без проблем. На…"
+  },
+  {
+    "id": 20,
+    "title": "Как включить функциональный тренинг в регулярную практику тренера",
+    "direction": "Инструктор по функциональному тренингу",
+    "direction_slug": "funkcionalnyj-trening",
+    "slot": 5,
+    "url": "/blog/articles/020-kak-vklyuchit-funkcionalnyj-trening-v-regulyarnuyu-praktiku-trenera.html",
+    "description": "Тренер заканчивает базовый курс и начинает добавлять функциональные упражнения в каждую тренировку. Через месяц расписание превращается в набор кругов, прыжков и…"
+  },
+  {
+    "id": 21,
+    "title": "Как построить первое занятие йогой для новичков",
+    "direction": "Преподаватель йоги",
+    "direction_slug": "prepodavatel-jogi",
+    "slot": 1,
+    "url": "/blog/articles/021-kak-postroit-pervoe-zanyatie-jogoj-dlya-novichkov.html",
+    "description": "Первое занятие для новичков. Восемь человек, у шестерых есть коврик, у двоих нет. Преподаватель начинает с приветствия, затем ведёт: «Собака мордой вниз» — и…"
+  },
+  {
+    "id": 22,
+    "title": "Как давать инструкции в асанах: что объяснять до, во время и после движения",
+    "direction": "Преподаватель йоги",
+    "direction_slug": "prepodavatel-jogi",
+    "slot": 2,
+    "url": "/blog/articles/022-kak-davat-instrukcii-v-asanah-chto-obyasnyat-do-vo-vremya-i-posle-dvizheniya.html",
+    "description": "Группа стоит в «воине II». Преподаватель ведёт: «Пятку задней стопы прижмите, колено не заваливайте, таз раскрывайте, плечи опустите, взгляд на переднюю руку, дышите…"
+  },
+  {
+    "id": 23,
+    "title": "Как составить последовательность занятия под конкретный уровень группы",
+    "direction": "Преподаватель йоги",
+    "direction_slug": "prepodavatel-jogi",
+    "slot": 3,
+    "url": "/blog/articles/023-kak-sostavit-posledovatelnost-zanyatiya-pod-konkretnyj-uroven-gruppy.html",
+    "description": "На одном коврике человек занимается йогой несколько лет, на другом — новичок, который впервые пробует базовую асану. Преподаватель показывает один вариант для всей…"
+  },
+  {
+    "id": 24,
+    "title": "Как адаптировать практику, если участники пришли с разной подготовкой",
+    "direction": "Преподаватель йоги",
+    "direction_slug": "prepodavatel-jogi",
+    "slot": 4,
+    "url": "/blog/articles/024-kak-adaptirovat-praktiku-esli-uchastniki-prishli-s-raznoj-podgotovkoj.html",
+    "description": "На коврике рядом два человека: женщина, которая занимается йогой четвёртый год, и мужчина после операции на колене, впервые. Преподаватель ведёт одну…"
+  },
+  {
+    "id": 25,
+    "title": "Как преподавателю йоги разбирать собственное занятие и улучшать подачу",
+    "direction": "Преподаватель йоги",
+    "direction_slug": "prepodavatel-jogi",
+    "slot": 5,
+    "url": "/blog/articles/025-kak-prepodavatelyu-jogi-razbirat-sobstvennoe-zanyatie-i-uluchshat-podachu.html",
+    "description": "После занятия преподаватель йоги говорит: «Вроде всё прошло нормально». Но группа несколько раз теряла темп, две инструкции пришлось повторять, а в финальной части…"
+  },
+  {
+    "id": 26,
+    "title": "Как подготовить зал и гамаки к занятию аэройогой",
+    "direction": "Инструктор по аэройоге",
+    "direction_slug": "instruktor-po-aerojoge",
+    "slot": 1,
+    "url": "/blog/articles/026-kak-podgotovit-zal-i-gamaki-k-zanyatiyu-aerojogoj.html",
+    "description": "За десять минут до занятия в студии уже стоят шесть гамаков, но один оказался ниже остальных, у стены лежит лишний инвентарь, а проход между местами слишком узкий.…"
+  },
+  {
+    "id": 27,
+    "title": "Как провести первое занятие на гамаках для новичков",
+    "direction": "Инструктор по аэройоге",
+    "direction_slug": "instruktor-po-aerojoge",
+    "slot": 2,
+    "url": "/blog/articles/027-kak-provesti-pervoe-zanyatie-na-gamakah-dlya-novichkov.html",
+    "description": "Новичок впервые подходит к гамаку и спрашивает: «А если я упаду?» Если первое занятие начинается сразу с красивых элементов, страх только усиливается. Для аэройоги…"
+  },
+  {
+    "id": 28,
+    "title": "Как объяснить базовую технику безопасности перед практикой",
+    "direction": "Инструктор по аэройоге",
+    "direction_slug": "instruktor-po-aerojoge",
+    "slot": 3,
+    "url": "/blog/articles/028-kak-obyasnit-bazovuyu-tehniku-bezopasnosti-pered-praktikoj.html",
+    "description": "Новичок заходит на первое занятие и слышит десять правил подряд: не тянуть ткань, не делать резких движений, следить за дистанцией, правильно садиться, не вставать…"
+  },
+  {
+    "id": 29,
+    "title": "Как масштабировать упражнения аэройоги под разный уровень группы",
+    "direction": "Инструктор по аэройоге",
+    "direction_slug": "instruktor-po-aerojoge",
+    "slot": 4,
+    "url": "/blog/articles/029-kak-masshtabirovat-uprazhneniya-aerojogi-pod-raznyj-uroven-gruppy.html",
+    "description": "В группе шесть человек. Двое впервые работают с гамаком, трое уже ходят несколько месяцев, один участник уверенно выполняет более сложные варианты. Если вести всех по…"
+  },
+  {
+    "id": 30,
+    "title": "Как выстроить регулярные занятия аэройогой в студии",
+    "direction": "Инструктор по аэройоге",
+    "direction_slug": "instruktor-po-aerojoge",
+    "slot": 5,
+    "url": "/blog/articles/030-kak-vystroit-regulyarnye-zanyatiya-aerojogoj-v-studii.html",
+    "description": "В расписании студии стоит аэройога каждую среду. Но каждую среду получается почти новое занятие: другая разминка, новые элементы, другая длительность блоков. Новичок…"
+  },
+  {
+    "id": 31,
+    "title": "Как построить первое занятие пилатесом для новичка",
+    "direction": "Инструктор по пилатесу",
+    "direction_slug": "pilates",
+    "slot": 1,
+    "url": "/blog/articles/031-kak-postroit-pervoe-zanyatie-pilatesom-dlya-novichka.html",
+    "description": "Клиентка 36 лет, спина после двух беременностей, хочет «подтянуть кор». Первое занятие пилатесом. Инструктор ведёт: «Сотня», затем «перекаты», затем серия на пресс в…"
+  },
+  {
+    "id": 32,
+    "title": "Как объяснять дыхание и контроль корпуса на практике",
+    "direction": "Инструктор по пилатесу",
+    "direction_slug": "pilates",
+    "slot": 2,
+    "url": "/blog/articles/032-kak-obyasnyat-dyhanie-i-kontrol-korpusa-na-praktike.html",
+    "description": "На первом занятии инструктор говорит: «Дышим в стороны, стабилизируем центр, нейтральный таз, рёбра закрыты». Клиент кивает, а через несколько секунд перестаёт дышать…"
+  },
+  {
+    "id": 33,
+    "title": "Как подобрать упражнения пилатеса под задачу и уровень группы",
+    "direction": "Инструктор по пилатесу",
+    "direction_slug": "pilates",
+    "slot": 3,
+    "url": "/blog/articles/033-kak-podobrat-uprazhneniya-pilatesa-pod-zadachu-i-uroven-gruppy.html",
+    "description": "На групповом занятии по пилатесу инструктор часто сталкивается не с нехваткой упражнений, а с обратной проблемой: вариантов слишком много. В одной группе могут…"
+  },
+  {
+    "id": 34,
+    "title": "Как корректировать технику без перегрузки инструкциями",
+    "direction": "Инструктор по пилатесу",
+    "direction_slug": "pilates",
+    "slot": 4,
+    "url": "/blog/articles/034-kak-korrektirovat-tehniku-bez-peregruzki-instrukciyami.html",
+    "description": "На занятии по пилатесу инструктор иногда пытается исправить технику сразу несколькими фразами: «подтяни живот», «опусти плечи», «не прогибайся», «дыши», «медленнее».…"
+  },
+  {
+    "id": 35,
+    "title": "Как выстроить последовательность занятий пилатесом на месяц",
+    "direction": "Инструктор по пилатесу",
+    "direction_slug": "pilates",
+    "slot": 5,
+    "url": "/blog/articles/035-kak-vystroit-posledovatelnost-zanyatij-pilatesom-na-mesyac.html",
+    "description": "План на месяц часто выглядит аккуратно на бумаге: четыре недели, несколько занятий в каждой, упражнения уже распределены. Проблема появляется на третьей неделе, когда…"
+  },
+  {
+    "id": 36,
+    "title": "Как построить первое занятие по растяжке без хаотичного набора упражнений",
+    "direction": "Инструктор по стретчингу",
+    "direction_slug": "instruktor-po-stretchingu",
+    "slot": 1,
+    "url": "/blog/articles/036-kak-postroit-pervoe-zanyatie-po-rastyazhke-bez-haotichnogo-nabora-uprazhnenij.html",
+    "description": "Первое занятие по растяжке легко превратить в набор из десяти упражнений: наклон, выпад, шпагатная подготовка, плечи, спина, снова наклон. Участник уходит уставшим,…"
+  },
+  {
+    "id": 37,
+    "title": "Как выбирать амплитуду и интенсивность для новичка",
+    "direction": "Инструктор по стретчингу",
+    "direction_slug": "instruktor-po-stretchingu",
+    "slot": 2,
+    "url": "/blog/articles/037-kak-vybirat-amplitudu-i-intensivnost-dlya-novichka.html",
+    "description": "Новичок часто воспринимает большую амплитуду как признак хорошей растяжки. Инструктор видит другое: человек пытается уйти дальше, чем способен контролировать,…"
+  },
+  {
+    "id": 38,
+    "title": "Как корректировать технику растяжки в группе",
+    "direction": "Инструктор по стретчингу",
+    "direction_slug": "instruktor-po-stretchingu",
+    "slot": 3,
+    "url": "/blog/articles/038-kak-korrektirovat-tehniku-rastyazhki-v-gruppe.html",
+    "description": "На групповом стретчинге инструктор почти всегда видит одну и ту же картину: часть участников уходит в глубокую амплитуду, часть осторожно работает в небольшом…"
+  },
+  {
+    "id": 39,
+    "title": "Какие ошибки в занятии по стретчингу чаще всего снижают качество работы",
+    "direction": "Инструктор по стретчингу",
+    "direction_slug": "instruktor-po-stretchingu",
+    "slot": 4,
+    "url": "/blog/articles/039-kakie-oshibki-v-zanyatii-po-stretchingu-chashe-vsego-snizhayut-kachestvo-raboty.html",
+    "description": "Занятие по стретчингу может выглядеть спокойным и при этом быть плохо собранным. Инструктор успевает показать все упражнения, музыка подходит, участники довольны, но…"
+  },
+  {
+    "id": 40,
+    "title": "Как составить цикл занятий по стретчингу, а не отдельные уроки",
+    "direction": "Инструктор по стретчингу",
+    "direction_slug": "instruktor-po-stretchingu",
+    "slot": 5,
+    "url": "/blog/articles/040-kak-sostavit-cikl-zanyatij-po-stretchingu-a-ne-otdelnye-uroki.html",
+    "description": "Если каждую неделю собирать занятие по стретчингу заново, инструктор быстро попадает в ловушку разнообразия: упражнения меняются, музыка меняется, но навык группы…"
+  },
+  {
+    "id": 41,
+    "title": "Как построить первое занятие Zumba для группы новичков",
+    "direction": "Инструктор по зумбе",
+    "direction_slug": "instruktor-po-zumbe",
+    "slot": 1,
+    "url": "/blog/articles/041-kak-postroit-pervoe-zanyatie-zumba-dlya-gruppy-novichkov.html",
+    "description": "На первом занятии Zumba новичку сложно одновременно слушать музыку, повторять движения, считать шаги и следить за направлением. Если инструктор начинает с полноценной…"
+  },
+  {
+    "id": 42,
+    "title": "Как держать темп группы, если участники двигаются с разной скоростью",
+    "direction": "Инструктор по зумбе",
+    "direction_slug": "instruktor-po-zumbe",
+    "slot": 2,
+    "url": "/blog/articles/042-kak-derzhat-temp-gruppy-esli-uchastniki-dvigayutsya-s-raznoj-skorostyu.html",
+    "description": "Тема «Как держать темп группы, если участники двигаются с разной скоростью» в работе специалиста редко решается одной универсальной схемой. Многое зависит от исходной…"
+  },
+  {
+    "id": 43,
+    "title": "Как объяснять связки без остановки музыки",
+    "direction": "Инструктор по зумбе",
+    "direction_slug": "instruktor-po-zumbe",
+    "slot": 3,
+    "url": "/blog/articles/043-kak-obyasnyat-svyazki-bez-ostanovki-muzyki.html",
+    "description": "Инструктор ведёт зумбу. На середине блока новая связка — и он делает то, что делает почти каждый: останавливает музыку, показывает движение четыре раза, объясняет…"
+  },
+  {
+    "id": 44,
+    "title": "Как составить плейлист и распределить интенсивность занятия",
+    "direction": "Инструктор по зумбе",
+    "direction_slug": "instruktor-po-zumbe",
+    "slot": 4,
+    "url": "/blog/articles/044-kak-sostavit-plejlist-i-raspredelit-intensivnost-zanyatiya.html",
+    "description": "Инструктор собирает плейлист вечером перед занятием: сначала несколько треков, которые ей самой нравятся, потом ещё пару быстрых, потому что так логично. На занятии…"
+  },
+  {
+    "id": 45,
+    "title": "Как удерживать группу Zumba и превращать разовые посещения в регулярные",
+    "direction": "Инструктор по зумбе",
+    "direction_slug": "instruktor-po-zumbe",
+    "slot": 5,
+    "url": "/blog/articles/045-kak-uderzhivat-gruppu-zumba-i-prevrashat-razovye-posesheniya-v-regulyarnye.html",
+    "description": "Инструктор ведёт зумбу второй год. Абонементы покупают охотно, но на второй месяце половина прекращает ходить. Она спрашивает у ушедших — «слишком сложно, не успеваю…"
+  },
+  {
+    "id": 46,
+    "title": "Как провести первое занятие бачате для людей без танцевального опыта",
+    "direction": "Инструктор по бачате",
+    "direction_slug": "instruktor-po-bachate",
+    "slot": 1,
+    "url": "/blog/articles/046-kak-provesti-pervoe-zanyatie-bachate-dlya-lyudej-bez-tancevalnogo-opyta.html",
+    "description": "На первом занятии бачаты новичок часто думает не о танце, а о том, куда поставить ноги. Если преподаватель сразу даёт связку, человек начинает смотреть на партнёра,…"
+  },
+  {
+    "id": 47,
+    "title": "Как объяснять базовый шаг и счёт человеку, который никогда не танцевал",
+    "direction": "Инструктор по бачате",
+    "direction_slug": "instruktor-po-bachate",
+    "slot": 2,
+    "url": "/blog/articles/047-kak-obyasnyat-bazovyj-shag-i-schet-cheloveku-kotoryj-nikogda-ne-tanceval.html",
+    "description": "В танцевальной группе результат быстро становится заметен: часть людей запоминает связку с первого раза, часть теряет счёт уже на втором переходе. Поэтому…"
+  },
+  {
+    "id": 48,
+    "title": "Как строить связки от простого к сложному",
+    "direction": "Инструктор по бачате",
+    "direction_slug": "instruktor-po-bachate",
+    "slot": 3,
+    "url": "/blog/articles/048-kak-stroit-svyazki-ot-prostogo-k-slozhnomu.html",
+    "description": "В танцевальной группе результат быстро становится заметен: часть людей запоминает связку с первого раза, часть теряет счёт уже на втором переходе. Поэтому…"
+  },
+  {
+    "id": 49,
+    "title": "Как работать с парой, если уровень партнёров различается",
+    "direction": "Инструктор по бачате",
+    "direction_slug": "instruktor-po-bachate",
+    "slot": 4,
+    "url": "/blog/articles/049-kak-rabotat-s-paroj-esli-uroven-partnerov-razlichaetsya.html",
+    "description": "В танцевальной группе результат быстро становится заметен: часть людей запоминает связку с первого раза, часть теряет счёт уже на втором переходе. Поэтому…"
+  },
+  {
+    "id": 50,
+    "title": "Как преподавателю бачаты выстроить регулярную группу",
+    "direction": "Инструктор по бачате",
+    "direction_slug": "instruktor-po-bachate",
+    "slot": 5,
+    "url": "/blog/articles/050-kak-prepodavatelyu-bachaty-postroit-regulyarnuyu-gruppu.html",
+    "description": "В танцевальной группе результат быстро становится заметен: часть людей запоминает связку с первого раза, часть теряет счёт уже на втором переходе. Поэтому…"
+  },
+  {
+    "id": 51,
+    "title": "Как построить танцевально-фитнес занятие для начинающей группы",
+    "direction": "Тренер-хореограф",
+    "direction_slug": "trener-horeograf",
+    "slot": 1,
+    "url": "/blog/articles/051-kak-postroit-tancevalno-fitnes-zanyatie-dlya-nachinayushej-gruppy.html",
+    "description": "В работе хореографа техника, музыка и физическая нагрузка существуют одновременно. Если одна часть начинает тянуть на себя всё внимание, занятие быстро теряет темп:…"
+  },
+  {
+    "id": 52,
+    "title": "Как разбирать хореографическую связку по блокам",
+    "direction": "Тренер-хореограф",
+    "direction_slug": "trener-horeograf",
+    "slot": 2,
+    "url": "/blog/articles/052-kak-razbirat-horeograficheskuyu-svyazku-po-blokam.html",
+    "description": "В работе хореографа техника, музыка и физическая нагрузка существуют одновременно. Если одна часть начинает тянуть на себя всё внимание, занятие быстро теряет темп:…"
+  },
+  {
+    "id": 53,
+    "title": "Как объяснять движение группе разного уровня",
+    "direction": "Тренер-хореограф",
+    "direction_slug": "trener-horeograf",
+    "slot": 3,
+    "url": "/blog/articles/053-kak-obyasnyat-dvizhenie-gruppe-raznogo-urovnya.html",
+    "description": "В работе хореографа техника, музыка и физическая нагрузка существуют одновременно. Если одна часть начинает тянуть на себя всё внимание, занятие быстро теряет темп:…"
+  },
+  {
+    "id": 54,
+    "title": "Как соединять технику, музыку и физическую нагрузку в одном занятии",
+    "direction": "Тренер-хореограф",
+    "direction_slug": "trener-horeograf",
+    "slot": 4,
+    "url": "/blog/articles/054-kak-soedinyat-tehniku-muzyku-i-fizicheskuyu-nagruzku-v-odnom-zanyatii.html",
+    "description": "В работе хореографа техника, музыка и физическая нагрузка существуют одновременно. Если одна часть начинает тянуть на себя всё внимание, занятие быстро теряет темп:…"
+  },
+  {
+    "id": 55,
+    "title": "Как подготовить программу выступления или открытого класса",
+    "direction": "Тренер-хореограф",
+    "direction_slug": "trener-horeograf",
+    "slot": 5,
+    "url": "/blog/articles/055-kak-podgotovit-programmu-vystupleniya-ili-otkrytogo-klassa.html",
+    "description": "В работе хореографа техника, музыка и физическая нагрузка существуют одновременно. Если одна часть начинает тянуть на себя всё внимание, занятие быстро теряет темп:…"
+  },
+  {
+    "id": 56,
+    "title": "Как подготовить первое занятие аквааэробикой в бассейне",
+    "direction": "Инструктор по аквааэробике",
+    "direction_slug": "instruktor-po-akvaaerobike",
+    "slot": 1,
+    "url": "/blog/articles/056-kak-podgotovit-pervoe-zanyatie-akvaaerobikoj-v-bassejne.html",
+    "description": "В воде тренер не видит движение так же хорошо, как в зале. Часть амплитуды скрыта, сопротивление меняется вместе со скоростью, а одинаковое упражнение ощущается…"
+  },
+  {
+    "id": 57,
+    "title": "Как контролировать интенсивность тренировки в воде",
+    "direction": "Инструктор по аквааэробике",
+    "direction_slug": "instruktor-po-akvaaerobike",
+    "slot": 2,
+    "url": "/blog/articles/057-kak-kontrolirovat-intensivnost-trenirovki-v-vode.html",
+    "description": "В воде тренер не видит движение так же хорошо, как в зале. Часть амплитуды скрыта, сопротивление меняется вместе со скоростью, а одинаковое упражнение ощущается…"
+  },
+  {
+    "id": 58,
+    "title": "Как объяснять упражнения группе, когда часть движений скрыта водой",
+    "direction": "Инструктор по аквааэробике",
+    "direction_slug": "instruktor-po-akvaaerobike",
+    "slot": 3,
+    "url": "/blog/articles/058-kak-obyasnyat-uprazhneniya-gruppe-kogda-chast-dvizhenij-skryta-vodoj.html",
+    "description": "В воде тренер не видит движение так же хорошо, как в зале. Часть амплитуды скрыта, сопротивление меняется вместе со скоростью, а одинаковое упражнение ощущается…"
+  },
+  {
+    "id": 59,
+    "title": "Как адаптировать аквааэробику под разные уровни подготовки",
+    "direction": "Инструктор по аквааэробике",
+    "direction_slug": "instruktor-po-akvaaerobike",
+    "slot": 4,
+    "url": "/blog/articles/059-kak-adaptirovat-akvaaerobiku-pod-raznye-urovni-podgotovki.html",
+    "description": "В воде тренер не видит движение так же хорошо, как в зале. Часть амплитуды скрыта, сопротивление меняется вместе со скоростью, а одинаковое упражнение ощущается…"
+  },
+  {
+    "id": 60,
+    "title": "Как выстроить регулярную программу аквааэробики в клубе",
+    "direction": "Инструктор по аквааэробике",
+    "direction_slug": "instruktor-po-akvaaerobike",
+    "slot": 5,
+    "url": "/blog/articles/060-kak-vystroit-regulyarnuyu-programmu-akvaaerobiki-v-klube.html",
+    "description": "В воде тренер не видит движение так же хорошо, как в зале. Часть амплитуды скрыта, сопротивление меняется вместе со скоростью, а одинаковое упражнение ощущается…"
+  },
+  {
+    "id": 61,
+    "title": "Как построить первое занятие детским фитнесом",
+    "direction": "Инструктор детского фитнеса",
+    "direction_slug": "instruktor-detskogo-fitnesa",
+    "slot": 1,
+    "url": "/blog/articles/061-kak-postroit-pervoe-zanyatie-detskim-fitnesom.html",
+    "description": "С детьми тренировка строится иначе, чем со взрослыми. Ребёнку нужно не только показать упражнение, но и удержать внимание, дать понятную задачу и вовремя заметить,…"
+  },
+  {
+    "id": 62,
+    "title": "Как выбирать упражнения с учётом возраста ребёнка",
+    "direction": "Инструктор детского фитнеса",
+    "direction_slug": "instruktor-detskogo-fitnesa",
+    "slot": 2,
+    "url": "/blog/articles/062-kak-vybirat-uprazhneniya-s-uchetom-vozrasta-rebenka.html",
+    "description": "С детьми тренировка строится иначе, чем со взрослыми. Ребёнку нужно не только показать упражнение, но и удержать внимание, дать понятную задачу и вовремя заметить,…"
+  },
+  {
+    "id": 63,
+    "title": "Как удерживать внимание детей без постоянных замечаний",
+    "direction": "Инструктор детского фитнеса",
+    "direction_slug": "instruktor-detskogo-fitnesa",
+    "slot": 3,
+    "url": "/blog/articles/063-kak-uderzhivat-vnimanie-detej-bez-postoyannyh-zamechanij.html",
+    "description": "Детская группа, восемь человек, возраст от шести до восьми. Три минуты разминки, и инструктор уже говорит «Тимофей, не бегай», «Аня, слушай меня», «Стойте, куда вы».…"
+  },
+  {
+    "id": 64,
+    "title": "Как давать обратную связь ребёнку и родителю по итогам занятия",
+    "direction": "Инструктор детского фитнеса",
+    "direction_slug": "instruktor-detskogo-fitnesa",
+    "slot": 4,
+    "url": "/blog/articles/064-kak-davat-obratnuyu-svyaz-rebenku-i-roditelyu-po-itogam-zanyatiya.html",
+    "description": "С детьми тренировка строится иначе, чем со взрослыми. Ребёнку нужно не только показать упражнение, но и удержать внимание, дать понятную задачу и вовремя заметить,…"
+  },
+  {
+    "id": 65,
+    "title": "Как составить цикл детских тренировок на месяц",
+    "direction": "Инструктор детского фитнеса",
+    "direction_slug": "instruktor-detskogo-fitnesa",
+    "slot": 5,
+    "url": "/blog/articles/065-kak-sostavit-cikl-detskih-trenirovok-na-mesyac.html",
+    "description": "С детьми тренировка строится иначе, чем со взрослыми. Ребёнку нужно не только показать упражнение, но и удержать внимание, дать понятную задачу и вовремя заметить,…"
+  },
+  {
+    "id": 66,
+    "title": "Что проверить перед тренировкой клиента старшего возраста",
+    "direction": "Фитнес-тренер для пожилых",
+    "direction_slug": "fitnes-trener-dlya-pozhilyh",
+    "slot": 1,
+    "url": "/blog/articles/066-chto-proverit-pered-trenirovkoj-klienta-starshego-vozrasta.html",
+    "description": "На занятии с человеком старшего возраста тренеру приходится учитывать не только план тренировки. Важны самочувствие в конкретный день, уверенность в движении,…"
+  },
+  {
+    "id": 67,
+    "title": "Как построить первое занятие для пожилого клиента",
+    "direction": "Фитнес-тренер для пожилых",
+    "direction_slug": "fitnes-trener-dlya-pozhilyh",
+    "slot": 2,
+    "url": "/blog/articles/067-kak-postroit-pervoe-zanyatie-dlya-pozhilogo-klienta.html",
+    "description": "На занятии с человеком старшего возраста тренеру приходится учитывать не только план тренировки. Важны самочувствие в конкретный день, уверенность в движении,…"
+  },
+  {
+    "id": 68,
+    "title": "Как дозировать нагрузку и выбирать темп занятия",
+    "direction": "Фитнес-тренер для пожилых",
+    "direction_slug": "fitnes-trener-dlya-pozhilyh",
+    "slot": 3,
+    "url": "/blog/articles/068-kak-dozirovat-nagruzku-i-vybirat-temp-zanyatiya.html",
+    "description": "На занятии с человеком старшего возраста тренеру приходится учитывать не только план тренировки. Важны самочувствие в конкретный день, уверенность в движении,…"
+  },
+  {
+    "id": 69,
+    "title": "Как объяснять упражнения клиенту старшего возраста",
+    "direction": "Фитнес-тренер для пожилых",
+    "direction_slug": "fitnes-trener-dlya-pozhilyh",
+    "slot": 4,
+    "url": "/blog/articles/069-kak-obyasnyat-uprazhneniya-klientu-starshego-vozrasta.html",
+    "description": "На занятии с человеком старшего возраста тренеру приходится учитывать не только план тренировки. Важны самочувствие в конкретный день, уверенность в движении,…"
+  },
+  {
+    "id": 70,
+    "title": "Как составить регулярную программу с учётом самочувствия и прогресса",
+    "direction": "Фитнес-тренер для пожилых",
+    "direction_slug": "fitnes-trener-dlya-pozhilyh",
+    "slot": 5,
+    "url": "/blog/articles/070-kak-sostavit-regulyarnuyu-programmu-s-uchetom-samochuvstviya-i-progressa.html",
+    "description": "На занятии с человеком старшего возраста тренеру приходится учитывать не только план тренировки. Важны самочувствие в конкретный день, уверенность в движении,…"
+  },
+  {
+    "id": 71,
+    "title": "Что нужно выяснить до первой тренировки беременной клиентки",
+    "direction": "Фитнес-тренер для беременных",
+    "direction_slug": "fitnes-trener-dlya-beremennyh",
+    "slot": 1,
+    "url": "/blog/articles/071-chto-nuzhno-vyyasnit-do-pervoj-trenirovki-beremennoj-klientki.html",
+    "description": "Клиентка на 18-й неделе приходит в зал. Врач ей сказал: «Можно, если аккуратно». Тренер слышит «можно» и начинает с того, что знает: приседания, отжимания, упражнения…"
+  },
+  {
+    "id": 72,
+    "title": "Как строить тренировку с учётом срока беременности и самочувствия",
+    "direction": "Фитнес-тренер для беременных",
+    "direction_slug": "fitnes-trener-dlya-beremennyh",
+    "slot": 2,
+    "url": "/blog/articles/072-kak-stroit-trenirovku-s-uchetom-sroka-beremennosti-i-samochuvstviya.html",
+    "description": "При работе с беременной клиенткой программа не должна жить отдельно от её самочувствия и рекомендаций врача. Даже привычное упражнение может потребовать другой…"
+  },
+  {
+    "id": 73,
+    "title": "Как адаптировать упражнения при изменении состояния клиентки",
+    "direction": "Фитнес-тренер для беременных",
+    "direction_slug": "fitnes-trener-dlya-beremennyh",
+    "slot": 3,
+    "url": "/blog/articles/073-kak-adaptirovat-uprazhneniya-pri-izmenenii-sostoyaniya-klientki.html",
+    "description": "При работе с беременной клиенткой программа не должна жить отдельно от её самочувствия и рекомендаций врача. Даже привычное упражнение может потребовать другой…"
+  },
+  {
+    "id": 74,
+    "title": "Как вести коммуникацию и фиксировать ограничения в работе",
+    "direction": "Фитнес-тренер для беременных",
+    "direction_slug": "fitnes-trener-dlya-beremennyh",
+    "slot": 4,
+    "url": "/blog/articles/074-kak-vesti-kommunikaciyu-i-fiksirovat-ogranicheniya-v-rabote.html",
+    "description": "При работе с беременной клиенткой программа не должна жить отдельно от её самочувствия и рекомендаций врача. Даже привычное упражнение может потребовать другой…"
+  },
+  {
+    "id": 75,
+    "title": "Как выстроить безопасный формат сопровождения в пределах компетенций тренера",
+    "direction": "Фитнес-тренер для беременных",
+    "direction_slug": "fitnes-trener-dlya-beremennyh",
+    "slot": 5,
+    "url": "/blog/articles/075-kak-vystroit-bezopasnyj-format-soprovozhdeniya-v-predelah-kompetencij-trenera.html",
+    "description": "При работе с беременной клиенткой программа не должна жить отдельно от её самочувствия и рекомендаций врача. Даже привычное упражнение может потребовать другой…"
+  },
+  {
+    "id": 76,
+    "title": "Как определить границы компетенций специалиста по ЛФК",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "direction_slug": "instruktor-po-kineziterapii-i-lfk",
+    "slot": 1,
+    "url": "/blog/articles/076-kak-opredelit-granicy-kompetencij-specialista-po-lfk.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 77,
+    "title": "Как построить занятие ЛФК от оценки задачи до подбора упражнений",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "direction_slug": "instruktor-po-kineziterapii-i-lfk",
+    "slot": 2,
+    "url": "/blog/articles/077-kak-postroit-zanyatie-lfk-ot-ocenki-zadachi-do-podbora-uprazhnenij.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 78,
+    "title": "Как адаптировать нагрузку под возможности клиента",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "direction_slug": "instruktor-po-kineziterapii-i-lfk",
+    "slot": 3,
+    "url": "/blog/articles/078-kak-adaptirovat-nagruzku-pod-vozmozhnosti-klienta.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 79,
+    "title": "Как фиксировать динамику и корректировать программу",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "direction_slug": "instruktor-po-kineziterapii-i-lfk",
+    "slot": 4,
+    "url": "/blog/articles/079-kak-fiksirovat-dinamiku-i-korrektirovat-programmu.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 80,
+    "title": "Как выстроить работу с клиентом при восстановительных запросах",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "direction_slug": "instruktor-po-kineziterapii-i-lfk",
+    "slot": 5,
+    "url": "/blog/articles/080-kak-vystroit-rabotu-s-klientom-pri-vosstanovitelnyh-zaprosah.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 81,
+    "title": "Как строить тренировочную работу с запросом на мобильность суставов",
+    "direction": "Реабилитационный фитнес суставов",
+    "direction_slug": "reabilitacionnyj-fitnes-sustavov",
+    "slot": 1,
+    "url": "/blog/articles/081-kak-stroit-trenirovochnuyu-rabotu-s-zaprosom-na-mobilnost-sustavov.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 82,
+    "title": "Какие данные нужно собрать до подбора упражнений",
+    "direction": "Реабилитационный фитнес суставов",
+    "direction_slug": "reabilitacionnyj-fitnes-sustavov",
+    "slot": 2,
+    "url": "/blog/articles/082-kakie-dannye-nuzhno-sobrat-do-podbora-uprazhnenij.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 83,
+    "title": "Как дозировать нагрузку в восстановительном фитнес-формате",
+    "direction": "Реабилитационный фитнес суставов",
+    "direction_slug": "reabilitacionnyj-fitnes-sustavov",
+    "slot": 3,
+    "url": "/blog/articles/083-kak-dozirovat-nagruzku-v-vosstanovitelnom-fitnes-formate.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 84,
+    "title": "Как отслеживать изменения подвижности без обещаний медицинского результата",
+    "direction": "Реабилитационный фитнес суставов",
+    "direction_slug": "reabilitacionnyj-fitnes-sustavov",
+    "slot": 4,
+    "url": "/blog/articles/084-kak-otslezhivat-izmeneniya-podvizhnosti-bez-obeshanij-medicinskogo-rezultata.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 85,
+    "title": "Как выстроить долгосрочную программу работы в пределах компетенций тренера",
+    "direction": "Реабилитационный фитнес суставов",
+    "direction_slug": "reabilitacionnyj-fitnes-sustavov",
+    "slot": 5,
+    "url": "/blog/articles/085-kak-vystroit-dolgosrochnuyu-programmu-raboty-v-predelah-kompetencij-trenera.html",
+    "description": "В восстановительной работе особенно важно не подменять наблюдение догадками. Тренер видит конкретное движение, переносимость нагрузки и изменения в процессе занятия,…"
+  },
+  {
+    "id": 86,
+    "title": "Как корректно обсуждать с клиентом работу с мышцами тазового дна",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "direction_slug": "tazovoe-dno",
+    "slot": 1,
+    "url": "/blog/articles/086-kak-korrektno-obsuzhdat-s-klientom-rabotu-s-myshcami-tazovogo-dna.html",
+    "description": "Работа с мышцами тазового дна требует аккуратной коммуникации. Клиенту может быть неловко задавать вопросы, а тренеру легко перейти от объяснения упражнения к…"
+  },
+  {
+    "id": 87,
+    "title": "Что важно выяснить до включения упражнений в программу",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "direction_slug": "tazovoe-dno",
+    "slot": 2,
+    "url": "/blog/articles/087-chto-vazhno-vyyasnit-do-vklyucheniya-uprazhnenij-v-programmu.html",
+    "description": "Работа с мышцами тазового дна требует аккуратной коммуникации. Клиенту может быть неловко задавать вопросы, а тренеру легко перейти от объяснения упражнения к…"
+  },
+  {
+    "id": 88,
+    "title": "Как объяснять технику без медицинских обещаний",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "direction_slug": "tazovoe-dno",
+    "slot": 3,
+    "url": "/blog/articles/088-kak-obyasnyat-tehniku-bez-medicinskih-obeshanij.html",
+    "description": "Работа с мышцами тазового дна требует аккуратной коммуникации. Клиенту может быть неловко задавать вопросы, а тренеру легко перейти от объяснения упражнения к…"
+  },
+  {
+    "id": 89,
+    "title": "Как учитывать деликатность темы в коммуникации с клиентом",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "direction_slug": "tazovoe-dno",
+    "slot": 4,
+    "url": "/blog/articles/089-kak-uchityvat-delikatnost-temy-v-kommunikacii-s-klientom.html",
+    "description": "Работа с мышцами тазового дна требует аккуратной коммуникации. Клиенту может быть неловко задавать вопросы, а тренеру легко перейти от объяснения упражнения к…"
+  },
+  {
+    "id": 90,
+    "title": "Как встроить работу с тазовым дном в комплексную практику тренера",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "direction_slug": "tazovoe-dno",
+    "slot": 5,
+    "url": "/blog/articles/090-kak-vstroit-rabotu-s-tazovym-dnom-v-kompleksnuyu-praktiku-trenera.html",
+    "description": "Работа с мышцами тазового дна требует аккуратной коммуникации. Клиенту может быть неловко задавать вопросы, а тренеру легко перейти от объяснения упражнения к…"
+  },
+  {
+    "id": 91,
+    "title": "Как подготовить первое занятие МФР для новичка",
+    "direction": "Инструктор МФР",
+    "direction_slug": "instruktor-mfr",
+    "slot": 1,
+    "url": "/blog/articles/091-kak-podgotovit-pervoe-zanyatie-mfr-dlya-novichka.html",
+    "description": "Клиент приходит с ощущением тяжести в спине. Инструктор ставит его на валик и работает активно: три минуты давления, «потерпите, это полезно». Клиент уходит с…"
+  },
+  {
+    "id": 92,
+    "title": "Как выбирать инструмент МФР под задачу клиента",
+    "direction": "Инструктор МФР",
+    "direction_slug": "instruktor-mfr",
+    "slot": 2,
+    "url": "/blog/articles/092-kak-vybirat-instrument-mfr-pod-zadachu-klienta.html",
+    "description": "Инструктор покупает весь набор: гладкий валик, ребристый, мячи, массажный пистолет. На занятии выясняется, что из этого нужны два предмета, а остальное лежит в углу и…"
+  },
+  {
+    "id": 93,
+    "title": "Как объяснять ощущения и дозировать воздействие",
+    "direction": "Инструктор МФР",
+    "direction_slug": "instruktor-mfr",
+    "slot": 3,
+    "url": "/blog/articles/093-kak-obyasnyat-oshusheniya-i-dozirovat-vozdejstvie.html",
+    "description": "Инструктор объясняет: «Будет немного неприятно, но надо потерпеть — там всё зажато». Клиент терпит, дыхание сбивается, тело напрягается в ответ на давление. Эффекта…"
+  },
+  {
+    "id": 94,
+    "title": "Какие ошибки начинающих инструкторов МФР встречаются чаще всего",
+    "direction": "Инструктор МФР",
+    "direction_slug": "instruktor-mfr",
+    "slot": 4,
+    "url": "/blog/articles/094-kakie-oshibki-nachinayushih-instruktorov-mfr-vstrechayutsya-chashe-vsego.html",
+    "description": "Начинающий инструктор МФР чаще всего повторяет одну модель: сильнее, дольше, больнее — значит, полезнее. Клиенты первые разы это терпят, потому что верят в метод, а…"
+  },
+  {
+    "id": 95,
+    "title": "Как включать МФР в тренировочную систему, а не делать отдельным ритуалом",
+    "direction": "Инструктор МФР",
+    "direction_slug": "instruktor-mfr",
+    "slot": 5,
+    "url": "/blog/articles/095-kak-vklyuchat-mfr-v-trenirovochnuyu-sistemu-a-ne-delat-otdelnym-ritualom.html",
+    "description": "Клиент занимается МФР дома каждый вечер по двадцать минут. Через месяц он делает это как ритуал перед сном, а в тренировках ничего не изменилось: движения те же,…"
+  },
+  {
+    "id": 96,
+    "title": "Что собрать у клиента до первого сеанса массажа",
+    "direction": "Массажист",
+    "direction_slug": "massazhist",
+    "slot": 1,
+    "url": "/blog/articles/096-chto-sobrat-u-klienta-do-pervogo-seansa-massazha.html",
+    "description": "Клиент приходит на первый сеанс, ложится на кушетку, и специалист начинает работу. Через десять минут выясняется, что два месяца назад была операция на позвоночнике,…"
+  },
+  {
+    "id": 97,
+    "title": "Как подготовить рабочее место и организовать приём",
+    "direction": "Массажист",
+    "direction_slug": "massazhist",
+    "slot": 2,
+    "url": "/blog/articles/097-kak-podgotovit-rabochee-mesto-i-organizovat-priem.html",
+    "description": "Первый приём на новом месте. Клиент заходит, не понимает, куда положить вещи, где переодеться, что делать с телефоном. Специалист начинает работу, а человек всё ещё…"
+  },
+  {
+    "id": 98,
+    "title": "Как выстроить коммуникацию до, во время и после сеанса",
+    "direction": "Массажист",
+    "direction_slug": "massazhist",
+    "slot": 3,
+    "url": "/blog/articles/098-kak-vystroit-kommunikaciyu-do-vo-vremya-i-posle-seansa.html",
+    "description": "Во время сеанса клиент молчит. Специалист считает, что всё нормально. В конце выясняется, что давление было сильнее, чем комфортно, а на одном участке было больно.…"
+  },
+  {
+    "id": 99,
+    "title": "Как фиксировать запрос клиента и границы своей работы",
+    "direction": "Массажист",
+    "direction_slug": "massazhist",
+    "slot": 4,
+    "url": "/blog/articles/099-kak-fiksirovat-zapros-klienta-i-granicy-svoej-raboty.html",
+    "description": "Клиент говорит: «Хочу, чтобы спина больше не болела». Специалист соглашается и берётся за работу. Через пять сеансов клиент говорит, что боли остались, и уходит к…"
+  },
+  {
+    "id": 100,
+    "title": "Как сформировать повторную практику массажиста без навязчивых продаж",
+    "direction": "Массажист",
+    "direction_slug": "massazhist",
+    "slot": 5,
+    "url": "/blog/articles/100-kak-sformirovat-povtornuyu-praktiku-massazhista-bez-navyazchivyh-prodazh.html",
+    "description": "После первого сеанса специалист говорит: «Приходите ещё, лучше всего курс из десяти». Клиент соглашается из вежливости, приходит дважды и пропадает: он не понимает,…"
+  },
+  {
+    "id": 101,
+    "title": "Как построить первое занятие Face Fitness",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "direction_slug": "face-fitness",
+    "slot": 1,
+    "url": "/blog/articles/101-kak-postroit-pervoe-zanyatie-face-fitness.html",
+    "description": "Клиентка приходит на первое занятие Face Fitness с ожиданием, что ей покажут упражнения для лица — и она увидит результат через неделю. Тренер показывает комплекс,…"
+  },
+  {
+    "id": 102,
+    "title": "Как объяснять клиенту технику и контроль движений",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "direction_slug": "face-fitness",
+    "slot": 2,
+    "url": "/blog/articles/102-kak-obyasnyat-klientu-tehniku-i-kontrol-dvizhenij.html",
+    "description": "Тренер объясняет движение: «Расслабьте жевательные, поднимите верхнюю губу, держите подбородок, не напрягайте шею, дышите ровно». Пять подсказок за десять секунд.…"
+  },
+  {
+    "id": 103,
+    "title": "Как составить программу для новичка без перегрузки упражнениями",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "direction_slug": "face-fitness",
+    "slot": 3,
+    "url": "/blog/articles/103-kak-sostavit-programmu-dlya-novichka-bez-peregruzki-uprazhneniyami.html",
+    "description": "Тренер составляет программу из восемнадцати движений, разбивает по дням и добавляет дыхательные практики. Через неделю клиент делает три движения и ничего больше:…"
+  },
+  {
+    "id": 104,
+    "title": "Как отслеживать регулярность и изменения в практике",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "direction_slug": "face-fitness",
+    "slot": 4,
+    "url": "/blog/articles/104-kak-otslezhivat-regulyarnost-i-izmeneniya-v-praktike.html",
+    "description": "Человек занимается третий месяц и говорит: «Не понимаю, есть ли результат». Тренер тоже не знает: в записях только список движений, ни регулярности, ни ощущений.…"
+  },
+  {
+    "id": 105,
+    "title": "Как выстроить групповое или индивидуальное направление Face Fitness",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "direction_slug": "face-fitness",
+    "slot": 5,
+    "url": "/blog/articles/105-kak-vystroit-gruppovoe-ili-individualnoe-napravlenie-face-fitness.html",
+    "description": "Тренер начинает вести Face Fitness и берёт и группы, и индивидуальные занятия. Через месяц выясняется, что в группе он не успевает видеть, кто делает движение, а не…"
+  },
+  {
+    "id": 106,
+    "title": "Как провести первую велнес-консультацию и определить запрос клиента",
+    "direction": "Велнес-тренер",
+    "direction_slug": "velnes-trener",
+    "slot": 1,
+    "url": "/blog/articles/106-kak-provesti-pervuyu-velnes-konsultaciyu-i-opredelit-zapros-klienta.html",
+    "description": "Первая велнес-консультация. Клиент говорит: «Хочу больше энергии и лучше себя чувствовать». Тренер начинает рассказывать про сон, питание, шаги, дыхание, стресс —…"
+  },
+  {
+    "id": 107,
+    "title": "Как собрать программу сопровождения без набора случайных практик",
+    "direction": "Велнес-тренер",
+    "direction_slug": "velnes-trener",
+    "slot": 2,
+    "url": "/blog/articles/107-kak-sobrat-programmu-soprovozhdeniya-bez-nabora-sluchajnyh-praktik.html",
+    "description": "Программа сопровождения выглядит так: утренняя растяжка, дыхательные практики, шаги, дневник сна, ограничение кофеина, вечерний ритуал, разгрузка шеи. Семь пунктов,…"
+  },
+  {
+    "id": 108,
+    "title": "Как разделять задачи фитнеса, восстановления и образа жизни",
+    "direction": "Велнес-тренер",
+    "direction_slug": "velnes-trener",
+    "slot": 3,
+    "url": "/blog/articles/108-kak-razdelyat-zadachi-fitnesa-vosstanovleniya-i-obraza-zhizni.html",
+    "description": "Клиент приходит с одной жалобой: «Нет сил». В ответ он получает программу тренировок, рекомендации по сну, советы по питанию и предложение больше ходить. Всё…"
+  },
+  {
+    "id": 109,
+    "title": "Как контролировать выполнение рекомендаций без давления",
+    "direction": "Велнес-тренер",
+    "direction_slug": "velnes-trener",
+    "slot": 4,
+    "url": "/blog/articles/109-kak-kontrolirovat-vypolnenie-rekomendacij-bez-davleniya.html",
+    "description": "Клиент не выполнил рекомендации за неделю. Тренер спрашивает: «Почему не сделали?» Человек отвечает что-то про занятость и в следующий раз либо не пишет ничего, либо…"
+  },
+  {
+    "id": 110,
+    "title": "Как выстроить долгосрочную велнес-практику",
+    "direction": "Велнес-тренер",
+    "direction_slug": "velnes-trener",
+    "slot": 5,
+    "url": "/blog/articles/110-kak-vystroit-dolgosrochnuyu-velnes-praktiku.html",
+    "description": "Человек начинает заниматься собой: практики, режим, шаги, сон. Держится три недели, потом уезжает в командировку — и всё рассыпается. Возвращается, начинает с нуля,…"
+  },
+  {
+    "id": 111,
+    "title": "Как провести первый онлайн-чек-ин и собрать данные клиента",
+    "direction": "Онлайн-сопровождение клиентов",
+    "direction_slug": "onlajn-soprovozhdenie-klientov",
+    "slot": 1,
+    "url": "/blog/articles/111-kak-provesti-pervyj-onlajn-chek-in-i-sobrat-dannye-klienta.html",
+    "description": "Первый онлайн-чек-ин. Клиент присылает: «Всё нормально, делаю». Тренер спрашивает про тренировки — «два раза». Про питание — «стараюсь». Про сон — «по-разному». Про…"
+  },
+  {
+    "id": 112,
+    "title": "Как составить план на неделю вместо программы «на год»",
+    "direction": "Онлайн-сопровождение клиентов",
+    "direction_slug": "onlajn-soprovozhdenie-klientov",
+    "slot": 2,
+    "url": "/blog/articles/112-kak-sostavit-plan-na-nedelyu-vmesto-programmy-na-god.html",
+    "description": "Тренер присылает клиенту программу на двенадцать месяцев: разбито по неделям, все упражнения, все веса. Через месяц выясняется, что человек тренируется не по ней:…"
+  },
+  {
+    "id": 113,
+    "title": "Как проверять технику клиента по видео",
+    "direction": "Онлайн-сопровождение клиентов",
+    "direction_slug": "onlajn-soprovozhdenie-klientov",
+    "slot": 3,
+    "url": "/blog/articles/113-kak-proveryat-tehniku-klienta-po-video.html",
+    "description": "Клиент присылает видео приседания: снято сверху, с высоты человеческого роста, видна только верхняя половина тела. Тренер смотрит минуту и отвечает: «В целом неплохо,…"
+  },
+  {
+    "id": 114,
+    "title": "Как корректировать нагрузку по обратной связи",
+    "direction": "Онлайн-сопровождение клиентов",
+    "direction_slug": "onlajn-soprovozhdenie-klientov",
+    "slot": 4,
+    "url": "/blog/articles/114-kak-korrektirovat-nagruzku-po-obratnoj-svyazi.html",
+    "description": "Клиент пишет: «Тяжело, устал, упражнение не идёт». Тренер снижает вес на 10% и убирает подход. Через неделю — то же сообщение. Меняет упражнение. Ещё через неделю —…"
+  },
+  {
+    "id": 115,
+    "title": "Как организовать онлайн-сопровождение так, чтобы клиент не пропадал",
+    "direction": "Онлайн-сопровождение клиентов",
+    "direction_slug": "onlajn-soprovozhdenie-klientov",
+    "slot": 5,
+    "url": "/blog/articles/115-kak-organizovat-onlajn-soprovozhdenie-tak-chtoby-klient-ne-propadal.html",
+    "description": "Клиент занимался три недели, отвечал, присылал видео. Потом пропал. Тренер пишет — тишина. Через месяц выясняется: человек не бросил, он просто не понял, что делать…"
+  },
+  {
+    "id": 116,
+    "title": "Как провести первую консультацию по питанию: структура встречи",
+    "direction": "Нутрициолог",
+    "direction_slug": "nutriciolog",
+    "slot": 1,
+    "url": "/blog/articles/116-kak-provesti-pervuyu-konsultaciyu-po-pitaniyu-struktura-vstrechi.html",
+    "description": "Первая консультация начинается с расчёта: вес, рост, возраст, активность — и через десять минут человек получает цифру калорий и граммы белка. Он кивает, а через…"
+  },
+  {
+    "id": 117,
+    "title": "Какие данные собрать до составления рекомендаций",
+    "direction": "Нутрициолог",
+    "direction_slug": "nutriciolog",
+    "slot": 2,
+    "url": "/blog/articles/117-kakie-dannye-sobrat-do-sostavleniya-rekomendacij.html",
+    "description": "Анкета: вес, рост, возраст, «активность средняя», «хочу похудеть». Подставляем в калькулятор и получаем цифру с точностью до грамма — точность обманчива, потому что…"
+  },
+  {
+    "id": 118,
+    "title": "Как разбирать рацион клиента без универсального шаблона",
+    "direction": "Нутрициолог",
+    "direction_slug": "nutriciolog",
+    "slot": 3,
+    "url": "/blog/articles/118-kak-razbirat-racion-klienta-bez-universalnogo-shablona.html",
+    "description": "Консультант присылает клиенту шаблон: завтрак — каша с ягодами, обед — курица с гречкой, ужин — рыба с овощами. Клиент пытается три дня, потом возвращается к обычному…"
+  },
+  {
+    "id": 119,
+    "title": "Как объяснять клиенту калории и белок простым языком",
+    "direction": "Нутрициолог",
+    "direction_slug": "nutriciolog",
+    "slot": 4,
+    "url": "/blog/articles/119-kak-obyasnyat-klientu-kalorii-i-belok-prostym-yazykom.html",
+    "description": "Консультант объясняет: «Ваш базовый метаболизм такой-то, плюс активность, минус дефицит, итого столько калорий и столько белка». Клиент слушает и не понимает ни…"
+  },
+  {
+    "id": 120,
+    "title": "Как выстроить повторные консультации и контроль динамики",
+    "direction": "Нутрициолог",
+    "direction_slug": "nutriciolog",
+    "slot": 5,
+    "url": "/blog/articles/120-kak-vystroit-povtornye-konsultacii-i-kontrol-dinamiki.html",
+    "description": "Первая консультация прошла хорошо: разобрали рацион, дали рекомендации, договорились о встрече. Повторная встреча начинается словами «Ну, рассказывайте, как дела».…"
+  },
+  {
+    "id": 121,
+    "title": "Как понять, готов ли тренер к переходу на более высокий чек",
+    "direction": "Тренер 200+",
+    "direction_slug": "trener-200",
+    "slot": 1,
+    "url": "/blog/articles/121-kak-ponyat-gotov-li-trener-k-perehodu-na-bolee-vysokij-chek.html",
+    "description": "Тренер работает третий год, ведёт восемь человек, берёт 2 500 за занятие. Ему кажется, что он вырос: техника стала лучше, прошёл два курса, придумал свою систему…"
+  },
+  {
+    "id": 122,
+    "title": "Как собрать оффер персонального тренера вокруг конкретного результата",
+    "direction": "Тренер 200+",
+    "direction_slug": "trener-200",
+    "slot": 2,
+    "url": "/blog/articles/122-kak-sobrat-offer-personalnogo-trenera-vokrug-konkretnogo-rezultata.html",
+    "description": "«Помогаю достичь целей в фитнесе» — так пишут почти все, и именно поэтому на такое предложение невозможно отреагировать. Непонятно, к кому оно обращено, что…"
+  },
+  {
+    "id": 123,
+    "title": "Как считать загрузку, чек и повторные продажи",
+    "direction": "Тренер 200+",
+    "direction_slug": "trener-200",
+    "slot": 3,
+    "url": "/blog/articles/123-kak-schitat-zagruzku-chek-i-povtornye-prodazhi.html",
+    "description": "Тренер считает доход просто: цена умножается на количество тренировок. Поднять доход кажется вопросом цены. Но если посмотреть на структуру, видно, что при полной…"
+  },
+  {
+    "id": 124,
+    "title": "Как добавить онлайн и группы без разрушения расписания",
+    "direction": "Тренер 200+",
+    "direction_slug": "trener-200",
+    "slot": 4,
+    "url": "/blog/articles/124-kak-dobavit-onlajn-i-gruppy-bez-razrusheniya-raspisaniya.html",
+    "description": "Тренер решает добавить группы: кажется, что это способ взять больше людей без увеличения часов. Он ставит две группы в самое удобное вечернее время — и через месяц…"
+  },
+  {
+    "id": 125,
+    "title": "Как построить шестимесячный план роста практики",
+    "direction": "Тренер 200+",
+    "direction_slug": "trener-200",
+    "slot": 5,
+    "url": "/blog/articles/125-kak-postroit-shestimesyachnyj-plan-rosta-praktiki.html",
+    "description": "Тренер пишет план роста: поднять цену, запустить группы, выйти в онлайн, сделать курс, начать вести блог. Через три месяца ни одно из пяти направлений не сдвинулось —…"
+  },
+  {
+    "id": 126,
+    "title": "Как подготовиться к очному обучению фитнес-тренера",
+    "direction": "Очное обучение",
+    "direction_slug": "ochnoe-obuchenie",
+    "slot": 1,
+    "url": "/blog/articles/126-kak-podgotovitsya-k-ochnomu-obucheniyu-fitnes-trenera.html",
+    "description": "Человек приезжает на очное обучение с ожиданием, что его научат всему. Он слушает, кивает, записывает и к концу практикума не может ответить на простой вопрос: что…"
+  },
+  {
+    "id": 127,
+    "title": "Что отрабатывать в зале на очной практике в первую очередь",
+    "direction": "Очное обучение",
+    "direction_slug": "ochnoe-obuchenie",
+    "slot": 2,
+    "url": "/blog/articles/127-chto-otrabatyvat-v-zale-na-ochnoj-praktike-v-pervuyu-ochered.html",
+    "description": "На очной практике большинство участников тратит время на то, что можно изучить дома: названия мышц, разбор биомеханики, чтение материалов. А то, ради чего стоило…"
+  },
+  {
+    "id": 128,
+    "title": "Как использовать занятия с преподавателем для постановки техники",
+    "direction": "Очное обучение",
+    "direction_slug": "ochnoe-obuchenie",
+    "slot": 3,
+    "url": "/blog/articles/128-kak-ispolzovat-zanyatiya-s-prepodavatelem-dlya-postanovki-tehniki.html",
+    "description": "Тренер приходит на занятие с преподавателем, чтобы «поставить технику». Занятие получается насыщенным: тридцать подсказок за час, разбор каждой детали, объяснения про…"
+  },
+  {
+    "id": 129,
+    "title": "Как подготовиться к практическому экзамену",
+    "direction": "Очное обучение",
+    "direction_slug": "ochnoe-obuchenie",
+    "slot": 4,
+    "url": "/blog/articles/129-kak-podgotovitsya-k-prakticheskomu-ekzamenu.html",
+    "description": "Перед практическим экзаменом выпускник готовит теорию: повторяет определения, принципы, анатомию. На экзамене его просят провести фрагмент занятия с человеком — и он…"
+  },
+  {
+    "id": 130,
+    "title": "Как перенести очную практику в самостоятельную работу",
+    "direction": "Очное обучение",
+    "direction_slug": "ochnoe-obuchenie",
+    "slot": 5,
+    "url": "/blog/articles/130-kak-perenesti-ochnuyu-praktiku-v-samostoyatelnuyu-rabotu.html",
+    "description": "Практикум закончен, все получилось, есть уверенность. Через месяц тренер выходит к клиенту — и понимает, что рядом нет никого, кто подсказал бы или поправил. Часть…"
+  },
+  {
+    "id": 131,
+    "title": "Что подготовить до первой смены в фитнес-клубе",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "direction_slug": "probnik-vyjti-v-zal",
+    "slot": 1,
+    "url": "/blog/articles/131-chto-podgotovit-do-pervoj-smeny-v-fitnes-klube.html",
+    "description": "Первый рабочий день. Тренер выходит в зал с готовой программой в голове, но совершенно не знает быта площадки: где инвентарь, кто отвечает за расписание, к кому идти…"
+  },
+  {
+    "id": 132,
+    "title": "Как собрать первый урок тренера без лишней теории",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "direction_slug": "probnik-vyjti-v-zal",
+    "slot": 2,
+    "url": "/blog/articles/132-kak-sobrat-pervyj-urok-trenera-bez-lishnej-teorii.html",
+    "description": "Первый урок выпускник собирает как конспект: анатомия, фазы движения, термины. На занятии он объясняет клиенту, что такое нейтральный таз и почему важна ретракция…"
+  },
+  {
+    "id": 133,
+    "title": "Как сформулировать пакет услуг перед выходом в зал",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "direction_slug": "probnik-vyjti-v-zal",
+    "slot": 3,
+    "url": "/blog/articles/133-kak-sformulirovat-paket-uslug-pered-vyhodom-v-zal.html",
+    "description": "На первый вопрос о цене тренер отвечает: «Ну, две тысячи за занятие». Дальше пауза и вопрос клиента: «А что входит?» Тренер начинает перечислять: ну, тренировка……"
+  },
+  {
+    "id": 134,
+    "title": "Как отвечать клубу на вопрос об опыте и обучении",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "direction_slug": "probnik-vyjti-v-zal",
+    "slot": 4,
+    "url": "/blog/articles/134-kak-otvechat-klubu-na-vopros-ob-opyte-i-obuchenii.html",
+    "description": "«Расскажите об опыте». Кандидат перечисляет курсы, темы, названия методик и добавляет, что быстро всему учится. Руководитель слушает и не задаёт больше вопросов.…"
+  },
+  {
+    "id": 135,
+    "title": "Чек-лист первых трёх дней начинающего тренера",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "direction_slug": "probnik-vyjti-v-zal",
+    "slot": 5,
+    "url": "/blog/articles/135-chek-list-pervyh-treh-dnej-nachinayushego-trenera.html",
+    "description": "Первые три дня в новом зале проходят быстро и бестолково: десять новых лиц, незнакомая планировка, расписание, к которому нужно привыкнуть. К концу третьего дня…"
+  },
+  {
+    "id": 136,
+    "title": "Как выбрать между Старт, Профи и Эксперт",
+    "direction": "Пакеты обучения Smart Fitness",
+    "direction_slug": "pakety-obucheniya",
+    "slot": 1,
+    "url": "/blog/articles/136-kak-vybrat-mezhdu-start-profi-i-ekspert.html",
+    "description": "Человек смотрит на три варианта и выбирает самый полный: «раз уж учиться, то по максимуму». Через месяц выясняется, что часть программы ему просто не нужна — он…"
+  },
+  {
+    "id": 137,
+    "title": "Что меняется для тренера между сертификатом и дипломом",
+    "direction": "Пакеты обучения Smart Fitness",
+    "direction_slug": "pakety-obucheniya",
+    "slot": 2,
+    "url": "/blog/articles/137-chto-menyaetsya-dlya-trenera-mezhdu-sertifikatom-i-diplomom.html",
+    "description": "На собеседовании руководитель спрашивает: «Документ есть?» Человек отвечает: «Да, сертификат». Дальше вопрос: «А что он подтверждает?» И оказывается, что выпускник…"
+  },
+  {
+    "id": 138,
+    "title": "Когда имеет смысл выбирать расширенный пакет обучения",
+    "direction": "Пакеты обучения Smart Fitness",
+    "direction_slug": "pakety-obucheniya",
+    "slot": 3,
+    "url": "/blog/articles/138-kogda-imeet-smysl-vybirat-rasshirennyj-paket-obucheniya.html",
+    "description": "Разговор о выборе пакета обычно идёт по цене: какой дешевле, какой выгоднее, где больше материалов. Но материалы — не то, за что стоит платить больше. Платить имеет…"
+  },
+  {
+    "id": 139,
+    "title": "Как оценить объём обучения перед оплатой",
+    "direction": "Пакеты обучения Smart Fitness",
+    "direction_slug": "pakety-obucheniya",
+    "slot": 4,
+    "url": "/blog/articles/139-kak-ocenit-obem-obucheniya-pered-oplatoj.html",
+    "description": "Перед оплатой человек смотрит на список: двадцать модулей, сорок видео, три вебинара в неделю. Звучит солидно. Но за этими цифрами не видно главного — сколько времени…"
+  },
+  {
+    "id": 140,
+    "title": "Как построить путь обучения от базового курса к специализации",
+    "direction": "Пакеты обучения Smart Fitness",
+    "direction_slug": "pakety-obucheniya",
+    "slot": 5,
+    "url": "/blog/articles/140-kak-postroit-put-obucheniya-ot-bazovogo-kursa-k-specializacii.html",
+    "description": "Человек решает учиться сразу по трём направлениям: персональные тренировки, группы и реабилитация. Он покупает всё, проходит часть, сдаётся и возвращается к мысли,…"
+  },
+  {
+    "id": 141,
+    "title": "Как выбрать способ оплаты обучения Smart Fitness",
+    "direction": "Рассрочка на обучение",
+    "direction_slug": "rassrochka",
+    "slot": 1,
+    "url": "/blog/articles/141-kak-vybrat-sposob-oplaty-obucheniya-smart-fitness.html",
+    "description": "Человек выбирает обучение, видит цену и решает, что «дорого, но осилю». Через два месяца выясняется, что платёж съедает половину свободных денег, и приходится либо…"
+  },
+  {
+    "id": 142,
+    "title": "Когда подходит схема 70/30, а когда банковская рассрочка",
+    "direction": "Рассрочка на обучение",
+    "direction_slug": "rassrochka",
+    "slot": 2,
+    "url": "/blog/articles/142-kogda-podhodit-shema-70-30-a-kogda-bankovskaya-rassrochka.html",
+    "description": "Человек выбирает между двумя схемами: первая — с частичной оплатой в начале и остатком позже, вторая — с равными платежами через банк. Он сравнивает итоговые суммы,…"
+  },
+  {
+    "id": 143,
+    "title": "Как рассчитать ежемесячную нагрузку по стоимости курса",
+    "direction": "Рассрочка на обучение",
+    "direction_slug": "rassrochka",
+    "slot": 3,
+    "url": "/blog/articles/143-kak-rasschitat-ezhemesyachnuyu-nagruzku-po-stoimosti-kursa.html",
+    "description": "Курс стоит сумму, которую человек делит на двенадцать месяцев и получает платёж. Он сравнивает его с зарплатой, видит, что выходит около 15%, и решает, что это…"
+  },
+  {
+    "id": 144,
+    "title": "Что происходит с обучением после первого платежа",
+    "direction": "Рассрочка на обучение",
+    "direction_slug": "rassrochka",
+    "slot": 4,
+    "url": "/blog/articles/144-chto-proishodit-s-obucheniem-posle-pervogo-platezha.html",
+    "description": "Первый платёж внесён, доступ открыт, и человек с энтузиазмом открывает материалы — двадцать четыре блока, форум, вебинары, чат. Через неделю он понимает, что не…"
+  },
+  {
+    "id": 145,
+    "title": "Какие вопросы задать перед оформлением рассрочки",
+    "direction": "Рассрочка на обучение",
+    "direction_slug": "rassrochka",
+    "slot": 5,
+    "url": "/blog/articles/145-kakie-voprosy-zadat-pered-oformleniem-rassrochki.html",
+    "description": "Договор подписан. Через месяц выясняется, что при пропуске платежа к сумме добавляется начисление, о котором никто не упомянул, а при досрочной оплате часть процентов…"
+  },
+  {
+    "id": 146,
+    "title": "Как выбрать обучение фитнес-тренера без опыта",
+    "direction": "FAQ об обучении",
+    "direction_slug": "faq-ob-obuchenii",
+    "slot": 1,
+    "url": "/blog/articles/146-kak-vybrat-obuchenie-fitnes-trenera-bez-opyta.html",
+    "description": "Человек без опыта выбирает курс по описанию: красивые формулировки, обещание диплома, много отзывов. Через полгода у него на руках документ и полное отсутствие…"
+  },
+  {
+    "id": 147,
+    "title": "Какие документы выдаются после разных форматов обучения",
+    "direction": "FAQ об обучении",
+    "direction_slug": "faq-ob-obuchenii",
+    "slot": 2,
+    "url": "/blog/articles/147-kakie-dokumenty-vydayutsya-posle-raznyh-formatov-obucheniya.html",
+    "description": "Человек выбрал программу, где на сайте было написано «государственный диплом». По итогам обучения получил сертификат школы — действительный, но не тот, что ожидал. На…"
+  },
+  {
+    "id": 148,
+    "title": "Как устроен экзамен фитнес-тренера",
+    "direction": "FAQ об обучении",
+    "direction_slug": "faq-ob-obuchenii",
+    "slot": 3,
+    "url": "/blog/articles/148-kak-ustroen-ekzamen-fitnes-trenera.html",
+    "description": "На экзамене человек отвечает на двадцать вопросов теории уверенно и без запинки — и не проходит практическую часть. Потому что на практике нужно провести фрагмент…"
+  },
+  {
+    "id": 149,
+    "title": "Сколько времени реально закладывать на обучение",
+    "direction": "FAQ об обучении",
+    "direction_slug": "faq-ob-obuchenii",
+    "slot": 4,
+    "url": "/blog/articles/149-skolko-vremeni-realno-zakladyvat-na-obuchenie.html",
+    "description": "Человек записывается на курс и рассчитывает проходить его «по два часа в день». Реальность: работа, дорога, семья — и в неделю получается четыре часа, а не…"
+  },
+  {
+    "id": 150,
+    "title": "Что происходит после получения диплома",
+    "direction": "FAQ об обучении",
+    "direction_slug": "faq-ob-obuchenii",
+    "slot": 5,
+    "url": "/blog/articles/150-chto-proishodit-posle-polucheniya-diploma.html",
+    "description": "Диплом на руках. Первые два дня — эйфория, потом пустота: непонятно, что делать дальше. Одни начинают бесконечно рассылать резюме, другие ждут «подходящего момента»,…"
+  },
+  {
+    "id": 151,
+    "title": "Как подготовить резюме фитнес-тренера для клуба",
+    "direction": "Вакансии и работа",
+    "direction_slug": "vakansii-i-rabota",
+    "slot": 1,
+    "url": "/blog/articles/151-kak-podgotovit-rezyume-fitnes-trenera-dlya-kluba.html",
+    "description": "Резюме на две страницы: образование, курсы, «коммуникабельная, ответственная, быстро обучаюсь, люблю спорт». Руководитель клуба читает третье такое за утро и…"
+  },
+  {
+    "id": 152,
+    "title": "Что показать работодателю, если опыта ещё нет",
+    "direction": "Вакансии и работа",
+    "direction_slug": "vakansii-i-rabota",
+    "slot": 2,
+    "url": "/blog/articles/152-chto-pokazat-rabotodatelyu-esli-opyta-eshe-net.html",
+    "description": "Собеседование, вопрос: «Расскажите, что вы умеете». Кандидат перечисляет курсы, темы, названия методик — и видит, что руководитель не реагирует. Курсы есть у всех,…"
+  },
+  {
+    "id": 153,
+    "title": "Как подготовиться к первой смене в клубе",
+    "direction": "Вакансии и работа",
+    "direction_slug": "vakansii-i-rabota",
+    "slot": 3,
+    "url": "/blog/articles/153-kak-podgotovitsya-k-pervoj-smene-v-klube.html",
+    "description": "Первый рабочий день. Тренер выходит в зал и понимает, что не знает половины обычных вещей: где хранится инвентарь, кто отвечает за расписание, что делать, если…"
+  },
+  {
+    "id": 154,
+    "title": "Как выбирать между залом, группами и онлайн-форматом",
+    "direction": "Вакансии и работа",
+    "direction_slug": "vakansii-i-rabota",
+    "slot": 4,
+    "url": "/blog/articles/154-kak-vybirat-mezhdu-zalom-gruppami-i-onlajn-formatom.html",
+    "description": "Тренер работает в зале четыре года и решает уйти в онлайн: кажется, что это проще и свободнее. Через три месяца он сдаётся — потому что в зале он видел клиента и…"
+  },
+  {
+    "id": 155,
+    "title": "Как использовать Тренерку и рекомендации при поиске работы",
+    "direction": "Вакансии и работа",
+    "direction_slug": "vakansii-i-rabota",
+    "slot": 5,
+    "url": "/blog/articles/155-kak-ispolzovat-trenerku-i-rekomendacii-pri-poiske-raboty.html",
+    "description": "Выпускник ищет работу две недели: рассылает резюме по клубам города и не получает ответов. При этом в его учебной группе восемь человек, трое уже работают, а один — в…"
+  },
+  {
+    "id": 156,
+    "title": "Какие инструменты нужны тренеру в ежедневной работе",
+    "direction": "Ресурсы тренера",
+    "direction_slug": "resursy-trenera",
+    "slot": 1,
+    "url": "/blog/articles/156-kakie-instrumenty-nuzhny-treneru-v-ezhednevnoj-rabote.html",
+    "description": "Тренер заводит себе шесть приложений: заметки, трекер привычек, таблицы, мессенджеры, два сервиса для программ. Через месяц работает только один — переписка, а…"
+  },
+  {
+    "id": 157,
+    "title": "Как использовать чек-листы и шаблоны без бюрократии",
+    "direction": "Ресурсы тренера",
+    "direction_slug": "resursy-trenera",
+    "slot": 2,
+    "url": "/blog/articles/157-kak-ispolzovat-chek-listy-i-shablony-bez-byurokratii.html",
+    "description": "Клуб вводит чек-лист на первичную встречу: восемнадцать пунктов, от анкеты здоровья до подписания согласия. Первую неделю заполняют все, вторую — половина, третью —…"
+  },
+  {
+    "id": 158,
+    "title": "Как организовать базу клиентов и историю работы",
+    "direction": "Ресурсы тренера",
+    "direction_slug": "resursy-trenera",
+    "slot": 3,
+    "url": "/blog/articles/158-kak-organizovat-bazu-klientov-i-istoriyu-raboty.html",
+    "description": "Тренер ведёт двенадцать клиентов. Информация о них рассеяна: часть в блокноте, часть в переписке, часть в голове. Когда клиент спрашивает, что было три месяца назад,…"
+  },
+  {
+    "id": 159,
+    "title": "Как использовать партнёрские ресурсы Академии в практике",
+    "direction": "Ресурсы тренера",
+    "direction_slug": "resursy-trenera",
+    "slot": 4,
+    "url": "/blog/articles/159-kak-ispolzovat-partnerskie-resursy-akademii-v-praktike.html",
+    "description": "Тренер получает доступ к материалам и сохраняет их в папку: программы, разборы, шаблоны. Через полгода папка не открывалась ни разу. Материалы есть, доступа к ним в…"
+  },
+  {
+    "id": 160,
+    "title": "Как собрать личный рабочий кабинет тренера",
+    "direction": "Ресурсы тренера",
+    "direction_slug": "resursy-trenera",
+    "slot": 5,
+    "url": "/blog/articles/160-kak-sobrat-lichnyj-rabochij-kabinet-trenera.html",
+    "description": "Тренер решает «собрать кабинет»: скачивает шаблоны, заводит папки, подписывается на сервисы. Через две недели всё заброшено, а работа идёт по-прежнему: переписка,…"
+  },
+  {
+    "id": 161,
+    "title": "Как работает партнёрская программа Smart Fitness",
+    "direction": "Партнёрская программа",
+    "direction_slug": "partnerskaya-programma",
+    "slot": 1,
+    "url": "/blog/articles/161-kak-rabotaet-partnerskaya-programma-smart-fitness.html",
+    "description": "Тренер получает партнёрскую ссылку и размещает её во всех своих каналах: сторис, шапка профиля, чат с клиентами, комментарии под постами. Первый месяц — четыре…"
+  },
+  {
+    "id": 162,
+    "title": "Как правильно передавать ученика на обучение",
+    "direction": "Партнёрская программа",
+    "direction_slug": "partnerskaya-programma",
+    "slot": 2,
+    "url": "/blog/articles/162-kak-pravilno-peredavat-uchenika-na-obuchenie.html",
+    "description": "Человек спрашивает у тренера: «Хочу пойти учиться на тренера, с чего начать?» Тренер отправляет ссылку и говорит: «Там всё написано». Через неделю человек не…"
+  },
+  {
+    "id": 163,
+    "title": "Что важно знать о начислении партнёрского процента",
+    "direction": "Партнёрская программа",
+    "direction_slug": "partnerskaya-programma",
+    "slot": 3,
+    "url": "/blog/articles/163-chto-vazhno-znat-o-nachislenii-partnerskogo-procenta.html",
+    "description": "Тренер привёл человека на обучение и ждёт выплату. Проходит месяц, выплаты нет. Он спрашивает и узнаёт: начисление происходит после полной оплаты курса, а человек…"
+  },
+  {
+    "id": 164,
+    "title": "Как клуб может участвовать в подготовке будущих тренеров",
+    "direction": "Партнёрская программа",
+    "direction_slug": "partnerskaya-programma",
+    "slot": 4,
+    "url": "/blog/articles/164-kak-klub-mozhet-uchastvovat-v-podgotovke-budushih-trenerov.html",
+    "description": "Клуб нуждается в тренерах, но на рынке мало людей с опытом, а новички требуют долгого обучения. При этом рядом учатся люди, которые ищут место для практики. Между…"
+  },
+  {
+    "id": 165,
+    "title": "Как встроить партнёрскую программу в работу специалиста",
+    "direction": "Партнёрская программа",
+    "direction_slug": "partnerskaya-programma",
+    "slot": 5,
+    "url": "/blog/articles/165-kak-vstroit-partnerskuyu-programmu-v-rabotu-specialista.html",
+    "description": "Специалист решает участвовать в партнёрской программе и делает из этого проект: план публикаций, отдельная воронка, заготовленные сообщения, напоминания себе. Через…"
+  },
+  {
+    "id": 166,
+    "title": "Как сформулировать оффер фитнес-тренера для своего города",
+    "direction": "Продажи и личный бренд тренера",
+    "direction_slug": "prodazhi-i-lichnyj-brend-trenera",
+    "slot": 1,
+    "url": "/blog/articles/166-kak-sformulirovat-offer-fitnes-trenera-dlya-svoego-goroda.html",
+    "description": "Тренер пишет о себе так: «Помогу вам достичь целей в фитнесе и полюбить своё тело». Так пишут почти все, и именно поэтому такое объявление не работает: на него…"
+  },
+  {
+    "id": 167,
+    "title": "Как отвечать на «дорого» без демпинга",
+    "direction": "Продажи и личный бренд тренера",
+    "direction_slug": "prodazhi-i-lichnyj-brend-trenera",
+    "slot": 2,
+    "url": "/blog/articles/167-kak-otvechat-na-dorogo-bez-dempinga.html",
+    "description": "Клиент смотрит на цену и говорит: «Дорого». Тренер, не желая терять человека, отвечает: «Могу сделать скидку». Клиент соглашается, начинает заниматься — и через месяц…"
+  },
+  {
+    "id": 168,
+    "title": "Как оформить профиль тренера так, чтобы было понятно, что он продаёт",
+    "direction": "Продажи и личный бренд тренера",
+    "direction_slug": "prodazhi-i-lichnyj-brend-trenera",
+    "slot": 3,
+    "url": "/blog/articles/168-kak-oformit-profil-trenera-tak-chtoby-bylo-ponyatno-chto-on-prodaet.html",
+    "description": "Профиль тренера выглядит так: фотография из зала, в шапке список сертификатов, в описании — «люблю свою работу, помогу стать лучшей версией себя». Человек листает, не…"
+  },
+  {
+    "id": 169,
+    "title": "Как вести контент, который приводит к диалогу",
+    "direction": "Продажи и личный бренд тренера",
+    "direction_slug": "prodazhi-i-lichnyj-brend-trenera",
+    "slot": 4,
+    "url": "/blog/articles/169-kak-vesti-kontent-kotoryj-privodit-k-dialogu.html",
+    "description": "Тренер ведёт блог: упражнения, разборы техники, мотивационные цитаты, редкие личные посты. Охваты неплохие, лайки есть, комментарии изредка. За три месяца — два…"
+  },
+  {
+    "id": 170,
+    "title": "Как построить путь от первого сообщения до покупки пакета",
+    "direction": "Продажи и личный бренд тренера",
+    "direction_slug": "prodazhi-i-lichnyj-brend-trenera",
+    "slot": 5,
+    "url": "/blog/articles/170-kak-postroit-put-ot-pervogo-soobsheniya-do-pokupki-paketa.html",
+    "description": "Человек написал: «Здравствуйте, хочу заниматься». Тренер отвечает: «Отлично, у меня есть пакет из десяти занятий — вот цена». Человек пропадает. Тренер делает вывод,…"
+  },
+  {
+    "id": 171,
+    "title": "Что из биохакинга действительно применимо в работе тренера",
+    "direction": "Биохакинг для тренера",
+    "direction_slug": "biohaking-dlya-trenera",
+    "slot": 1,
+    "url": "/blog/articles/171-chto-iz-biohakinga-dejstvitelno-primenimo-v-rabote-trenera.html",
+    "description": "Клиент приходит с папкой: часы, кольцо, приложение сна, пульсометр, ещё два приложения для привычек. Он показывает графики за месяц и говорит, что «всё под…"
+  },
+  {
+    "id": 172,
+    "title": "Как отделять практические методы от маркетинговых обещаний",
+    "direction": "Биохакинг для тренера",
+    "direction_slug": "biohaking-dlya-trenera",
+    "slot": 2,
+    "url": "/blog/articles/172-kak-otdelyat-prakticheskie-metody-ot-marketingovyh-obeshanij.html",
+    "description": "В ленте попадается метод: «дыхание по схеме за две минуты повышает силу на 12%». Выглядит красиво, есть картинка и восторженные отзывы. Тренер пробует с клиентом,…"
+  },
+  {
+    "id": 173,
+    "title": "Как обсуждать сон и восстановление без псевдонаучных рекомендаций",
+    "direction": "Биохакинг для тренера",
+    "direction_slug": "biohaking-dlya-trenera",
+    "slot": 3,
+    "url": "/blog/articles/173-kak-obsuzhdat-son-i-vosstanovlenie-bez-psevdonauchnyh-rekomendacij.html",
+    "description": "Клиент жалуется, что «не восстанавливается». Тренер отвечает в духе ленты: нужно ложиться до двадцати трёх, спать в прохладной комнате, не есть за три часа до сна,…"
+  },
+  {
+    "id": 174,
+    "title": "Какие показатели имеет смысл отслеживать у клиента",
+    "direction": "Биохакинг для тренера",
+    "direction_slug": "biohaking-dlya-trenera",
+    "slot": 4,
+    "url": "/blog/articles/174-kakie-pokazateli-imeet-smysl-otslezhivat-u-klienta.html",
+    "description": "Клиент приносит таблицу из тридцати колонок: пульс покоя, вариабельность, часы сна, фазы, шаги, калории, белок, вода, вес по дням. Заполняет месяц, потом бросает.…"
+  },
+  {
+    "id": 175,
+    "title": "Как не превращать консультацию тренера в медицинскую услугу",
+    "direction": "Биохакинг для тренера",
+    "direction_slug": "biohaking-dlya-trenera",
+    "slot": 5,
+    "url": "/blog/articles/175-kak-ne-prevrashat-konsultaciyu-trenera-v-medicinskuyu-uslugu.html",
+    "description": "Клиент приносит анализы и спрашивает: «Вот ферритин, вот витамин D, что будем делать?» Тренер, желая быть полезным, начинает объяснять, что значат показатели и какие…"
+  },
+  {
+    "id": 176,
+    "title": "Как устроен цикл фитнес-сопровождения 12–16 недель",
+    "direction": "Сопровождение Самата Назирова",
+    "direction_slug": "soprovozhdenie-samata",
+    "slot": 1,
+    "url": "/blog/articles/176-kak-ustroen-cikl-fitnes-soprovozhdeniya-12-16-nedel.html",
+    "description": "Клиент приходит с целью, занимается три недели, вдохновляется, потом пропадает. Через два месяца возвращается и начинает сначала. Так повторяется третий раз. Проблема…"
+  },
+  {
+    "id": 177,
+    "title": "Как проходит еженедельный чек-ин клиента",
+    "direction": "Сопровождение Самата Назирова",
+    "direction_slug": "soprovozhdenie-samata",
+    "slot": 2,
+    "url": "/blog/articles/177-kak-prohodit-ezhenedelnyj-chek-in-klienta.html",
+    "description": "Клиент присылает отчёт: «Неделя прошла нормально, тренировался, всё хорошо». Тренер отвечает: «Молодец, продолжаем». Через месяц выясняется, что тренировок было три…"
+  },
+  {
+    "id": 178,
+    "title": "Как Smart OPT используется в сопровождении",
+    "direction": "Сопровождение Самата Назирова",
+    "direction_slug": "soprovozhdenie-samata",
+    "slot": 3,
+    "url": "/blog/articles/178-kak-smart-opt-ispolzuetsya-v-soprovozhdenii.html",
+    "description": "Клиент приходит на сопровождение с ожиданием «мне скажут, что делать». Через две недели он делает всё правильно, но только рядом: ждёт подтверждения по каждому шагу,…"
+  },
+  {
+    "id": 179,
+    "title": "Как корректировать нагрузку по обратной связи клиента",
+    "direction": "Сопровождение Самата Назирова",
+    "direction_slug": "soprovozhdenie-samata",
+    "slot": 4,
+    "url": "/blog/articles/179-kak-korrektirovat-nagruzku-po-obratnoj-svyazi-klienta.html",
+    "description": "Клиент пишет: «Тяжело, устал, упражнение не идёт». Тренер снижает вес на 10% и убирает один подход. Через неделю клиент пишет то же самое. Тогда тренер меняет…"
+  },
+  {
+    "id": 180,
+    "title": "Что делать после завершения цикла сопровождения",
+    "direction": "Сопровождение Самата Назирова",
+    "direction_slug": "soprovozhdenie-samata",
+    "slot": 5,
+    "url": "/blog/articles/180-chto-delat-posle-zaversheniya-cikla-soprovozhdeniya.html",
+    "description": "Цикл заканчивается, и разговор идёт в двух направлениях: либо «спасибо, я дальше сам» без обсуждения результатов, либо «продлеваем ещё на шестнадцать недель», тоже…"
+  },
+  {
+    "id": 181,
+    "title": "Когда фитнес-проекту нужен консалтинг",
+    "direction": "Консалтинг Smart Fitness",
+    "direction_slug": "konsalting",
+    "slot": 1,
+    "url": "/blog/articles/181-kogda-fitnes-proektu-nuzhen-konsalting.html",
+    "description": "Студия работает четвёртый год. Выручка не падает и не растёт. Клиенты приходят, часть остаётся, часть уходит, но никто не может сказать, почему уходят именно эти.…"
+  },
+  {
+    "id": 182,
+    "title": "Какие данные подготовить к аудиту фитнес-студии",
+    "direction": "Консалтинг Smart Fitness",
+    "direction_slug": "konsalting",
+    "slot": 2,
+    "url": "/blog/articles/182-kakie-dannye-podgotovit-k-auditu-fitnes-studii.html",
+    "description": "Аудит начинается, и на первый вопрос «сколько клиентов у вас было в прошлом месяце» владелец отвечает: «Ну, человек восемьдесят». На вопрос «сколько из них ушли» —…"
+  },
+  {
+    "id": 183,
+    "title": "Как проходит работа от диагностики до внедрения",
+    "direction": "Консалтинг Smart Fitness",
+    "direction_slug": "konsalting",
+    "slot": 3,
+    "url": "/blog/articles/183-kak-prohodit-rabota-ot-diagnostiki-do-vnedreniya.html",
+    "description": "Консалтинг представляют как разовую встречу: пришёл специалист, посмотрел, сказал. На практике польза появляется не на встрече, а через месяц-два после неё — если…"
+  },
+  {
+    "id": 184,
+    "title": "Какие процессы в клубе чаще всего требуют систематизации",
+    "direction": "Консалтинг Smart Fitness",
+    "direction_slug": "konsalting",
+    "slot": 4,
+    "url": "/blog/articles/184-kakie-processy-v-klube-chashe-vsego-trebuyut-sistematizacii.html",
+    "description": "В клубе работает двенадцать человек, и каждый делает работу по-своему: один тренер ведёт записи в блокноте, другой в телефоне, третий не ведёт вообще. Клиент…"
+  },
+  {
+    "id": 185,
+    "title": "Как оценить результат консалтинга по измеримым показателям",
+    "direction": "Консалтинг Smart Fitness",
+    "direction_slug": "konsalting",
+    "slot": 5,
+    "url": "/blog/articles/185-kak-ocenit-rezultat-konsaltinga-po-izmerimym-pokazatelyam.html",
+    "description": "Проект консалтинга закончен, и на вопрос «стало ли лучше» владелец отвечает: «Кажется, да. По крайней мере, теперь понятнее, что делать». Это честный ответ, но из…"
+  },
+  {
+    "id": 186,
+    "title": "Как планировать неделю тренера при плотном расписании",
+    "direction": "Личная эффективность тренера",
+    "direction_slug": "lichnaya-effektivnost-trenera",
+    "slot": 1,
+    "url": "/blog/articles/186-kak-planirovat-nedelyu-trenera-pri-plotnom-raspisanii.html",
+    "description": "Тренер ведёт четырнадцать клиентов, шесть из них занимаются по утрам, четверо вечером, ещё четверо в выходные. Планы на неделю он пишет по вечерам, но выполняет их…"
+  },
+  {
+    "id": 187,
+    "title": "Как не терять клиентов и задачи в чатах",
+    "direction": "Личная эффективность тренера",
+    "direction_slug": "lichnaya-effektivnost-trenera",
+    "slot": 2,
+    "url": "/blog/articles/187-kak-ne-teryat-klientov-i-zadachi-v-chatah.html",
+    "description": "Клиент написал в понедельник, что хочет перенести занятие на четверг. В среду он напомнил. В четверг тренер пришёл в зал, а клиента нет — потому что перенос в итоге…"
+  },
+  {
+    "id": 188,
+    "title": "Как разбирать конфликт с клиентом или коллегой",
+    "direction": "Личная эффективность тренера",
+    "direction_slug": "lichnaya-effektivnost-trenera",
+    "slot": 3,
+    "url": "/blog/articles/188-kak-razbirat-konflikt-s-klientom-ili-kollegoj.html",
+    "description": "Клиентка пишет: «Вы вчера опоздали на двадцать минут и не извинились, я плачу за час, а не за сорок минут». Тренер отвечает: «Я предупредил за час в сообщении».…"
+  },
+  {
+    "id": 189,
+    "title": "Как контролировать нагрузку и не превращать занятость в выгорание",
+    "direction": "Личная эффективность тренера",
+    "direction_slug": "lichnaya-effektivnost-trenera",
+    "slot": 4,
+    "url": "/blog/articles/189-kak-kontrolirovat-nagruzku-i-ne-prevrashat-zanyatost-v-vygoranie.html",
+    "description": "Тренер ведёт семь занятий в день. Физически это выполнимо, но к концу дня он не может разговаривать: объяснять что-то восьмому человеку не остаётся сил. Через полгода…"
+  },
+  {
+    "id": 190,
+    "title": "Как построить рабочую систему на следующие 14 дней",
+    "direction": "Личная эффективность тренера",
+    "direction_slug": "lichnaya-effektivnost-trenera",
+    "slot": 5,
+    "url": "/blog/articles/190-kak-postroit-rabochuyu-sistemu-na-sleduyushie-14-dnej.html",
+    "description": "Тренер решает «наладить систему»: покупает приложение для заметок, подписывается на материалы по продуктивности, рисует красивую структуру папок. Через две недели…"
+  },
+  {
+    "id": 191,
+    "title": "Что даёт подписка Smart Fitness PRO действующему тренеру",
+    "direction": "Smart Fitness PRO",
+    "direction_slug": "smart-fitness-pro",
+    "slot": 1,
+    "url": "/blog/articles/191-chto-daet-podpiska-smart-fitness-pro-dejstvuyushemu-treneru.html",
+    "description": "Тренер работает четвёртый год. Клиенты есть, расписание заполнено, доход стабилен — и именно поэтому он перестаёт учиться. Последнее, что он открывал, было два года…"
+  },
+  {
+    "id": 192,
+    "title": "Какие задачи удобно решать внутри PRO каждую неделю",
+    "direction": "Smart Fitness PRO",
+    "direction_slug": "smart-fitness-pro",
+    "slot": 2,
+    "url": "/blog/articles/192-kakie-zadachi-udobno-reshat-vnutri-pro-kazhduyu-nedelyu.html",
+    "description": "Понедельник, у тренера три свободных часа между клиентами. Он открывает регулярный формат, видит десять материалов, выбирает интересный, читает, закрывает и уходит…"
+  },
+  {
+    "id": 193,
+    "title": "Как использовать шаблоны и разборы без накопления материалов",
+    "direction": "Smart Fitness PRO",
+    "direction_slug": "smart-fitness-pro",
+    "slot": 3,
+    "url": "/blog/articles/193-kak-ispolzovat-shablony-i-razbory-bez-nakopleniya-materialov.html",
+    "description": "У тренера папка «материалы» на 4 гигабайта. Шаблоны программ, разборы упражнений, конспекты вебинаров, скриншоты. За два года она открывалась, чтобы что-то найти, раз…"
+  },
+  {
+    "id": 194,
+    "title": "Когда PRO достаточно, а когда нужен отдельный курс",
+    "direction": "Smart Fitness PRO",
+    "direction_slug": "smart-fitness-pro",
+    "slot": 4,
+    "url": "/blog/articles/194-kogda-pro-dostatochno-a-kogda-nuzhen-otdelnyj-kurs.html",
+    "description": "Тренер решает задачу: клиентка приходит после операции на колене, и он не знает, что с ней делать. Он покупает курс, идёт три недели, получает много полезного об…"
+  },
+  {
+    "id": 195,
+    "title": "Как встроить PRO в систему регулярного профессионального развития",
+    "direction": "Smart Fitness PRO",
+    "direction_slug": "smart-fitness-pro",
+    "slot": 5,
+    "url": "/blog/articles/195-kak-vstroit-pro-v-sistemu-regulyarnogo-professionalnogo-razvitiya.html",
+    "description": "Тренер собирается развиваться: ведёт список книг, сохраняет материалы, планирует разбирать свои тренировки по видео. Через месяц ничего из этого не происходит — не…"
+  },
+  {
+    "id": 196,
+    "title": "Франшиза Smart Fitness: кабинет партнёра или городской центр",
+    "direction": "Франшиза Smart Fitness",
+    "direction_slug": "franshiza-smart-fitness",
+    "slot": 1,
+    "url": "/blog/articles/196-kabinet-ili-gorodskoj-centr-smart-fitness-kakoj-format-nuzhen-partneru.html",
+    "description": "Партнёр выбирает формат по размеру входа: меньше — кабинет, больше — центр. Через полгода в кабинете не хватает места для групп, а центр не заполняется людьми, потому…"
+  },
+  {
+    "id": 197,
+    "title": "Что входит в суммы 350 000 ₽ и 790 000 ₽ по франшизе Smart Fitness",
+    "direction": "Франшиза Smart Fitness",
+    "direction_slug": "franshiza-smart-fitness",
+    "slot": 2,
+    "url": "/blog/articles/197-chto-vhodit-vo-vhod-350-000-i-790-000.html",
+    "description": "Партнёр считает бюджет как сумму входа и приходит к выводу, что денег хватает ровно. Через два месяца выясняется, что зал нужно оплачивать ещё до того, как он начнёт…"
+  },
+  {
+    "id": 198,
+    "title": "Как запустить город Smart Fitness: от договора до первого набора",
+    "direction": "Франшиза Smart Fitness",
+    "direction_slug": "franshiza-smart-fitness",
+    "slot": 3,
+    "url": "/blog/articles/198-kak-zapuskaetsya-gorod-smart-fitness-ot-dogovora-do-pervogo-nabora.html",
+    "description": "Договор подписан, помещение найдено, реклама запущена. Первый месяц — три заявки, из них одна пришла на занятие. Партнёр делает вывод, что в городе нет спроса. Чаще…"
+  },
+  {
+    "id": 199,
+    "title": "Экономика франшизы Smart Fitness: как считать модель кабинета",
+    "direction": "Франшиза Smart Fitness",
+    "direction_slug": "franshiza-smart-fitness",
+    "slot": 4,
+    "url": "/blog/articles/199-kak-schitat-ekonomiku-kabineta-po-modeli-smart-fitness.html",
+    "description": "Финансовая модель на бумаге выглядит убедительно: 60 клиентов, средний чек, точка окупаемости через шесть месяцев. Через полгода клиентов 22, чек ниже, окупаемости не…"
+  },
+  {
+    "id": 200,
+    "title": "Франшиза Smart Fitness: территория, правила и требования к партнёру",
+    "direction": "Франшиза Smart Fitness",
+    "direction_slug": "franshiza-smart-fitness",
+    "slot": 5,
+    "url": "/blog/articles/200-kakie-pravila-territorii-i-partnerstva-nuzhno-ponimat-do-zapuska.html",
+    "description": "Партнёр подписывает договор, смотрит на размер входа и запускает проект. Через три месяца выясняется, что по договору он обязан соблюдать стандарты оформления,…"
+  },
+  {
+    "id": 201,
+    "title": "Как вести клиента в Тренерке от первой анкеты до плана",
+    "direction": "Тренерка и рабочий кабинет",
+    "direction_slug": "trenerka-rabochij-kabinet",
+    "slot": 1,
+    "url": "/blog/articles/201-kak-vesti-klienta-v-trenerke-ot-pervoj-ankety-do-plana.html",
+    "description": "Клиент заполнил анкету, тренер посмотрел её, провёл первую тренировку и написал «всё ок». Через месяц клиент спрашивает, есть ли прогресс, — и тренер идёт…"
+  },
+  {
+    "id": 202,
+    "title": "Какие данные тренеру нужно фиксировать в рабочем кабинете",
+    "direction": "Тренерка и рабочий кабинет",
+    "direction_slug": "trenerka-rabochij-kabinet",
+    "slot": 2,
+    "url": "/blog/articles/202-kakie-dannye-treneru-nuzhno-fiksirovat-v-rabochem-kabinete.html",
+    "description": "Тренер заводит таблицу учёта и через месяц бросает её: слишком много колонок. Вес, обхваты по пяти точкам, калории, белок, шаги, сон, пульс покоя, самочувствие по…"
+  },
+  {
+    "id": 203,
+    "title": "Как использовать чек-ин для корректировки программы",
+    "direction": "Тренерка и рабочий кабинет",
+    "direction_slug": "trenerka-rabochij-kabinet",
+    "slot": 3,
+    "url": "/blog/articles/203-kak-ispolzovat-chek-in-dlya-korrektirovki-programmy.html",
+    "description": "Клиент пишет в пятницу: «Что-то не идёт, присед стоит третий раз подряд». Тренер открывает программу и меняет схему: вместо 4×8 ставит 5×5, добавляет упражнение,…"
+  },
+  {
+    "id": 204,
+    "title": "Как не превращать цифровой кабинет в склад заметок",
+    "direction": "Тренерка и рабочий кабинет",
+    "direction_slug": "trenerka-rabochij-kabinet",
+    "slot": 4,
+    "url": "/blog/articles/204-kak-ne-prevrashat-cifrovoj-kabinet-v-sklad-zametok.html",
+    "description": "Тренер ищет, почему у клиента год назад не шёл жим. Открывает заметки в телефоне — там обрывок. Открывает переписку — там три сообщения. Открывает таблицу — там…"
+  },
+  {
+    "id": 205,
+    "title": "Как связать работу тренера в зале и онлайн-сопровождение",
+    "direction": "Тренерка и рабочий кабинет",
+    "direction_slug": "trenerka-rabochij-kabinet",
+    "slot": 5,
+    "url": "/blog/articles/205-kak-svyazat-rabotu-trenera-v-zale-i-onlajn-soprovozhdenie.html",
+    "description": "Клиент приходит в зал по вторникам, и в остальные дни тренируется сам. Тренер ведёт два разных мира: в зале — одна программа, в мессенджере — другая, потому что там…"
+  },
+  {
+    "id": 206,
+    "title": "Как искать клуб для первой практики",
+    "direction": "Карта клубов и партнёры",
+    "direction_slug": "karta-klubov",
+    "slot": 1,
+    "url": "/blog/articles/206-kak-iskat-klub-dlya-pervoj-praktiki.html",
+    "description": "Выпускница обходит пять клубов рядом с домом, в каждом оставляет резюме и слышит одно и то же: «Пока вакансий нет, оставьте, мы позвоним». Она ждёт две недели и…"
+  },
+  {
+    "id": 207,
+    "title": "Как оценить площадку перед договорённостью о практике",
+    "direction": "Карта клубов и партнёры",
+    "direction_slug": "karta-klubov",
+    "slot": 2,
+    "url": "/blog/articles/207-kak-ocenit-ploshadku-pered-dogovorennostyu-o-praktike.html",
+    "description": "Студия выглядит отлично: свет, музыка, оборудование новое. Тренер соглашается работать за процент, выходит на первую тренировку — и выясняется, что зал занят до…"
+  },
+  {
+    "id": 208,
+    "title": "Что уточнить у клуба до первого занятия",
+    "direction": "Карта клубов и партнёры",
+    "direction_slug": "karta-klubov",
+    "slot": 3,
+    "url": "/blog/articles/208-chto-utochnit-u-kluba-do-pervogo-zanyatiya.html",
+    "description": "Первое занятие назначено на девять утра. В девять зал закрыт, потому что администратор приходит к десяти. Клиент стоит у дверей, тренер объясняет по телефону — и…"
+  },
+  {
+    "id": 209,
+    "title": "Как использовать партнёрскую сеть Академии при поиске площадки",
+    "direction": "Карта клубов и партнёры",
+    "direction_slug": "karta-klubov",
+    "slot": 4,
+    "url": "/blog/articles/209-kak-ispolzovat-partnerskuyu-set-akademii-pri-poiske-ploshadki.html",
+    "description": "Выпускник ищет площадку в новом городе: обходит клубы, оставляет сообщения, но ответа почти нет. При этом в его учебной группе восемь человек, из которых трое…"
+  },
+  {
+    "id": 210,
+    "title": "Как подготовиться к работе в новом городе",
+    "direction": "Карта клубов и партнёры",
+    "direction_slug": "karta-klubov",
+    "slot": 5,
+    "url": "/blog/articles/210-kak-podgotovitsya-k-rabote-v-novom-gorode.html",
+    "description": "Тренер переезжает в другой город и первые шесть недель тратит на то, что в прежнем городе занимало минуты: куда пойти, где расписание, кого спросить. Часть клиентов…"
+  },
+  {
+    "id": 211,
+    "title": "Как использовать КБЖУ-калькулятор на первой встрече с клиентом",
+    "direction": "Калькулятор КБЖУ",
+    "direction_slug": "kalkulyator-kbju",
+    "slot": 1,
+    "url": "/blog/articles/211-kak-ispolzovat-kbzhu-kalkulyator-na-pervoj-vstreche-s-klientom.html",
+    "description": "Первая встреча, клиентка 34 года, цель — минус 8 кг. Тренер открывает калькулятор, вводит вес, рост, возраст и говорит: «Твой ориентир — 1600 калорий и 110 граммов…"
+  },
+  {
+    "id": 212,
+    "title": "Какие данные нужны для расчёта калорий и белка",
+    "direction": "Калькулятор КБЖУ",
+    "direction_slug": "kalkulyator-kbju",
+    "slot": 2,
+    "url": "/blog/articles/212-kakie-dannye-nuzhny-dlya-rascheta-kalorij-i-belka.html",
+    "description": "Тренер отправляет клиенту анкету: «Пришлите вес, рост, возраст, уровень активности, цель». Клиент присылает: 92 кг, 178 см, 41 год, «активность средняя», «хочу…"
+  },
+  {
+    "id": 213,
+    "title": "Как объяснить клиенту результат расчёта",
+    "direction": "Калькулятор КБЖУ",
+    "direction_slug": "kalkulyator-kbju",
+    "slot": 3,
+    "url": "/blog/articles/213-kak-obyasnit-klientu-rezultat-rascheta.html",
+    "description": "Тренер присылает клиенту сообщение: «Твой расчёт: 1 800 калорий, БЖУ 120/60/200. Начни с этого». Клиент открывает таблицу, считает день, к вечеру понимает, что уже…"
+  },
+  {
+    "id": 214,
+    "title": "Почему расчёт — отправная точка, а не готовая диета",
+    "direction": "Калькулятор КБЖУ",
+    "direction_slug": "kalkulyator-kbju",
+    "slot": 4,
+    "url": "/blog/articles/214-pochemu-raschet-otpravnaya-tochka-a-ne-gotovaya-dieta.html",
+    "description": "Клиент получает расчёт и через месяц приходит с вопросом: «Я всё делал по вашим цифрам, но почему вес встал?» Смотрим записи — и оказывается, что неделю назад он…"
+  },
+  {
+    "id": 215,
+    "title": "Как использовать расчёт в дальнейшем сопровождении",
+    "direction": "Калькулятор КБЖУ",
+    "direction_slug": "kalkulyator-kbju",
+    "slot": 5,
+    "url": "/blog/articles/215-kak-ispolzovat-raschet-v-dalnejshem-soprovozhdenii.html",
+    "description": "Клиент занимается четвёртый месяц. Расчёт был сделан на первой встрече, тогда же и закрыт — в папке строка с цифрами, к которой тренер больше не возвращался. Вес за…"
+  },
+  {
+    "id": 216,
+    "title": "Что такое 1ПМ и зачем тренеру его рассчитывать",
+    "direction": "Калькулятор 1ПМ",
+    "direction_slug": "kalkulyator-1pm",
+    "slot": 1,
+    "url": "/blog/articles/216-chto-takoe-1pm-i-zachem-treneru-ego-rasschityvat.html",
+    "description": "Тренер решает выяснить одноповторный максимум клиента в приседе. Разминка, подход на пять, подход на три, подход на одно — и на этом «одном» спина уходит вперёд…"
+  },
+  {
+    "id": 217,
+    "title": "Как использовать расчёт рабочего веса без максимального подхода",
+    "direction": "Калькулятор 1ПМ",
+    "direction_slug": "kalkulyator-1pm",
+    "slot": 2,
+    "url": "/blog/articles/217-kak-ispolzovat-raschet-rabochego-vesa-bez-maksimalnogo-podhoda.html",
+    "description": "Клиент спрашивает: «А какой у меня максимум?» Тренер отвечает: «Давай так: сделай десять повторений с этим весом и чисто — и я скажу тебе, где ты сейчас, без единого…"
+  },
+  {
+    "id": 218,
+    "title": "Как интерпретировать 1ПМ при планировании нагрузки",
+    "direction": "Калькулятор 1ПМ",
+    "direction_slug": "kalkulyator-1pm",
+    "slot": 3,
+    "url": "/blog/articles/218-kak-interpretirovat-1pm-pri-planirovanii-nagruzki.html",
+    "description": "Два клиента с одинаковым расчётным максимумом в приседе — 100 кг. У одного это устойчивая цифра, подтверждённая подходами на протяжении месяцев. У другого — результат…"
+  },
+  {
+    "id": 219,
+    "title": "Как сравнивать динамику силы клиента",
+    "direction": "Калькулятор 1ПМ",
+    "direction_slug": "kalkulyator-1pm",
+    "slot": 4,
+    "url": "/blog/articles/219-kak-sravnivat-dinamiku-sily-klienta.html",
+    "description": "Клиент занимается полгода. Тренер показывает таблицу: присед вырос с 60 до 95 кг. Клиент кивает и почти не реагирует. Через неделю выясняется, почему: он сравнивает…"
+  },
+  {
+    "id": 220,
+    "title": "Какие ограничения нужно учитывать при расчёте",
+    "direction": "Калькулятор 1ПМ",
+    "direction_slug": "kalkulyator-1pm",
+    "slot": 5,
+    "url": "/blog/articles/220-kakie-ogranicheniya-nuzhno-uchityvat-pri-raschete.html",
+    "description": "Клиент с расчётным максимумом 120 кг в приседе приходит с давлением и приёмом препаратов. Тренер берёт шкалу, считает 80% — 96 кг — и ставит четыре подхода на шесть.…"
+  },
+  {
+    "id": 221,
+    "title": "Как тренеру разбирать технику базового упражнения",
+    "direction": "Техника базовых упражнений",
+    "direction_slug": "tehnika-bazovyh-uprazhnenij",
+    "slot": 1,
+    "url": "/blog/articles/221-kak-treneru-razbirat-tehniku-bazovogo-uprazhneniya.html",
+    "description": "Тренер ставит клиента в присед со штангой. Тот делает повторение, и тренер начинает: «Колени, взгляд, таз назад, спина прямее, дыши». Клиент кивает, делает ещё…"
+  },
+  {
+    "id": 222,
+    "title": "Как давать короткую и понятную корректировку",
+    "direction": "Техника базовых упражнений",
+    "direction_slug": "tehnika-bazovyh-uprazhnenij",
+    "slot": 2,
+    "url": "/blog/articles/222-kak-davat-korotkuyu-i-ponyatnuyu-korrektirovku.html",
+    "description": "Клиент делает тягу. Тренер говорит: «Спина, плечи, ноги, темп, дыхание, короче — держи всё вместе». Клиент замирает, потому что держать всё вместе невозможно.…"
+  },
+  {
+    "id": 223,
+    "title": "Как выбрать ключевую ошибку вместо списка замечаний",
+    "direction": "Техника базовых упражнений",
+    "direction_slug": "tehnika-bazovyh-uprazhnenij",
+    "slot": 3,
+    "url": "/blog/articles/223-kak-vybrat-klyuchevuyu-oshibku-vmesto-spiska-zamechanij.html",
+    "description": "Два клиента делают становую тягу. У первой пятки отрываются, таз поднимается раньше штанги, голова запрокинута. У второй поясница слегка сгибается на последних…"
+  },
+  {
+    "id": 224,
+    "title": "Как проверять технику по видео",
+    "direction": "Техника базовых упражнений",
+    "direction_slug": "tehnika-bazovyh-uprazhnenij",
+    "slot": 4,
+    "url": "/blog/articles/224-kak-proveryat-tehniku-po-video.html",
+    "description": "Клиент присылает видео приседания. Снято сверху, с высоты человеческого роста, камера на столе, видна только верхняя половина тела. Тренер смотрит минуту, отвечает «в…"
+  },
+  {
+    "id": 225,
+    "title": "Как фиксировать технический прогресс клиента",
+    "direction": "Техника базовых упражнений",
+    "direction_slug": "tehnika-bazovyh-uprazhnenij",
+    "slot": 5,
+    "url": "/blog/articles/225-kak-fiksirovat-tehnicheskij-progress-klienta.html",
+    "description": "Клиент тренируется три месяца. Тренер уверен, что техника стала лучше, но на вопрос «в чём именно» отвечает: «Приседает ровнее». Клиент кивает, потому что спорить не…"
+  },
+  {
+    "id": 226,
+    "title": "Как фитнес-клубу определить потребности команды в обучении",
+    "direction": "Корпоративное обучение",
+    "direction_slug": "korporativnoe-obuchenie",
+    "slot": 1,
+    "url": "/blog/articles/226-kak-fitnes-klubu-opredelit-potrebnosti-komandy-v-obuchenii.html",
+    "description": "Клуб собирает заявки на обучение команды. Семь из двенадцати тренеров просят «курс по питанию», пятеро — «что-то про мотивацию клиентов», трое — «повышение…"
+  },
+  {
+    "id": 227,
+    "title": "Как составить корпоративную программу развития тренеров",
+    "direction": "Корпоративное обучение",
+    "direction_slug": "korporativnoe-obuchenie",
+    "slot": 2,
+    "url": "/blog/articles/227-kak-sostavit-korporativnuyu-programmu-razvitiya-trenerov.html",
+    "description": "Годовая программа развития тренеров в клубе обычно выглядит как список курсов: в марте — биомеханика, в июне — питание, в сентябре — продажи. Год заканчивается,…"
+  },
+  {
+    "id": 228,
+    "title": "Как организовать обучение без остановки работы клуба",
+    "direction": "Корпоративное обучение",
+    "direction_slug": "korporativnoe-obuchenie",
+    "slot": 3,
+    "url": "/blog/articles/228-kak-organizovat-obuchenie-bez-ostanovki-raboty-kluba.html",
+    "description": "Клуб организует обучение: два дня, десять тренеров, приглашённый специалист. Но расписание смен никто не пересматривал, и в первый день трое не приходят — у них…"
+  },
+  {
+    "id": 229,
+    "title": "Какие компетенции команды проверять после обучения",
+    "direction": "Корпоративное обучение",
+    "direction_slug": "korporativnoe-obuchenie",
+    "slot": 4,
+    "url": "/blog/articles/229-kakie-kompetencii-komandy-proveryat-posle-obucheniya.html",
+    "description": "После курса клуб просит тренеров заполнить анкету: что понравилось, что запомнилось, что будете применять. Все пишут положительно, половина ставит пятёрки. Через два…"
+  },
+  {
+    "id": 230,
+    "title": "Как сделать корпоративное обучение регулярным процессом",
+    "direction": "Корпоративное обучение",
+    "direction_slug": "korporativnoe-obuchenie",
+    "slot": 5,
+    "url": "/blog/articles/230-kak-sdelat-korporativnoe-obuchenie-regulyarnym-processom.html",
+    "description": "Обучение начинается ярко: приглашённый тренер, два дня, все довольны. Через три месяца — новая тема, но собрать людей уже сложнее, потому что «сейчас загрузка». Через…"
+  },
+  {
+    "id": 231,
+    "title": "Как компании выбрать формат корпоративного фитнеса",
+    "direction": "Корпоративный спорт",
+    "direction_slug": "korporativnyj-sport",
+    "slot": 1,
+    "url": "/blog/articles/231-kak-kompanii-vybrat-format-korporativnogo-fitnesa.html",
+    "description": "Компания на 180 человек решает заняться корпоративным фитнесом. HR приносит три предложения: абонементы в клуб рядом, две тренировки в неделю в переговорной с…"
+  },
+  {
+    "id": 232,
+    "title": "Как запустить первую корпоративную тренировочную программу",
+    "direction": "Корпоративный спорт",
+    "direction_slug": "korporativnyj-sport",
+    "slot": 2,
+    "url": "/blog/articles/232-kak-zapustit-pervuyu-korporativnuyu-trenirovochnuyu-programmu.html",
+    "description": "Первый запуск обычно выглядит так. Согласовали бюджет, выбрали тренера, объявили в общем чате: «С понедельника тренировки в 19:00 в зале на третьем этаже». В…"
+  },
+  {
+    "id": 233,
+    "title": "Как подобрать формат под разный уровень сотрудников",
+    "direction": "Корпоративный спорт",
+    "direction_slug": "korporativnyj-sport",
+    "slot": 3,
+    "url": "/blog/articles/233-kak-podobrat-format-pod-raznyj-uroven-sotrudnikov.html",
+    "description": "Корпоративная группа обычно собирается предельно разнородная: менеджер, который бегает марафоны, бухгалтер, у которой не было нагрузок двадцать лет, парень из отдела…"
+  },
+  {
+    "id": 234,
+    "title": "Как измерять участие сотрудников в программе",
+    "direction": "Корпоративный спорт",
+    "direction_slug": "korporativnyj-sport",
+    "slot": 4,
+    "url": "/blog/articles/234-kak-izmeryat-uchastie-sotrudnikov-v-programme.html",
+    "description": "Первый отчёт о корпоративной программе обычно выглядит так: «за месяц проведено 32 занятия, общая посещаемость 214 человек». Цифры солидные, а решения из них не…"
+  },
+  {
+    "id": 235,
+    "title": "Как развивать корпоративный спорт после первого месяца",
+    "direction": "Корпоративный спорт",
+    "direction_slug": "korporativnyj-sport",
+    "slot": 5,
+    "url": "/blog/articles/235-kak-razvivat-korporativnyj-sport-posle-pervogo-mesyaca.html",
+    "description": "Первый месяц корпоративной программы почти всегда успешен: интересно, ново, группы собираются. Проблема начинается на пятый-шестой неделе, когда новизна…"
+  },
+  {
+    "id": 236,
+    "title": "Какие документы важно проверить перед обучением фитнес-тренера",
+    "direction": "Документы и лицензия",
+    "direction_slug": "dokumenty-i-licenziya",
+    "slot": 1,
+    "url": "/blog/articles/236-kakie-dokumenty-vazhno-proverit-pered-obucheniem-fitnes-trenera.html",
+    "description": "Будущая ученица курса читает сайт: «государственный диплом», «международный сертификат», «лицензированная программа». Читает отзывы, где выпускники довольны, и…"
+  },
+  {
+    "id": 237,
+    "title": "Чем сертификат отличается от диплома в рамках обучения",
+    "direction": "Документы и лицензия",
+    "direction_slug": "dokumenty-i-licenziya",
+    "slot": 2,
+    "url": "/blog/articles/237-chem-sertifikat-otlichaetsya-ot-diploma-v-ramkah-obucheniya.html",
+    "description": "На собеседовании в клубе выпускницу просят показать подтверждение квалификации. Она достаёт сертификат школы — красивый, с печатью, с указанием программы.…"
+  },
+  {
+    "id": 238,
+    "title": "Что нужно знать о лицензии образовательной организации",
+    "direction": "Документы и лицензия",
+    "direction_slug": "dokumenty-i-licenziya",
+    "slot": 3,
+    "url": "/blog/articles/238-chto-nuzhno-znat-o-licenzii-obrazovatelnoj-organizacii.html",
+    "description": "«У нас есть лицензия» — фраза, которая заканчивает большинство вопросов о документах. Но лицензия лицензии не равна: одна организация имеет право вести…"
+  },
+  {
+    "id": 239,
+    "title": "Когда имеет смысл уточнять требования конкретного клуба",
+    "direction": "Документы и лицензия",
+    "direction_slug": "dokumenty-i-licenziya",
+    "slot": 4,
+    "url": "/blog/articles/239-kogda-imeet-smysl-utochnyat-trebovaniya-konkretnogo-kluba.html",
+    "description": "Человек собирается на курс и начинает обзванивать клубы своего города: какие документы нужны для работы. Первые три звонка дают три разных ответа. В одном клубе…"
+  },
+  {
+    "id": 240,
+    "title": "Как хранить документы и подтверждения обучения",
+    "direction": "Документы и лицензия",
+    "direction_slug": "dokumenty-i-licenziya",
+    "slot": 5,
+    "url": "/blog/articles/240-kak-hranit-dokumenty-i-podtverzhdeniya-obucheniya.html",
+    "description": "Человек приходит на собеседование в клуб. Руководитель просит подтверждение квалификации. Выпускник начинает вспоминать: сертификат был в конверте, конверт в коробке,…"
+  },
+  {
+    "id": 241,
+    "title": "Как действовать в первую неделю после получения диплома",
+    "direction": "Трудоустройство после обучения",
+    "direction_slug": "trudoustrojstvo-posle-obucheniya",
+    "slot": 1,
+    "url": "/blog/articles/241-kak-dejstvovat-v-pervuyu-nedelyu-posle-polucheniya-diploma.html",
+    "description": "Диплом на руках, эйфория на два дня, а потом наступает пустая неделя. Выпускница открывает сайты вакансий, сохраняет двадцать пять объявлений, не отправляет ни одного…"
+  },
+  {
+    "id": 242,
+    "title": "Как подготовиться к отклику в фитнес-клуб",
+    "direction": "Трудоустройство после обучения",
+    "direction_slug": "trudoustrojstvo-posle-obucheniya",
+    "slot": 2,
+    "url": "/blog/articles/242-kak-podgotovitsya-k-otkliku-v-fitnes-klub.html",
+    "description": "Типичный отклик выглядит так: «Здравствуйте! Меня зовут Анна, я закончила курс фитнес-тренера, очень хочу работать, быстро обучаюсь, ответственная и коммуникабельная.…"
+  },
+  {
+    "id": 243,
+    "title": "Как показать практические навыки без большого стажа",
+    "direction": "Трудоустройство после обучения",
+    "direction_slug": "trudoustrojstvo-posle-obucheniya",
+    "slot": 3,
+    "url": "/blog/articles/243-kak-pokazat-prakticheskie-navyki-bez-bolshogo-stazha.html",
+    "description": "На пробном занятии выпускник курса выходит к клиенту — женщине 40 лет, которая хочет «убрать живот». Он показывает присед, объясняет, делает всё правильно технически…"
+  },
+  {
+    "id": 244,
+    "title": "Как подготовиться к пробному занятию при найме",
+    "direction": "Трудоустройство после обучения",
+    "direction_slug": "trudoustrojstvo-posle-obucheniya",
+    "slot": 4,
+    "url": "/blog/articles/244-kak-podgotovitsya-k-probnomu-zanyatiyu-pri-najme.html",
+    "description": "Пробное занятие при найме: руководитель зала даёт выпускнику клиента, у которого «немного болит колено, но это не страшно». Выпускник выучил на курсе программу для…"
+  },
+  {
+    "id": 245,
+    "title": "Как перейти от первой вакансии к стабильной практике",
+    "direction": "Трудоустройство после обучения",
+    "direction_slug": "trudoustrojstvo-posle-obucheniya",
+    "slot": 5,
+    "url": "/blog/articles/245-kak-perejti-ot-pervoj-vakansii-k-stabilnoj-praktike.html",
+    "description": "Первая работа: три персональных клиента в вечерние часы, зарплата зависит от проведённых тренировок, а тренировки зависят от того, вернутся ли клиенты. Через два…"
+  },
+  {
+    "id": 246,
+    "title": "Что означает роль регионального лидера Smart Fitness",
+    "direction": "Региональный лидер Smart Fitness",
+    "direction_slug": "regionalnyj-lider",
+    "slot": 1,
+    "url": "/blog/articles/246-chto-oznachaet-rol-regionalnogo-lidera-smart-fitness.html",
+    "description": "Разговор о роли обычно начинается с вопроса «что мне за это будет», и он не главный. Интереснее ответ на другой вопрос: что делает человек, которого в городе называют…"
+  },
+  {
+    "id": 247,
+    "title": "Как строится работа с тренерами в регионе",
+    "direction": "Региональный лидер Smart Fitness",
+    "direction_slug": "regionalnyj-lider",
+    "slot": 2,
+    "url": "/blog/articles/247-kak-stroitsya-rabota-s-trenerami-v-regione.html",
+    "description": "Первое, что делает новый региональный лидер, — собирает всех тренеров города в общий чат. В чат приходит сорок человек, за первый месяц сто сообщений, за второй —…"
+  },
+  {
+    "id": 248,
+    "title": "Какие задачи региональный лидер может закрывать на местном уровне",
+    "direction": "Региональный лидер Smart Fitness",
+    "direction_slug": "regionalnyj-lider",
+    "slot": 3,
+    "url": "/blog/articles/248-kakie-zadachi-regionalnyj-lider-mozhet-zakryvat-na-mestnom-urovne.html",
+    "description": "Вопрос «что я могу решать сам» задают все новые региональные лидеры, и он опасен тем, что ведёт к списку прав и запретов. Полезнее сформулировать иначе: какие задачи…"
+  },
+  {
+    "id": 249,
+    "title": "Как развивать профессиональное сообщество тренеров в городе",
+    "direction": "Региональный лидер Smart Fitness",
+    "direction_slug": "regionalnyj-lider",
+    "slot": 4,
+    "url": "/blog/articles/249-kak-razvivat-professionalnoe-soobshestvo-trenerov-v-gorode.html",
+    "description": "Сообщество тренеров города обычно пытаются строить через чат: собрать всех, вести обсуждения, делиться материалами. Через три месяца в чате тишина, а организатор…"
+  },
+  {
+    "id": 250,
+    "title": "Как оценивать развитие регионального направления",
+    "direction": "Региональный лидер Smart Fitness",
+    "direction_slug": "regionalnyj-lider",
+    "slot": 5,
+    "url": "/blog/articles/250-kak-ocenivat-razvitie-regionalnogo-napravleniya.html",
+    "description": "Обычная ошибка в оценке направления — отчёт, в котором всё хорошо: контактов много, встреч много, в чате активность. Читаешь и понимаешь, что решение принимать не по…"
+  }
+]

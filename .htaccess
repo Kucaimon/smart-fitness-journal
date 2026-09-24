@@ -1,0 +1,17 @@
+# Smart Fitness Journal — canonical host / HTTPS / real 404
+Options -MultiViews
+DirectoryIndex index.html
+AddDefaultCharset UTF-8
+
+RewriteEngine On
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} ^www\.sportshopfitness\.ru$ [NC]
+RewriteRule ^ https://sportshopfitness.ru%{REQUEST_URI} [R=301,L,NE]
+
+ErrorDocument 404 /blog/404.html
+
+<IfModule mod_headers.c>
+  <FilesMatch "\.(css|js|svg|webp|jpg|jpeg|png|gif|woff2?)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>

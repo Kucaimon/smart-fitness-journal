@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /blog/
+
+Sitemap: https://sportshopfitness.ru/blog/sitemap.xml

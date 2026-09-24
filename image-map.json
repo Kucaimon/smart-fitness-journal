@@ -1,0 +1,2252 @@
+[
+  {
+    "num": 1,
+    "title": "Как провести первичную встречу с клиентом: что выяснить до первой тренировки",
+    "direction": "Персональный фитнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/001.webp",
+    "previous_source": "../assets/articles/001.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 2,
+    "title": "Как составить первую программу для новичка без тренировочного опыта",
+    "direction": "Персональный фитнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/002.webp",
+    "previous_source": "../assets/articles/002.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 3,
+    "title": "Как корректировать программу, если клиент перестал прогрессировать",
+    "direction": "Персональный фитнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/003.webp",
+    "previous_source": "../assets/articles/003.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 4,
+    "title": "Как отслеживать прогресс клиента: какие показатели действительно фиксировать",
+    "direction": "Персональный фитнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/004.webp",
+    "previous_source": "../assets/articles/004.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 5,
+    "title": "Как выстроить сопровождение клиента между тренировками",
+    "direction": "Персональный фитнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/009.webp",
+    "previous_source": "../assets/articles/009.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 6,
+    "title": "Как построить первое групповое занятие: сценарий от входа группы до заминки",
+    "direction": "Инструктор групповых программ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/006.webp",
+    "previous_source": "../assets/articles/006.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 7,
+    "title": "Как вести группу разного уровня подготовки без потери темпа",
+    "direction": "Инструктор групповых программ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/007.webp",
+    "previous_source": "../assets/articles/007.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 8,
+    "title": "Как объяснять упражнение группе, чтобы его поняли с первого раза",
+    "direction": "Инструктор групповых программ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/008.webp",
+    "previous_source": "../assets/articles/008.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 9,
+    "title": "Как исправлять технику в группе и не останавливать всё занятие",
+    "direction": "Инструктор групповых программ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/009.webp",
+    "previous_source": "../assets/articles/009.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 10,
+    "title": "Как анализировать занятие после класса и улучшать программу",
+    "direction": "Инструктор групповых программ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/010.webp",
+    "previous_source": "../assets/articles/010.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 11,
+    "title": "Что проверить у новичка перед первой тренировкой в тренажёрном зале",
+    "direction": "Инструктор тренажёрного зала",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/011.webp",
+    "previous_source": "../assets/articles/011.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 12,
+    "title": "Как объяснить технику базового упражнения на тренажёре",
+    "direction": "Инструктор тренажёрного зала",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/012.webp",
+    "previous_source": "../assets/articles/012.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 13,
+    "title": "Как составить безопасный маршрут новичка по залу на первую неделю",
+    "direction": "Инструктор тренажёрного зала",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/013.webp",
+    "previous_source": "../assets/articles/013.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 14,
+    "title": "Как отличать ошибку техники от неподходящей нагрузки",
+    "direction": "Инструктор тренажёрного зала",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/014.webp",
+    "previous_source": "../assets/articles/014.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 15,
+    "title": "Как инструктору тренажёрного зала переводить посетителя в системную практику",
+    "direction": "Инструктор тренажёрного зала",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/015.webp",
+    "previous_source": "../assets/articles/015.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 16,
+    "title": "Как подобрать функциональную нагрузку под уровень клиента",
+    "direction": "Инструктор по функциональному тренингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/016.webp",
+    "previous_source": "../assets/articles/016.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 17,
+    "title": "Как построить функциональную тренировку: блоки, переходы и контроль интенсивности",
+    "direction": "Инструктор по функциональному тренингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/017.webp",
+    "previous_source": "../assets/articles/017.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 18,
+    "title": "Как масштабировать одно упражнение для трёх уровней подготовки",
+    "direction": "Инструктор по функциональному тренингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/018.webp",
+    "previous_source": "../assets/articles/018.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 19,
+    "title": "Как разбирать ошибки в функциональной тренировке после занятия",
+    "direction": "Инструктор по функциональному тренингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/019.webp",
+    "previous_source": "../assets/articles/019.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 20,
+    "title": "Как включить функциональный тренинг в регулярную практику тренера",
+    "direction": "Инструктор по функциональному тренингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/020.webp",
+    "previous_source": "../assets/articles/020.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 21,
+    "title": "Как построить первое занятие йогой для новичков",
+    "direction": "Преподаватель йоги",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/021.webp",
+    "previous_source": "../assets/articles/021.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 22,
+    "title": "Как давать инструкции в асанах: что объяснять до, во время и после движения",
+    "direction": "Преподаватель йоги",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/022.webp",
+    "previous_source": "../assets/articles/022.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 23,
+    "title": "Как составить последовательность занятия под конкретный уровень группы",
+    "direction": "Преподаватель йоги",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/023.webp",
+    "previous_source": "../assets/articles/023.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 24,
+    "title": "Как адаптировать практику, если участники пришли с разной подготовкой",
+    "direction": "Преподаватель йоги",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/024.webp",
+    "previous_source": "../assets/articles/024.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 25,
+    "title": "Как преподавателю йоги разбирать собственное занятие и улучшать подачу",
+    "direction": "Преподаватель йоги",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/025.webp",
+    "previous_source": "../assets/articles/025.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 26,
+    "title": "Как подготовить зал и гамаки к занятию аэройогой",
+    "direction": "Инструктор по аэройоге",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/036.webp",
+    "previous_source": "../assets/articles/036.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 27,
+    "title": "Как провести первое занятие на гамаках для новичков",
+    "direction": "Инструктор по аэройоге",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/037.webp",
+    "previous_source": "../assets/articles/037.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 28,
+    "title": "Как объяснить базовую технику безопасности перед практикой",
+    "direction": "Инструктор по аэройоге",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/038.webp",
+    "previous_source": "../assets/articles/038.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 29,
+    "title": "Как масштабировать упражнения аэройоги под разный уровень группы",
+    "direction": "Инструктор по аэройоге",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/039.webp",
+    "previous_source": "../assets/articles/039.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 30,
+    "title": "Как выстроить регулярные занятия аэройогой в студии",
+    "direction": "Инструктор по аэройоге",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/040.webp",
+    "previous_source": "../assets/articles/040.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 31,
+    "title": "Как построить первое занятие пилатесом для новичка",
+    "direction": "Инструктор по пилатесу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/031.webp",
+    "previous_source": "../assets/articles/031.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 32,
+    "title": "Как объяснять дыхание и контроль корпуса на практике",
+    "direction": "Инструктор по пилатесу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/032.webp",
+    "previous_source": "../assets/articles/032.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 33,
+    "title": "Как подобрать упражнения пилатеса под задачу и уровень группы",
+    "direction": "Инструктор по пилатесу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/033.webp",
+    "previous_source": "../assets/articles/033.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 34,
+    "title": "Как корректировать технику без перегрузки инструкциями",
+    "direction": "Инструктор по пилатесу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/034.webp",
+    "previous_source": "../assets/articles/034.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 35,
+    "title": "Как выстроить последовательность занятий пилатесом на месяц",
+    "direction": "Инструктор по пилатесу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/035.webp",
+    "previous_source": "../assets/articles/035.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 36,
+    "title": "Как построить первое занятие по растяжке без хаотичного набора упражнений",
+    "direction": "Инструктор по стретчингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/stretch-036.webp",
+    "previous_source": "../assets/articles/stretch-036.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 37,
+    "title": "Как выбирать амплитуду и интенсивность для новичка",
+    "direction": "Инструктор по стретчингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/stretch-037.webp",
+    "previous_source": "../assets/articles/stretch-037.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 38,
+    "title": "Как корректировать технику растяжки в группе",
+    "direction": "Инструктор по стретчингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/stretch-038.webp",
+    "previous_source": "../assets/articles/stretch-038.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 39,
+    "title": "Какие ошибки в занятии по стретчингу чаще всего снижают качество работы",
+    "direction": "Инструктор по стретчингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/stretch-039.webp",
+    "previous_source": "../assets/articles/stretch-039.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 40,
+    "title": "Как составить цикл занятий по стретчингу, а не отдельные уроки",
+    "direction": "Инструктор по стретчингу",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/stretch-040.webp",
+    "previous_source": "../assets/articles/stretch-040.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 41,
+    "title": "Как построить первое занятие Zumba для группы новичков",
+    "direction": "Инструктор по зумбе",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/051.webp",
+    "previous_source": "../assets/articles/051.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 42,
+    "title": "Как держать темп группы, если участники двигаются с разной скоростью",
+    "direction": "Инструктор по зумбе",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/052.webp",
+    "previous_source": "../assets/articles/052.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 43,
+    "title": "Как объяснять связки без остановки музыки",
+    "direction": "Инструктор по зумбе",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/053.webp",
+    "previous_source": "../assets/articles/053.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 44,
+    "title": "Как составить плейлист и распределить интенсивность занятия",
+    "direction": "Инструктор по зумбе",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/054.webp",
+    "previous_source": "../assets/articles/054.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 45,
+    "title": "Как удерживать группу Zumba и превращать разовые посещения в регулярные",
+    "direction": "Инструктор по зумбе",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/055.webp",
+    "previous_source": "../assets/articles/055.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 46,
+    "title": "Как провести первое занятие бачате для людей без танцевального опыта",
+    "direction": "Инструктор по бачате",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/056.webp",
+    "previous_source": "../assets/articles/056.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 47,
+    "title": "Как объяснять базовый шаг и счёт человеку, который никогда не танцевал",
+    "direction": "Инструктор по бачате",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/057.webp",
+    "previous_source": "../assets/articles/057.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 48,
+    "title": "Как строить связки от простого к сложному",
+    "direction": "Инструктор по бачате",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/058.webp",
+    "previous_source": "../assets/articles/058.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 49,
+    "title": "Как работать с парой, если уровень партнёров различается",
+    "direction": "Инструктор по бачате",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/059.webp",
+    "previous_source": "../assets/articles/059.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 50,
+    "title": "Как преподавателю бачаты выстроить регулярную группу",
+    "direction": "Инструктор по бачате",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/060.webp",
+    "previous_source": "../assets/articles/060.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 51,
+    "title": "Как построить танцевально-фитнес занятие для начинающей группы",
+    "direction": "Тренер-хореограф",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/166.webp",
+    "previous_source": "../assets/articles/166.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 52,
+    "title": "Как разбирать хореографическую связку по блокам",
+    "direction": "Тренер-хореограф",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/167.webp",
+    "previous_source": "../assets/articles/167.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 53,
+    "title": "Как объяснять движение группе разного уровня",
+    "direction": "Тренер-хореограф",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/168.webp",
+    "previous_source": "../assets/articles/168.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 54,
+    "title": "Как соединять технику, музыку и физическую нагрузку в одном занятии",
+    "direction": "Тренер-хореограф",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/169.webp",
+    "previous_source": "../assets/articles/169.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 55,
+    "title": "Как подготовить программу выступления или открытого класса",
+    "direction": "Тренер-хореограф",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/170.webp",
+    "previous_source": "../assets/articles/170.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 56,
+    "title": "Как подготовить первое занятие аквааэробикой в бассейне",
+    "direction": "Инструктор по аквааэробике",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/061.webp",
+    "previous_source": "../assets/articles/061.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 57,
+    "title": "Как контролировать интенсивность тренировки в воде",
+    "direction": "Инструктор по аквааэробике",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/062.webp",
+    "previous_source": "../assets/articles/062.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 58,
+    "title": "Как объяснять упражнения группе, когда часть движений скрыта водой",
+    "direction": "Инструктор по аквааэробике",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/063.webp",
+    "previous_source": "../assets/articles/063.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 59,
+    "title": "Как адаптировать аквааэробику под разные уровни подготовки",
+    "direction": "Инструктор по аквааэробике",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/064.webp",
+    "previous_source": "../assets/articles/064.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 60,
+    "title": "Как выстроить регулярную программу аквааэробики в клубе",
+    "direction": "Инструктор по аквааэробике",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/065.webp",
+    "previous_source": "../assets/articles/065.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 61,
+    "title": "Как построить первое занятие детским фитнесом",
+    "direction": "Инструктор детского фитнеса",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/071.webp",
+    "previous_source": "../assets/articles/071.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 62,
+    "title": "Как выбирать упражнения с учётом возраста ребёнка",
+    "direction": "Инструктор детского фитнеса",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/072.webp",
+    "previous_source": "../assets/articles/072.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 63,
+    "title": "Как удерживать внимание детей без постоянных замечаний",
+    "direction": "Инструктор детского фитнеса",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/073.webp",
+    "previous_source": "../assets/articles/073.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 64,
+    "title": "Как давать обратную связь ребёнку и родителю по итогам занятия",
+    "direction": "Инструктор детского фитнеса",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/074.webp",
+    "previous_source": "../assets/articles/074.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 65,
+    "title": "Как составить цикл детских тренировок на месяц",
+    "direction": "Инструктор детского фитнеса",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/075.webp",
+    "previous_source": "../assets/articles/075.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 66,
+    "title": "Что проверить перед тренировкой клиента старшего возраста",
+    "direction": "Фитнес-тренер для пожилых",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/092.webp",
+    "previous_source": "../assets/articles/092.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 67,
+    "title": "Как построить первое занятие для пожилого клиента",
+    "direction": "Фитнес-тренер для пожилых",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/129.webp",
+    "previous_source": "../assets/articles/129.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 68,
+    "title": "Как дозировать нагрузку и выбирать темп занятия",
+    "direction": "Фитнес-тренер для пожилых",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/130.webp",
+    "previous_source": "../assets/articles/130.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 69,
+    "title": "Как объяснять упражнения клиенту старшего возраста",
+    "direction": "Фитнес-тренер для пожилых",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/131.webp",
+    "previous_source": "../assets/articles/131.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 70,
+    "title": "Как составить регулярную программу с учётом самочувствия и прогресса",
+    "direction": "Фитнес-тренер для пожилых",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/095.webp",
+    "previous_source": "../assets/articles/095.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 71,
+    "title": "Что нужно выяснить до первой тренировки беременной клиентки",
+    "direction": "Фитнес-тренер для беременных",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/046.webp",
+    "previous_source": "../assets/articles/046.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 72,
+    "title": "Как строить тренировку с учётом срока беременности и самочувствия",
+    "direction": "Фитнес-тренер для беременных",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/047.webp",
+    "previous_source": "../assets/articles/047.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 73,
+    "title": "Как адаптировать упражнения при изменении состояния клиентки",
+    "direction": "Фитнес-тренер для беременных",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/048.webp",
+    "previous_source": "../assets/articles/048.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 74,
+    "title": "Как вести коммуникацию и фиксировать ограничения в работе",
+    "direction": "Фитнес-тренер для беременных",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/049.webp",
+    "previous_source": "../assets/articles/049.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 75,
+    "title": "Как выстроить безопасный формат сопровождения в пределах компетенций тренера",
+    "direction": "Фитнес-тренер для беременных",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/050.webp",
+    "previous_source": "../assets/articles/050.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 76,
+    "title": "Как определить границы компетенций специалиста по ЛФК",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/lfk-76.webp",
+    "previous_source": "../assets/articles/lfk-76.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 77,
+    "title": "Как построить занятие ЛФК от оценки задачи до подбора упражнений",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/lfk-77.webp",
+    "previous_source": "../assets/articles/lfk-77.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 78,
+    "title": "Как адаптировать нагрузку под возможности клиента",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/lfk-78.webp",
+    "previous_source": "../assets/articles/lfk-78.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 79,
+    "title": "Как фиксировать динамику и корректировать программу",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/lfk-79.webp",
+    "previous_source": "../assets/articles/lfk-79.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 80,
+    "title": "Как выстроить работу с клиентом при восстановительных запросах",
+    "direction": "Инструктор по кинезитерапии и ЛФК",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/lfk-80.webp",
+    "previous_source": "../assets/articles/lfk-80.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 81,
+    "title": "Как строить тренировочную работу с запросом на мобильность суставов",
+    "direction": "Реабилитационный фитнес суставов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/121.webp",
+    "previous_source": "../assets/articles/121.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 82,
+    "title": "Какие данные нужно собрать до подбора упражнений",
+    "direction": "Реабилитационный фитнес суставов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/122.webp",
+    "previous_source": "../assets/articles/122.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 83,
+    "title": "Как дозировать нагрузку в восстановительном фитнес-формате",
+    "direction": "Реабилитационный фитнес суставов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/124.webp",
+    "previous_source": "../assets/articles/124.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 84,
+    "title": "Как отслеживать изменения подвижности без обещаний медицинского результата",
+    "direction": "Реабилитационный фитнес суставов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/125.webp",
+    "previous_source": "../assets/articles/125.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 85,
+    "title": "Как выстроить долгосрочную программу работы в пределах компетенций тренера",
+    "direction": "Реабилитационный фитнес суставов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/127.webp",
+    "previous_source": "../assets/articles/127.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 86,
+    "title": "Как корректно обсуждать с клиентом работу с мышцами тазового дна",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/113.webp",
+    "previous_source": "../assets/articles/113.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 87,
+    "title": "Что важно выяснить до включения упражнений в программу",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/116.webp",
+    "previous_source": "../assets/articles/116.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 88,
+    "title": "Как объяснять технику без медицинских обещаний",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/122.webp",
+    "previous_source": "../assets/articles/122.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 89,
+    "title": "Как учитывать деликатность темы в коммуникации с клиентом",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/125.webp",
+    "previous_source": "../assets/articles/125.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 90,
+    "title": "Как встроить работу с тазовым дном в комплексную практику тренера",
+    "direction": "Тазовое дно — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/134.webp",
+    "previous_source": "../assets/articles/134.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 91,
+    "title": "Как подготовить первое занятие МФР для новичка",
+    "direction": "Инструктор МФР",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/113.webp",
+    "previous_source": "../assets/articles/113.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 92,
+    "title": "Как выбирать инструмент МФР под задачу клиента",
+    "direction": "Инструктор МФР",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/114.webp",
+    "previous_source": "../assets/articles/114.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 93,
+    "title": "Как объяснять ощущения и дозировать воздействие",
+    "direction": "Инструктор МФР",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/118.webp",
+    "previous_source": "../assets/articles/118.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 94,
+    "title": "Какие ошибки начинающих инструкторов МФР встречаются чаще всего",
+    "direction": "Инструктор МФР",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/119.webp",
+    "previous_source": "../assets/articles/119.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 95,
+    "title": "Как включать МФР в тренировочную систему, а не делать отдельным ритуалом",
+    "direction": "Инструктор МФР",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/127.webp",
+    "previous_source": "../assets/articles/127.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 96,
+    "title": "Что собрать у клиента до первого сеанса массажа",
+    "direction": "Массажист",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/massage-096.webp",
+    "previous_source": "../assets/articles/massage-096.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 97,
+    "title": "Как подготовить рабочее место и организовать приём",
+    "direction": "Массажист",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/massage-097.webp",
+    "previous_source": "../assets/articles/massage-097.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 98,
+    "title": "Как выстроить коммуникацию до, во время и после сеанса",
+    "direction": "Массажист",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/massage-098.webp",
+    "previous_source": "../assets/articles/massage-098.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 99,
+    "title": "Как фиксировать запрос клиента и границы своей работы",
+    "direction": "Массажист",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/massage-099.webp",
+    "previous_source": "../assets/articles/massage-099.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 100,
+    "title": "Как сформировать повторную практику массажиста без навязчивых продаж",
+    "direction": "Массажист",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/massage-100.webp",
+    "previous_source": "../assets/articles/massage-100.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 101,
+    "title": "Как построить первое занятие Face Fitness",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/156.webp",
+    "previous_source": "../assets/articles/156.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 102,
+    "title": "Как объяснять клиенту технику и контроль движений",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/157.webp",
+    "previous_source": "../assets/articles/157.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 103,
+    "title": "Как составить программу для новичка без перегрузки упражнениями",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/158.webp",
+    "previous_source": "../assets/articles/158.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 104,
+    "title": "Как отслеживать регулярность и изменения в практике",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/159.webp",
+    "previous_source": "../assets/articles/159.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 105,
+    "title": "Как выстроить групповое или индивидуальное направление Face Fitness",
+    "direction": "Face Fitness — курс Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/160.webp",
+    "previous_source": "../assets/articles/160.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 106,
+    "title": "Как провести первую велнес-консультацию и определить запрос клиента",
+    "direction": "Велнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/106.webp",
+    "previous_source": "../assets/articles/106.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 107,
+    "title": "Как собрать программу сопровождения без набора случайных практик",
+    "direction": "Велнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/107.webp",
+    "previous_source": "../assets/articles/107.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 108,
+    "title": "Как разделять задачи фитнеса, восстановления и образа жизни",
+    "direction": "Велнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/108.webp",
+    "previous_source": "../assets/articles/108.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 109,
+    "title": "Как контролировать выполнение рекомендаций без давления",
+    "direction": "Велнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/109.webp",
+    "previous_source": "../assets/articles/109.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 110,
+    "title": "Как выстроить долгосрочную велнес-практику",
+    "direction": "Велнес-тренер",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/110.webp",
+    "previous_source": "../assets/articles/110.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 111,
+    "title": "Как провести первый онлайн-чек-ин и собрать данные клиента",
+    "direction": "Онлайн-сопровождение клиентов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/generated-p01.webp",
+    "previous_source": "../assets/articles/generated-p01.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 112,
+    "title": "Как составить план на неделю вместо программы «на год»",
+    "direction": "Онлайн-сопровождение клиентов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/generated-p02.webp",
+    "previous_source": "../assets/articles/generated-p02.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 113,
+    "title": "Как проверять технику клиента по видео",
+    "direction": "Онлайн-сопровождение клиентов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/generated-p03.webp",
+    "previous_source": "../assets/articles/generated-p03.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 114,
+    "title": "Как корректировать нагрузку по обратной связи",
+    "direction": "Онлайн-сопровождение клиентов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/generated-p04.webp",
+    "previous_source": "../assets/articles/generated-p04.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 115,
+    "title": "Как организовать онлайн-сопровождение так, чтобы клиент не пропадал",
+    "direction": "Онлайн-сопровождение клиентов",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/generated-p05.webp",
+    "previous_source": "../assets/articles/generated-p05.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 116,
+    "title": "Как провести первую консультацию по питанию: структура встречи",
+    "direction": "Нутрициолог",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-116.webp",
+    "previous_source": "../assets/articles/nutrition-116.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 117,
+    "title": "Какие данные собрать до составления рекомендаций",
+    "direction": "Нутрициолог",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-117.webp",
+    "previous_source": "../assets/articles/nutrition-117.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 118,
+    "title": "Как разбирать рацион клиента без универсального шаблона",
+    "direction": "Нутрициолог",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-118.webp",
+    "previous_source": "../assets/articles/nutrition-118.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 119,
+    "title": "Как объяснять клиенту калории и белок простым языком",
+    "direction": "Нутрициолог",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-119.webp",
+    "previous_source": "../assets/articles/nutrition-119.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 120,
+    "title": "Как выстроить повторные консультации и контроль динамики",
+    "direction": "Нутрициолог",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-120.webp",
+    "previous_source": "../assets/articles/nutrition-120.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 121,
+    "title": "Как понять, готов ли тренер к переходу на более высокий чек",
+    "direction": "Тренер 200+",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/191.webp",
+    "previous_source": "../assets/articles/191.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 122,
+    "title": "Как собрать оффер персонального тренера вокруг конкретного результата",
+    "direction": "Тренер 200+",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/192.webp",
+    "previous_source": "../assets/articles/192.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 123,
+    "title": "Как считать загрузку, чек и повторные продажи",
+    "direction": "Тренер 200+",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/193.webp",
+    "previous_source": "../assets/articles/193.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 124,
+    "title": "Как добавить онлайн и группы без разрушения расписания",
+    "direction": "Тренер 200+",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/195.webp",
+    "previous_source": "../assets/articles/195.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 125,
+    "title": "Как построить шестимесячный план роста практики",
+    "direction": "Тренер 200+",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/205.webp",
+    "previous_source": "../assets/articles/205.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 126,
+    "title": "Как подготовиться к очному обучению фитнес-тренера",
+    "direction": "Очное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/132.webp",
+    "previous_source": "../assets/articles/132.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 127,
+    "title": "Что отрабатывать в зале на очной практике в первую очередь",
+    "direction": "Очное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/134.webp",
+    "previous_source": "../assets/articles/134.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 128,
+    "title": "Как использовать занятия с преподавателем для постановки техники",
+    "direction": "Очное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/141.webp",
+    "previous_source": "../assets/articles/141.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 129,
+    "title": "Как подготовиться к практическому экзамену",
+    "direction": "Очное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/142.webp",
+    "previous_source": "../assets/articles/142.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 130,
+    "title": "Как перенести очную практику в самостоятельную работу",
+    "direction": "Очное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/147.webp",
+    "previous_source": "../assets/articles/147.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 131,
+    "title": "Что подготовить до первой смены в фитнес-клубе",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/218.webp",
+    "previous_source": "../assets/articles/218.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 132,
+    "title": "Как собрать первый урок тренера без лишней теории",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/219.webp",
+    "previous_source": "../assets/articles/219.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 133,
+    "title": "Как сформулировать пакет услуг перед выходом в зал",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/220.webp",
+    "previous_source": "../assets/articles/220.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 134,
+    "title": "Как отвечать клубу на вопрос об опыте и обучении",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/223.webp",
+    "previous_source": "../assets/articles/223.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 135,
+    "title": "Чек-лист первых трёх дней начинающего тренера",
+    "direction": "Пробник «Как выйти в зал тренером»",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/224.webp",
+    "previous_source": "../assets/articles/224.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 136,
+    "title": "Как выбрать между Старт, Профи и Эксперт",
+    "direction": "Пакеты обучения Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/136.webp",
+    "previous_source": "../assets/articles/147.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 137,
+    "title": "Что меняется для тренера между сертификатом и дипломом",
+    "direction": "Пакеты обучения Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/137.webp",
+    "previous_source": "../assets/articles/149.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 138,
+    "title": "Когда имеет смысл выбирать расширенный пакет обучения",
+    "direction": "Пакеты обучения Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/138.webp",
+    "previous_source": "../assets/articles/150.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 139,
+    "title": "Как оценить объём обучения перед оплатой",
+    "direction": "Пакеты обучения Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/139.webp",
+    "previous_source": "../assets/articles/190.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 140,
+    "title": "Как построить путь обучения от базового курса к специализации",
+    "direction": "Пакеты обучения Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/140.webp",
+    "previous_source": "../assets/articles/197.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 141,
+    "title": "Как выбрать способ оплаты обучения Smart Fitness",
+    "direction": "Рассрочка на обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/141.webp",
+    "previous_source": "../assets/articles/147.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 142,
+    "title": "Когда подходит схема 70/30, а когда банковская рассрочка",
+    "direction": "Рассрочка на обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/142.webp",
+    "previous_source": "../assets/articles/149.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 143,
+    "title": "Как рассчитать ежемесячную нагрузку по стоимости курса",
+    "direction": "Рассрочка на обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/143.webp",
+    "previous_source": "../assets/articles/150.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 144,
+    "title": "Что происходит с обучением после первого платежа",
+    "direction": "Рассрочка на обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/144.webp",
+    "previous_source": "../assets/articles/179.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 145,
+    "title": "Какие вопросы задать перед оформлением рассрочки",
+    "direction": "Рассрочка на обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/145.webp",
+    "previous_source": "../assets/articles/190.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 146,
+    "title": "Как выбрать обучение фитнес-тренера без опыта",
+    "direction": "FAQ об обучении",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/146.webp",
+    "previous_source": "../assets/articles/146.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 147,
+    "title": "Какие документы выдаются после разных форматов обучения",
+    "direction": "FAQ об обучении",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/148.webp",
+    "previous_source": "../assets/articles/147.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 148,
+    "title": "Как устроен экзамен фитнес-тренера",
+    "direction": "FAQ об обучении",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/150.webp",
+    "previous_source": "../assets/articles/148.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 149,
+    "title": "Сколько времени реально закладывать на обучение",
+    "direction": "FAQ об обучении",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/154.webp",
+    "previous_source": "../assets/articles/149.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 150,
+    "title": "Что происходит после получения диплома",
+    "direction": "FAQ об обучении",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/155.webp",
+    "previous_source": "../assets/articles/150.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 151,
+    "title": "Как подготовить резюме фитнес-тренера для клуба",
+    "direction": "Вакансии и работа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/223.webp",
+    "previous_source": "../assets/articles/223.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 152,
+    "title": "Что показать работодателю, если опыта ещё нет",
+    "direction": "Вакансии и работа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/224.webp",
+    "previous_source": "../assets/articles/224.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 153,
+    "title": "Как подготовиться к первой смене в клубе",
+    "direction": "Вакансии и работа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/225.webp",
+    "previous_source": "../assets/articles/225.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 154,
+    "title": "Как выбирать между залом, группами и онлайн-форматом",
+    "direction": "Вакансии и работа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/243.webp",
+    "previous_source": "../assets/articles/243.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 155,
+    "title": "Как использовать Тренерку и рекомендации при поиске работы",
+    "direction": "Вакансии и работа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/244.webp",
+    "previous_source": "../assets/articles/244.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 156,
+    "title": "Какие инструменты нужны тренеру в ежедневной работе",
+    "direction": "Ресурсы тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/201.webp",
+    "previous_source": "../assets/articles/201.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 157,
+    "title": "Как использовать чек-листы и шаблоны без бюрократии",
+    "direction": "Ресурсы тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/202.webp",
+    "previous_source": "../assets/articles/202.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 158,
+    "title": "Как организовать базу клиентов и историю работы",
+    "direction": "Ресурсы тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/203.webp",
+    "previous_source": "../assets/articles/203.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 159,
+    "title": "Как использовать партнёрские ресурсы Академии в практике",
+    "direction": "Ресурсы тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/204.webp",
+    "previous_source": "../assets/articles/204.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 160,
+    "title": "Как собрать личный рабочий кабинет тренера",
+    "direction": "Ресурсы тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/205.webp",
+    "previous_source": "../assets/articles/205.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 161,
+    "title": "Как работает партнёрская программа Smart Fitness",
+    "direction": "Партнёрская программа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/205.webp",
+    "previous_source": "../assets/articles/205.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 162,
+    "title": "Как правильно передавать ученика на обучение",
+    "direction": "Партнёрская программа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/208.webp",
+    "previous_source": "../assets/articles/208.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 163,
+    "title": "Что важно знать о начислении партнёрского процента",
+    "direction": "Партнёрская программа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/209.webp",
+    "previous_source": "../assets/articles/209.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 164,
+    "title": "Как клуб может участвовать в подготовке будущих тренеров",
+    "direction": "Партнёрская программа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/210.webp",
+    "previous_source": "../assets/articles/210.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 165,
+    "title": "Как встроить партнёрскую программу в работу специалиста",
+    "direction": "Партнёрская программа",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/211.webp",
+    "previous_source": "../assets/articles/211.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 166,
+    "title": "Как сформулировать оффер фитнес-тренера для своего города",
+    "direction": "Продажи и личный бренд тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/154.webp",
+    "previous_source": "../assets/articles/154.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 167,
+    "title": "Как отвечать на «дорого» без демпинга",
+    "direction": "Продажи и личный бренд тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/155.webp",
+    "previous_source": "../assets/articles/155.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 168,
+    "title": "Как оформить профиль тренера так, чтобы было понятно, что он продаёт",
+    "direction": "Продажи и личный бренд тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/181.webp",
+    "previous_source": "../assets/articles/181.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 169,
+    "title": "Как вести контент, который приводит к диалогу",
+    "direction": "Продажи и личный бренд тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/185.webp",
+    "previous_source": "../assets/articles/185.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 170,
+    "title": "Как построить путь от первого сообщения до покупки пакета",
+    "direction": "Продажи и личный бренд тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/190.webp",
+    "previous_source": "../assets/articles/190.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 171,
+    "title": "Что из биохакинга действительно применимо в работе тренера",
+    "direction": "Биохакинг для тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/143.webp",
+    "previous_source": "../assets/articles/143.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 172,
+    "title": "Как отделять практические методы от маркетинговых обещаний",
+    "direction": "Биохакинг для тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/171-unique.webp",
+    "previous_source": "../assets/articles/171-unique.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 173,
+    "title": "Как обсуждать сон и восстановление без псевдонаучных рекомендаций",
+    "direction": "Биохакинг для тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/173-unique.webp",
+    "previous_source": "../assets/articles/173-unique.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 174,
+    "title": "Какие показатели имеет смысл отслеживать у клиента",
+    "direction": "Биохакинг для тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/175-unique.webp",
+    "previous_source": "../assets/articles/175-unique.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 175,
+    "title": "Как не превращать консультацию тренера в медицинскую услугу",
+    "direction": "Биохакинг для тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/117.webp",
+    "previous_source": "../assets/articles/117.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 176,
+    "title": "Как устроен цикл фитнес-сопровождения 12–16 недель",
+    "direction": "Сопровождение Самата Назирова",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/176.webp",
+    "previous_source": "../assets/articles/176.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 177,
+    "title": "Как проходит еженедельный чек-ин клиента",
+    "direction": "Сопровождение Самата Назирова",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/178.webp",
+    "previous_source": "../assets/articles/178.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 178,
+    "title": "Как Smart OPT используется в сопровождении",
+    "direction": "Сопровождение Самата Назирова",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/179.webp",
+    "previous_source": "../assets/articles/179.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 179,
+    "title": "Как корректировать нагрузку по обратной связи клиента",
+    "direction": "Сопровождение Самата Назирова",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/181.webp",
+    "previous_source": "../assets/articles/181.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 180,
+    "title": "Что делать после завершения цикла сопровождения",
+    "direction": "Сопровождение Самата Назирова",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/185.webp",
+    "previous_source": "../assets/articles/185.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 181,
+    "title": "Когда фитнес-проекту нужен консалтинг",
+    "direction": "Консалтинг Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/consulting-181.webp",
+    "previous_source": "../assets/articles/consulting-181.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 182,
+    "title": "Какие данные подготовить к аудиту фитнес-студии",
+    "direction": "Консалтинг Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/consulting-182.webp",
+    "previous_source": "../assets/articles/consulting-182.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 183,
+    "title": "Как проходит работа от диагностики до внедрения",
+    "direction": "Консалтинг Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/consulting-183.webp",
+    "previous_source": "../assets/articles/consulting-183.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 184,
+    "title": "Какие процессы в клубе чаще всего требуют систематизации",
+    "direction": "Консалтинг Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/consulting-184.webp",
+    "previous_source": "../assets/articles/consulting-184.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 185,
+    "title": "Как оценить результат консалтинга по измеримым показателям",
+    "direction": "Консалтинг Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/consulting-185.webp",
+    "previous_source": "../assets/articles/consulting-185.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 186,
+    "title": "Как планировать неделю тренера при плотном расписании",
+    "direction": "Личная эффективность тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/efficiency-186.webp",
+    "previous_source": "../assets/articles/efficiency-186.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 187,
+    "title": "Как не терять клиентов и задачи в чатах",
+    "direction": "Личная эффективность тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/efficiency-187.webp",
+    "previous_source": "../assets/articles/efficiency-187.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 188,
+    "title": "Как разбирать конфликт с клиентом или коллегой",
+    "direction": "Личная эффективность тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/efficiency-188.webp",
+    "previous_source": "../assets/articles/efficiency-188.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 189,
+    "title": "Как контролировать нагрузку и не превращать занятость в выгорание",
+    "direction": "Личная эффективность тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/efficiency-189.webp",
+    "previous_source": "../assets/articles/efficiency-189.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 190,
+    "title": "Как построить рабочую систему на следующие 14 дней",
+    "direction": "Личная эффективность тренера",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/efficiency-190.webp",
+    "previous_source": "../assets/articles/efficiency-190.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 191,
+    "title": "Что даёт подписка Smart Fitness PRO действующему тренеру",
+    "direction": "Smart Fitness PRO",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/191.webp",
+    "previous_source": "../assets/articles/191.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 192,
+    "title": "Какие задачи удобно решать внутри PRO каждую неделю",
+    "direction": "Smart Fitness PRO",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/192.webp",
+    "previous_source": "../assets/articles/192.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 193,
+    "title": "Как использовать шаблоны и разборы без накопления материалов",
+    "direction": "Smart Fitness PRO",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/193.webp",
+    "previous_source": "../assets/articles/193.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 194,
+    "title": "Когда PRO достаточно, а когда нужен отдельный курс",
+    "direction": "Smart Fitness PRO",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/195.webp",
+    "previous_source": "../assets/articles/195.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 195,
+    "title": "Как встроить PRO в систему регулярного профессионального развития",
+    "direction": "Smart Fitness PRO",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/190.webp",
+    "previous_source": "../assets/articles/190.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 196,
+    "title": "Франшиза Smart Fitness: кабинет партнёра или городской центр",
+    "direction": "Франшиза Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/196-franchise-partner-new.webp",
+    "previous_source": "../assets/articles/196-franchise-partner-new.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 197,
+    "title": "Что входит в суммы 350 000 ₽ и 790 000 ₽ по франшизе Smart Fitness",
+    "direction": "Франшиза Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/197.webp",
+    "previous_source": "../assets/articles/197.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 198,
+    "title": "Как запустить город Smart Fitness: от договора до первого набора",
+    "direction": "Франшиза Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/198.webp",
+    "previous_source": "../assets/articles/198.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 199,
+    "title": "Экономика франшизы Smart Fitness: как считать модель кабинета",
+    "direction": "Франшиза Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/237.webp",
+    "previous_source": "../assets/articles/237.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 200,
+    "title": "Франшиза Smart Fitness: территория, правила и требования к партнёру",
+    "direction": "Франшиза Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/200-franchise-territory-new.webp",
+    "previous_source": "../assets/articles/200-franchise-territory-new.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 201,
+    "title": "Как вести клиента в Тренерке от первой анкеты до плана",
+    "direction": "Тренерка и рабочий кабинет",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/201.webp",
+    "previous_source": "../assets/articles/201.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 202,
+    "title": "Какие данные тренеру нужно фиксировать в рабочем кабинете",
+    "direction": "Тренерка и рабочий кабинет",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/202.webp",
+    "previous_source": "../assets/articles/202.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 203,
+    "title": "Как использовать чек-ин для корректировки программы",
+    "direction": "Тренерка и рабочий кабинет",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/203.webp",
+    "previous_source": "../assets/articles/203.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 204,
+    "title": "Как не превращать цифровой кабинет в склад заметок",
+    "direction": "Тренерка и рабочий кабинет",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/204.webp",
+    "previous_source": "../assets/articles/204.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 205,
+    "title": "Как связать работу тренера в зале и онлайн-сопровождение",
+    "direction": "Тренерка и рабочий кабинет",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/205.webp",
+    "previous_source": "../assets/articles/205.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 206,
+    "title": "Как искать клуб для первой практики",
+    "direction": "Карта клубов и партнёры",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/206-clubs.webp",
+    "previous_source": "../assets/articles/206-clubs.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 207,
+    "title": "Как оценить площадку перед договорённостью о практике",
+    "direction": "Карта клубов и партнёры",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/207-clubs.webp",
+    "previous_source": "../assets/articles/207-clubs.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 208,
+    "title": "Что уточнить у клуба до первого занятия",
+    "direction": "Карта клубов и партнёры",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/208-clubs.webp",
+    "previous_source": "../assets/articles/208-clubs.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 209,
+    "title": "Как использовать партнёрскую сеть Академии при поиске площадки",
+    "direction": "Карта клубов и партнёры",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/209-clubs.webp",
+    "previous_source": "../assets/articles/209-clubs.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 210,
+    "title": "Как подготовиться к работе в новом городе",
+    "direction": "Карта клубов и партнёры",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/210-clubs.webp",
+    "previous_source": "../assets/articles/210-clubs.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 211,
+    "title": "Как использовать КБЖУ-калькулятор на первой встрече с клиентом",
+    "direction": "Калькулятор КБЖУ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-116.webp",
+    "previous_source": "../assets/articles/nutrition-116.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 212,
+    "title": "Какие данные нужны для расчёта калорий и белка",
+    "direction": "Калькулятор КБЖУ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-117.webp",
+    "previous_source": "../assets/articles/nutrition-117.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 213,
+    "title": "Как объяснить клиенту результат расчёта",
+    "direction": "Калькулятор КБЖУ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-118.webp",
+    "previous_source": "../assets/articles/nutrition-118.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 214,
+    "title": "Почему расчёт — отправная точка, а не готовая диета",
+    "direction": "Калькулятор КБЖУ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-119.webp",
+    "previous_source": "../assets/articles/nutrition-119.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 215,
+    "title": "Как использовать расчёт в дальнейшем сопровождении",
+    "direction": "Калькулятор КБЖУ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/nutrition-120.webp",
+    "previous_source": "../assets/articles/nutrition-120.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 216,
+    "title": "Что такое 1ПМ и зачем тренеру его рассчитывать",
+    "direction": "Калькулятор 1ПМ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/013.webp",
+    "previous_source": "../assets/articles/013.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 217,
+    "title": "Как использовать расчёт рабочего веса без максимального подхода",
+    "direction": "Калькулятор 1ПМ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/016.webp",
+    "previous_source": "../assets/articles/016.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 218,
+    "title": "Как интерпретировать 1ПМ при планировании нагрузки",
+    "direction": "Калькулятор 1ПМ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/017.webp",
+    "previous_source": "../assets/articles/017.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 219,
+    "title": "Как сравнивать динамику силы клиента",
+    "direction": "Калькулятор 1ПМ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/018.webp",
+    "previous_source": "../assets/articles/018.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 220,
+    "title": "Какие ограничения нужно учитывать при расчёте",
+    "direction": "Калькулятор 1ПМ",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/193.webp",
+    "previous_source": "../assets/articles/193.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 221,
+    "title": "Как тренеру разбирать технику базового упражнения",
+    "direction": "Техника базовых упражнений",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/007.webp",
+    "previous_source": "../assets/articles/007.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 222,
+    "title": "Как давать короткую и понятную корректировку",
+    "direction": "Техника базовых упражнений",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/013.webp",
+    "previous_source": "../assets/articles/013.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 223,
+    "title": "Как выбрать ключевую ошибку вместо списка замечаний",
+    "direction": "Техника базовых упражнений",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/017.webp",
+    "previous_source": "../assets/articles/017.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 224,
+    "title": "Как проверять технику по видео",
+    "direction": "Техника базовых упражнений",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/019.webp",
+    "previous_source": "../assets/articles/019.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 225,
+    "title": "Как фиксировать технический прогресс клиента",
+    "direction": "Техника базовых упражнений",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/222.webp",
+    "previous_source": "../assets/articles/222.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 226,
+    "title": "Как фитнес-клубу определить потребности команды в обучении",
+    "direction": "Корпоративное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-226.webp",
+    "previous_source": "../assets/articles/corp-training-226.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 227,
+    "title": "Как составить корпоративную программу развития тренеров",
+    "direction": "Корпоративное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-227.webp",
+    "previous_source": "../assets/articles/corp-training-227.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 228,
+    "title": "Как организовать обучение без остановки работы клуба",
+    "direction": "Корпоративное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-228.webp",
+    "previous_source": "../assets/articles/corp-training-228.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 229,
+    "title": "Какие компетенции команды проверять после обучения",
+    "direction": "Корпоративное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-229.webp",
+    "previous_source": "../assets/articles/corp-training-229.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 230,
+    "title": "Как сделать корпоративное обучение регулярным процессом",
+    "direction": "Корпоративное обучение",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-230.webp",
+    "previous_source": "../assets/articles/corp-training-230.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 231,
+    "title": "Как компании выбрать формат корпоративного фитнеса",
+    "direction": "Корпоративный спорт",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-sport-231.webp",
+    "previous_source": "../assets/articles/corp-sport-231.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 232,
+    "title": "Как запустить первую корпоративную тренировочную программу",
+    "direction": "Корпоративный спорт",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-sport-232.webp",
+    "previous_source": "../assets/articles/corp-sport-232.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 233,
+    "title": "Как подобрать формат под разный уровень сотрудников",
+    "direction": "Корпоративный спорт",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-sport-233.webp",
+    "previous_source": "../assets/articles/corp-sport-233.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 234,
+    "title": "Как измерять участие сотрудников в программе",
+    "direction": "Корпоративный спорт",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-sport-234.webp",
+    "previous_source": "../assets/articles/corp-sport-234.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 235,
+    "title": "Как развивать корпоративный спорт после первого месяца",
+    "direction": "Корпоративный спорт",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-sport-235.webp",
+    "previous_source": "../assets/articles/corp-sport-235.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 236,
+    "title": "Какие документы важно проверить перед обучением фитнес-тренера",
+    "direction": "Документы и лицензия",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/236-unique.webp",
+    "previous_source": "../assets/articles/141.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 237,
+    "title": "Чем сертификат отличается от диплома в рамках обучения",
+    "direction": "Документы и лицензия",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/237-unique.webp",
+    "previous_source": "../assets/articles/142.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 238,
+    "title": "Что нужно знать о лицензии образовательной организации",
+    "direction": "Документы и лицензия",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/238-unique.webp",
+    "previous_source": "../assets/articles/147.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 239,
+    "title": "Когда имеет смысл уточнять требования конкретного клуба",
+    "direction": "Документы и лицензия",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/239-unique.webp",
+    "previous_source": "../assets/articles/149.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 240,
+    "title": "Как хранить документы и подтверждения обучения",
+    "direction": "Документы и лицензия",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/240-unique.webp",
+    "previous_source": "../assets/articles/236-unique.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 241,
+    "title": "Как действовать в первую неделю после получения диплома",
+    "direction": "Трудоустройство после обучения",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/223.webp",
+    "previous_source": "../assets/articles/223.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 242,
+    "title": "Как подготовиться к отклику в фитнес-клуб",
+    "direction": "Трудоустройство после обучения",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/224.webp",
+    "previous_source": "../assets/articles/224.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 243,
+    "title": "Как показать практические навыки без большого стажа",
+    "direction": "Трудоустройство после обучения",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/225.webp",
+    "previous_source": "../assets/articles/225.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 244,
+    "title": "Как подготовиться к пробному занятию при найме",
+    "direction": "Трудоустройство после обучения",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/243.webp",
+    "previous_source": "../assets/articles/243.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 245,
+    "title": "Как перейти от первой вакансии к стабильной практике",
+    "direction": "Трудоустройство после обучения",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/244.webp",
+    "previous_source": "../assets/articles/244.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 246,
+    "title": "Что означает роль регионального лидера Smart Fitness",
+    "direction": "Региональный лидер Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-226.webp",
+    "previous_source": "../assets/articles/corp-training-226.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 247,
+    "title": "Как строится работа с тренерами в регионе",
+    "direction": "Региональный лидер Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-227.webp",
+    "previous_source": "../assets/articles/corp-training-227.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 248,
+    "title": "Какие задачи региональный лидер может закрывать на местном уровне",
+    "direction": "Региональный лидер Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-228.webp",
+    "previous_source": "../assets/articles/corp-training-228.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 249,
+    "title": "Как развивать профессиональное сообщество тренеров в городе",
+    "direction": "Региональный лидер Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-229.webp",
+    "previous_source": "../assets/articles/corp-training-229.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  },
+  {
+    "num": 250,
+    "title": "Как оценивать развитие регионального направления",
+    "direction": "Региональный лидер Smart Fitness",
+    "source_type": "portfolio_curated_existing_visual",
+    "source": "../assets/articles/corp-training-230.webp",
+    "previous_source": "../assets/articles/corp-training-230.webp",
+    "selection_note": "Selected from the existing high-quality visual pool for this editorial direction; no stock image introduced."
+  }
+]
